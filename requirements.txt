@@ -1,0 +1,23 @@
+Appium-Python-Client
+requests
+typing
+Faker
+html-testRunner
+robotframework
+robotframework-appiumlibrary==1.6
+robotframework-faker
+robotframework-metrics
+robotframework-pabot
+robotframework-requests
+robotframework-seleniumlibrary
+robotframework-sshlibrary==3.3.0
+robotframework-datadriver
+retry
+restinstance
+lxml
+pillow
+curlify
+# git+https://github.com/alirezatjk/robotframework-metrics.git
+sentry_sdk
+BeautifulSoup4
+geopy

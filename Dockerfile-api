@@ -1,0 +1,7 @@
+FROM registry.mielse.com/qa/test-dockers/python:3.6-alpine
+COPY api_docker_requirements.txt /project/api_docker_requirements.txt
+WORKDIR /project
+RUN pip install -r /project/api_docker_requirements.txt
+ADD . .
+ENTRYPOINT ["ash", "api.sh"]
+CMD ["3.0.2"]
