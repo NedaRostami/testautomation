@@ -1,0 +1,110 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "totalCount": {
+                    "type": "string"
+                },
+                "listings": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "listingID": {
+                                "type": "string"
+                            },
+                            "title": {
+                                "type": "string"
+                            },
+                            "thumbImageURL": {
+                                "type": "string"
+                            },
+                            "locationName": {
+                                "type": "string"
+                            },
+                            "attributes": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "properties": {
+                                        "attributeID": {
+                                            "type": ["integer", "string"]
+                                        },
+                                        "attributeValue": {
+                                            "type": ["integer", "string"]
+                                        }
+                                    },
+                                    "required": [
+                                        "attributeID",
+                                        "attributeValue"
+                                    ]
+                                }
+                            },
+                            "separatorFlag": {
+                                "type": "boolean"
+                            },
+                            "separatorMessage": {
+                                "type": "string"
+                            },
+                            "priceString": {
+                                "type": "string"
+                            },
+                            "bumpStatus": {
+                                "type": "string"
+                            },
+                            "ci": {
+                                "type": "string"
+                            },
+                            "canBeBumped": {
+                                "type": "boolean"
+                            },
+                            "moderationStatus": {
+                                "type": "integer"
+                            },
+                            "expirationDateString": {
+                                "type": "string"
+                            },
+                            "categoryID": {
+                                "type": "integer"
+                            },
+                            "locationID": {
+                                "type": "integer"
+                            },
+                            "locationType": {
+                                "type": "integer"
+                            },
+                            "imagesCount": {
+                                "type": "integer"
+                            }
+                        },
+                        "required": [
+                            "attributes",
+                            "bumpStatus",
+                            "canBeBumped",
+                            "categoryID",
+                            "ci",
+                            "expirationDateString",
+                            "imagesCount",
+                            "listingID",
+                            "locationID",
+                            "locationName",
+                            "locationType",
+                            "moderationStatus",
+                            "priceString",
+                            "separatorFlag",
+                            "separatorMessage",
+                            "thumbImageURL",
+                            "title"
+                        ]
+                    }
+                }
+            },
+            "required": [
+                "listings",
+                "totalCount"
+            ]
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "totalCount": {
+                    "type": "integer"
+                },
+                "requestDateTime": {
+                    "type": "string"
+                },
+                "lastReceivedValue": {
+                    "type": ["string", "null"]
+                },
+                "serpMixItems": {
+                    "type": ["string", "null"]
+                },
+                "listings": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "listingID": {
+                                "type": "string"
+                            },
+                            "title": {
+                                "type": "string"
+                            },
+                            "thumbImageURL": {
+                                "type": "string"
+                            },
+                            "locationName": {
+                                "type": "string"
+                            },
+                            "attributes": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "properties": {
+                                        "attributeID": {
+                                            "type": ["integer", "string", "null"]
+                                        },
+                                        "attributeValue": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "required": [
+                                        "attributeID",
+                                        "attributeValue"
+                                    ]
+                                }
+                            },
+                            "separatorFlag": {
+                                "type": "boolean"
+                            },
+                            "separatorMessage": {
+                                "type": "string"
+                            },
+                            "priceString": {
+                                "type": "string"
+                            },
+                            "bumpStatus": {
+                                "type": "string"
+                            },
+                            "ci": {
+                                "type": "string"
+                            },
+                            "lastModifiedDateString": {
+                                "type": "string"
+                            },
+                            "isBumped": {
+                                "type": "boolean"
+                            }
+                        },
+                        "required": [
+                            "attributes",
+                            "bumpStatus",
+                            "ci",
+                            "isBumped",
+                            "lastModifiedDateString",
+                            "listingID",
+                            "locationName",
+                            "priceString",
+                            "separatorFlag",
+                            "separatorMessage",
+                            "thumbImageURL",
+                            "title"
+                        ]
+                    }
+                }
+            },
+            "required": [
+                "lastReceivedValue",
+                "listings",
+                "requestDateTime",
+                "serpMixItems",
+                "totalCount"
+            ]
+        }
+    }
+}

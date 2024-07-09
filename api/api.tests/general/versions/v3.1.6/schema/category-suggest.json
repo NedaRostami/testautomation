@@ -1,0 +1,27 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "title": {
+                        "type": "string"
+                    },
+                    "subtitle": {
+                        "type": "string"
+                    },
+                    "queryString": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "queryString",
+                    "subtitle",
+                    "title"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "categoriesData": {
+                    "type": "integer"
+                },
+                "locationsData": {
+                    "type": "integer"
+                },
+                "complaintTypesData": {
+                    "type": "integer"
+                },
+                "feedbackCategoriesData": {
+                    "type": "integer"
+                }
+            },
+            "required": [
+                "categoriesData",
+                "complaintTypesData",
+                "feedbackCategoriesData",
+                "locationsData"
+            ]
+        }
+    }
+}

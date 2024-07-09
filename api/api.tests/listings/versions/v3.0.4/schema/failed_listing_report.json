@@ -1,0 +1,28 @@
+{
+    "properties": {
+        "body": {
+            "properties": {
+                "error": {
+                    "properties": {
+                        "errorMessage": {
+                            "type": "string"
+                        },
+                        "errorCode": {
+                            "type": "integer"
+                        }
+                    },
+                    "type": "object",
+                    "required": [
+                        "errorCode",
+                        "errorMessage"
+                    ]
+                }
+            },
+            "type": "object",
+            "required": [
+                "error"
+            ]
+        }
+    },
+    "type": "object"
+}

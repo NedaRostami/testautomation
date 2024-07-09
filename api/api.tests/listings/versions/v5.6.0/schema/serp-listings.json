@@ -1,0 +1,107 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "totalCount": {
+                    "type": "integer"
+                },
+                "requestDateTime": {
+                    "type": "string"
+                },
+                "lastReceivedValue": {
+                    "type": ["null", "string"]
+                },
+                "serpMixItems": {
+                    "type": ["null", "string"]
+                },
+                "listings": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "listingID": {
+                                "type": "string"
+                            },
+                            "title": {
+                                "type": "string"
+                            },
+                            "location": {
+                                "type": "object",
+                                "properties": {
+                                    "region": {
+                                        "type": ["string", "null"]
+                                    },
+                                    "city": {
+                                        "type": ["string", "null"]
+                                    },
+                                    "neighbourhood": {
+                                        "type": ["string", "null"]
+                                    }
+                                },
+                                "required": [
+                                    "city",
+                                    "neighbourhood",
+                                    "region"
+                                ]
+                            },
+                            "priceString": {
+                                "type": "string"
+                            },
+                            "sortInfo": {
+                                "type": "string"
+                            },
+                            "contactInfo": {
+                                "type": "string"
+                            },
+                            "thumbImageURL": {
+                                "type": "string"
+                            },
+                            "isBumped": {
+                                "type": "boolean"
+                            },
+                            "separatorMessage": {
+                                "type": ["string", "null"]
+                            },
+                            "type": {
+                                "type": "string"
+                            },
+                            "shopLogo": {
+                                "type": ["null", "string"]
+                            },
+                            "isSpecial": {
+                                "type": "integer"
+                            },
+                            "isSpecialInHome": {
+                                "type": "integer"
+                            }
+                        },
+                        "required": [
+                            "contactInfo",
+                            "isBumped",
+                            "isSpecial",
+                            "isSpecialInHome",
+                            "listingID",
+                            "location",
+                            "priceString",
+                            "separatorMessage",
+                            "shopLogo",
+                            "sortInfo",
+                            "thumbImageURL",
+                            "title",
+                            "type"
+                        ]
+                    }
+                }
+            },
+            "required": [
+                "lastReceivedValue",
+                "listings",
+                "requestDateTime",
+                "serpMixItems",
+                "totalCount"
+            ]
+        }
+    }
+}

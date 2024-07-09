@@ -1,0 +1,13284 @@
+[
+{
+provinceID: 1,
+name: "آذربایجان شرقی",
+slug: "آذربایجان-شرقی",
+cities: [
+{
+cityID: 1,
+name: "اسکو",
+slug: "اسکو",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 2,
+name: "اهر",
+slug: "اهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 3,
+name: "ایلخچی",
+slug: "ایلخچی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 4,
+name: "آبش احمد",
+slug: "آبش-احمد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 5,
+name: "آذرشهر",
+slug: "آذرشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 6,
+name: "آقکند",
+slug: "آقکند",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 7,
+name: "باسمنج",
+slug: "باسمنج",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 8,
+name: "بخشایش",
+slug: "بخشایش",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 9,
+name: "بستان آباد",
+slug: "بستان-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 10,
+name: "بناب",
+slug: "بناب",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 11,
+name: "بناب جدید",
+slug: "بناب-جدید",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 12,
+name: "تبریز",
+slug: "تبریز",
+isCapital: "1",
+districts: [
+{
+districtID: 6060,
+name: "آخماقایا"
+},
+{
+districtID: 5149,
+name: "آخونی"
+},
+{
+districtID: 4510,
+name: "ارم"
+},
+{
+districtID: 4513,
+name: "استادان"
+},
+{
+districtID: 6084,
+name: "اسلام آباد"
+},
+{
+districtID: 6006,
+name: "الهی پرست"
+},
+{
+districtID: 6048,
+name: "الهیه"
+},
+{
+districtID: 6054,
+name: "امام خمینی"
+},
+{
+districtID: 4525,
+name: "امیر خیز"
+},
+{
+districtID: 5994,
+name: "اندیشه"
+},
+{
+districtID: 4528,
+name: "انقلاب"
+},
+{
+districtID: 4533,
+name: "اهراب"
+},
+{
+districtID: 4545,
+name: "بارنج"
+},
+{
+districtID: 6024,
+name: "بازار"
+},
+{
+districtID: 6030,
+name: "باغ شمال"
+},
+{
+districtID: 6075,
+name: "باغ یعقوب"
+},
+{
+districtID: 5979,
+name: "باغچه بان"
+},
+{
+districtID: 4549,
+name: "باغمیشه - منطقه ۱"
+},
+{
+districtID: 6078,
+name: "باغمیشه ۲"
+},
+{
+districtID: 6042,
+name: "برنجیان"
+},
+{
+districtID: 5988,
+name: "بهاران"
+},
+{
+districtID: 4559,
+name: "بهارستان"
+},
+{
+districtID: 4643,
+name: "بهشتی - منطقه ۱"
+},
+{
+districtID: 5973,
+name: "بهشتی - منطقه ۶"
+},
+{
+districtID: 4562,
+name: "بیلان‌ کوه"
+},
+{
+districtID: 4566,
+name: "پرواز"
+},
+{
+districtID: 4569,
+name: "پل سنگی"
+},
+{
+districtID: 6063,
+name: "جلالیه"
+},
+{
+districtID: 5152,
+name: "جمشیدآباد"
+},
+{
+districtID: 4575,
+name: "چرنداب"
+},
+{
+districtID: 4578,
+name: "چوست‌ دوزان"
+},
+{
+districtID: 5997,
+name: "حافظ"
+},
+{
+districtID: 4581,
+name: "حکم آباد"
+},
+{
+districtID: 6072,
+name: "خاوران"
+},
+{
+districtID: 4593,
+name: "خطیب"
+},
+{
+districtID: 4597,
+name: "خیابان"
+},
+{
+districtID: 5164,
+name: "دادگستری"
+},
+{
+districtID: 6057,
+name: "دامپزشکی"
+},
+{
+districtID: 4629,
+name: "دوه چی"
+},
+{
+districtID: 4600,
+name: "دیزل آباد"
+},
+{
+districtID: 5165,
+name: "راه آهن"
+},
+{
+districtID: 4606,
+name: "رجایی شهر"
+},
+{
+districtID: 4610,
+name: "رشدیه"
+},
+{
+districtID: 4613,
+name: "رضوانشهر"
+},
+{
+districtID: 6009,
+name: "رواسان"
+},
+{
+districtID: 4616,
+name: "زعفرانیه"
+},
+{
+districtID: 5158,
+name: "زمزم"
+},
+{
+districtID: 5159,
+name: "زنگوله باغ"
+},
+{
+districtID: 4619,
+name: "ساری زمین"
+},
+{
+districtID: 4622,
+name: "سرخاب"
+},
+{
+districtID: 5160,
+name: "سهند"
+},
+{
+districtID: 4626,
+name: "سیلاب"
+},
+{
+districtID: 4631,
+name: "ششگلان"
+},
+{
+districtID: 4632,
+name: "شمس آباد"
+},
+{
+districtID: 4633,
+name: "شنب غازان"
+},
+{
+districtID: 5991,
+name: "شهرک رازی"
+},
+{
+districtID: 6081,
+name: "شهریار"
+},
+{
+districtID: 4635,
+name: "صالح آباد"
+},
+{
+districtID: 6036,
+name: "طالقانی"
+},
+{
+districtID: 6045,
+name: "عمو زین الدین"
+},
+{
+districtID: 6000,
+name: "فرودگاه"
+},
+{
+districtID: 5167,
+name: "فرهنگیان"
+},
+{
+districtID: 4637,
+name: "قراملک"
+},
+{
+districtID: 4639,
+name: "قره آغاج"
+},
+{
+districtID: 5168,
+name: "قورخانه"
+},
+{
+districtID: 6066,
+name: "کوجوار"
+},
+{
+districtID: 4641,
+name: "کوچه باغ"
+},
+{
+districtID: 6027,
+name: "کوی ابریشم"
+},
+{
+districtID: 4516,
+name: "کوی رسالت"
+},
+{
+districtID: 4647,
+name: "کوی فردوس"
+},
+{
+districtID: 4649,
+name: "کوی لاله"
+},
+{
+districtID: 4651,
+name: "گلشهر"
+},
+{
+districtID: 5182,
+name: "گلکار"
+},
+{
+districtID: 5170,
+name: "لاک دیزک"
+},
+{
+districtID: 5985,
+name: "لیل آباد"
+},
+{
+districtID: 4652,
+name: "مارالان"
+},
+{
+districtID: 4654,
+name: "مخابرات"
+},
+{
+districtID: 4655,
+name: "مرزداران"
+},
+{
+districtID: 4658,
+name: "ملازینال"
+},
+{
+districtID: 6069,
+name: "منصور"
+},
+{
+districtID: 4660,
+name: "منظریه"
+},
+{
+districtID: 5174,
+name: "میلاد"
+},
+{
+districtID: 6003,
+name: "نارمک"
+},
+{
+districtID: 6051,
+name: "نصر"
+},
+{
+districtID: 6039,
+name: "نوبر"
+},
+{
+districtID: 4664,
+name: "نور"
+},
+{
+districtID: 5181,
+name: "ولی امر"
+},
+{
+districtID: 4666,
+name: "ولیعصر"
+},
+{
+districtID: 5982,
+name: "ولیعصر ۲"
+},
+{
+districtID: 5976,
+name: "ولیعصر جنوبی"
+},
+{
+districtID: 5175,
+name: "ویلاشهر"
+},
+{
+districtID: 4670,
+name: "یاغچیان"
+},
+{
+districtID: 5183,
+name: "یوسف آباد"
+}
+],
+allowedToFilterByDistrict: true
+},
+{
+cityID: 13,
+name: "ترک",
+slug: "ترک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 14,
+name: "ترکمانچای",
+slug: "ترکمانچای",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 15,
+name: "تسوج",
+slug: "تسوج",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 16,
+name: "تیکمه داش",
+slug: "تیکمه-داش",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 17,
+name: "جلفا",
+slug: "جلفا",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 18,
+name: "خاروانا",
+slug: "خاروانا",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 19,
+name: "خامنه",
+slug: "خامنه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 20,
+name: "خراجو",
+slug: "خراجو",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 21,
+name: "خسروشهر",
+slug: "خسروشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 22,
+name: "خضرلو",
+slug: "خضرلو",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 23,
+name: "خمارلو",
+slug: "خمارلو",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 24,
+name: "خواجه",
+slug: "خواجه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 25,
+name: "دوزدوزان",
+slug: "دوزدوزان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 26,
+name: "زرنق",
+slug: "زرنق",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 27,
+name: "زنوز",
+slug: "زنوز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 28,
+name: "سراب",
+slug: "سراب",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 29,
+name: "سردرود",
+slug: "سردرود",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 30,
+name: "سهند",
+slug: "سهند",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 31,
+name: "سیس",
+slug: "سیس",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 32,
+name: "سیه رود",
+slug: "سیه-رود",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 33,
+name: "شبستر",
+slug: "شبستر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 34,
+name: "شربیان",
+slug: "شربیان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 35,
+name: "شرفخانه",
+slug: "شرفخانه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 36,
+name: "شندآباد",
+slug: "شندآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 37,
+name: "صوفیان",
+slug: "صوفیان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 38,
+name: "عجب شیر",
+slug: "عجب-شیر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 39,
+name: "قره آغاج",
+slug: "قره-آغاج",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 40,
+name: "کشکسرای",
+slug: "کشکسرای",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 41,
+name: "کلوانق",
+slug: "کلوانق",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 42,
+name: "کلیبر",
+slug: "کلیبر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 43,
+name: "کوزه کنان",
+slug: "کوزه-کنان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 44,
+name: "گوگان",
+slug: "گوگان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 45,
+name: "لیلان",
+slug: "لیلان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 46,
+name: "مراغه",
+slug: "مراغه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 47,
+name: "مرند",
+slug: "مرند",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 48,
+name: "ملکان",
+slug: "ملکان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 49,
+name: "ملک کیان",
+slug: "ملک-کیان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 50,
+name: "ممقان",
+slug: "ممقان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 51,
+name: "مهربان",
+slug: "مهربان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 52,
+name: "میانه",
+slug: "میانه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 53,
+name: "نظرکهریزی",
+slug: "نظرکهریزی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 54,
+name: "هادی شهر",
+slug: "هادی-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 55,
+name: "هرگلان",
+slug: "هرگلان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 56,
+name: "هریس",
+slug: "هریس",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 57,
+name: "هشترود",
+slug: "هشترود",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 58,
+name: "هوراند",
+slug: "هوراند",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 59,
+name: "وایقان",
+slug: "وایقان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 60,
+name: "ورزقان",
+slug: "ورزقان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 61,
+name: "یامچی",
+slug: "یامچی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 2,
+name: "آذربایجان غربی",
+slug: "آذربایجان-غربی",
+cities: [
+{
+cityID: 62,
+name: "ارومیه",
+slug: "ارومیه",
+isCapital: "1",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 63,
+name: "اشنویه",
+slug: "اشنویه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 64,
+name: "ایواوغلی",
+slug: "ایواوغلی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 65,
+name: "آواجیق",
+slug: "آواجیق",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 66,
+name: "باروق",
+slug: "باروق",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 67,
+name: "بازرگان",
+slug: "بازرگان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 68,
+name: "بوکان",
+slug: "بوکان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 69,
+name: "پلدشت",
+slug: "پلدشت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 70,
+name: "پیرانشهر",
+slug: "پیرانشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 71,
+name: "تازه شهر",
+slug: "تازه-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 72,
+name: "تکاب",
+slug: "تکاب",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 73,
+name: "چهاربرج",
+slug: "چهاربرج",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 74,
+name: "خوی",
+slug: "خوی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 75,
+name: "دیزج دیز",
+slug: "دیزج-دیز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 76,
+name: "ربط",
+slug: "ربط",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 77,
+name: "سردشت",
+slug: "آذربایجان-غربی-سردشت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 78,
+name: "سرو",
+slug: "سرو",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 79,
+name: "سلماس",
+slug: "سلماس",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 80,
+name: "سیلوانه",
+slug: "سیلوانه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 81,
+name: "سیمینه",
+slug: "سیمینه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 82,
+name: "سیه چشمه",
+slug: "سیه-چشمه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 83,
+name: "شاهین دژ",
+slug: "شاهین-دژ",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 84,
+name: "شوط",
+slug: "شوط",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 85,
+name: "فیرورق",
+slug: "فیرورق",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 86,
+name: "قره ضیاءالدین",
+slug: "قره-ضیاءالدین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 87,
+name: "قطور",
+slug: "قطور",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 88,
+name: "قوشچی",
+slug: "قوشچی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 89,
+name: "کشاورز",
+slug: "کشاورز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 90,
+name: "گردکشانه",
+slug: "گردکشانه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 91,
+name: "ماکو",
+slug: "ماکو",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 92,
+name: "محمدیار",
+slug: "محمدیار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 93,
+name: "محمودآباد",
+slug: "آذربایجان-غربی-محمودآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 94,
+name: "مهاباد",
+slug: "آذربایجان-غربی-مهاباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 95,
+name: "میاندوآب",
+slug: "میاندوآب",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 96,
+name: "میرآباد",
+slug: "میرآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 97,
+name: "نالوس",
+slug: "نالوس",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 98,
+name: "نقده",
+slug: "نقده",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 99,
+name: "نوشین",
+slug: "نوشین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 3,
+name: "اردبیل",
+slug: "استان-اردبیل",
+cities: [
+{
+cityID: 100,
+name: "اردبیل",
+slug: "اردبیل",
+isCapital: "1",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 101,
+name: "اصلاندوز",
+slug: "اصلاندوز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 102,
+name: "آبی بیگلو",
+slug: "آبی-بیگلو",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 103,
+name: "بیله سوار",
+slug: "بیله-سوار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 104,
+name: "پارس آباد",
+slug: "پارس-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 105,
+name: "تازه کند",
+slug: "تازه-کند",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 106,
+name: "تازه کندانگوت",
+slug: "تازه-کندانگوت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 107,
+name: "جعفرآباد",
+slug: "جعفرآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 108,
+name: "خلخال",
+slug: "خلخال",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 109,
+name: "رضی",
+slug: "رضی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 110,
+name: "سرعین",
+slug: "سرعین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 111,
+name: "عنبران",
+slug: "عنبران",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 112,
+name: "فخرآباد",
+slug: "فخرآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 113,
+name: "کلور",
+slug: "کلور",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 114,
+name: "کوراییم",
+slug: "کوراییم",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 115,
+name: "گرمی",
+slug: "گرمی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 116,
+name: "گیوی",
+slug: "گیوی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 117,
+name: "لاهرود",
+slug: "لاهرود",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 118,
+name: "مشگین شهر",
+slug: "مشگین-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 119,
+name: "نمین",
+slug: "نمین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 120,
+name: "نیر",
+slug: "اردبیل-نیر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 121,
+name: "هشتجین",
+slug: "هشتجین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 122,
+name: "هیر",
+slug: "هیر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 4,
+name: "اصفهان",
+slug: "استان-اصفهان",
+cities: [
+{
+cityID: 123,
+name: "ابریشم",
+slug: "ابریشم",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 124,
+name: "ابوزیدآباد",
+slug: "ابوزیدآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 125,
+name: "اردستان",
+slug: "اردستان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 126,
+name: "اژیه",
+slug: "اژیه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 127,
+name: "اصفهان",
+slug: "اصفهان",
+isCapital: "1",
+districts: [
+{
+districtID: 5577,
+name: "۲۴ متری"
+},
+{
+districtID: 3623,
+name: "آبشار"
+},
+{
+districtID: 3641,
+name: "آپادانا"
+},
+{
+districtID: 4897,
+name: "آتشگاه"
+},
+{
+districtID: 3626,
+name: "آزادگان"
+},
+{
+districtID: 3629,
+name: "آفاران"
+},
+{
+districtID: 6591,
+name: "آیینه خانه"
+},
+{
+districtID: 3634,
+name: "ابن سینا"
+},
+{
+districtID: 4898,
+name: "احمدآباد"
+},
+{
+districtID: 3640,
+name: "الیادران"
+},
+{
+districtID: 3784,
+name: "امیریه"
+},
+{
+districtID: 3642,
+name: "بابوکان"
+},
+{
+districtID: 5583,
+name: "بازار"
+},
+{
+districtID: 5586,
+name: "بازوگاه"
+},
+{
+districtID: 3644,
+name: "باغ زیار"
+},
+{
+districtID: 4899,
+name: "باغ غدیر"
+},
+{
+districtID: 5589,
+name: "باغ کاران"
+},
+{
+districtID: 5592,
+name: "برازنده"
+},
+{
+districtID: 3648,
+name: "برزان"
+},
+{
+districtID: 6716,
+name: "بلوار شفق"
+},
+{
+districtID: 5613,
+name: "بهاران"
+},
+{
+districtID: 3658,
+name: "بهشت - آتشگاه"
+},
+{
+districtID: 3659,
+name: "بیدآباد"
+},
+{
+districtID: 5595,
+name: "بیسیم"
+},
+{
+districtID: 4901,
+name: "بیشه حبیب"
+},
+{
+districtID: 5598,
+name: "پایین دروازه"
+},
+{
+districtID: 5601,
+name: "تالار"
+},
+{
+districtID: 5604,
+name: "تل واسکان"
+},
+{
+districtID: 5607,
+name: "تیران"
+},
+{
+districtID: 3672,
+name: "جابر ابن عبدالله انصاری"
+},
+{
+districtID: 3674,
+name: "جاوان"
+},
+{
+districtID: 3676,
+name: "جروکان"
+},
+{
+districtID: 5610,
+name: "جوباره"
+},
+{
+districtID: 6581,
+name: "جوزدان"
+},
+{
+districtID: 5619,
+name: "چرخاب"
+},
+{
+districtID: 3686,
+name: "حسین آباد"
+},
+{
+districtID: 3689,
+name: "خانه اصفهان"
+},
+{
+districtID: 5622,
+name: "خواجو"
+},
+{
+districtID: 4902,
+name: "خوراسگان"
+},
+{
+districtID: 3693,
+name: "خیام"
+},
+{
+districtID: 3831,
+name: "دروازه تهران - خرم"
+},
+{
+districtID: 5625,
+name: "دستگرده"
+},
+{
+districtID: 5628,
+name: "دشتستان"
+},
+{
+districtID: 3697,
+name: "دنارت"
+},
+{
+districtID: 3699,
+name: "دهنو"
+},
+{
+districtID: 3700,
+name: "رباط"
+},
+{
+districtID: 3701,
+name: "ردان"
+},
+{
+districtID: 3703,
+name: "رزمندگان"
+},
+{
+districtID: 6596,
+name: "رکن الدوله شرقی"
+},
+{
+districtID: 5634,
+name: "رکن الدوله غربی"
+},
+{
+districtID: 5631,
+name: "رکن الدوله مرکزی"
+},
+{
+districtID: 6186,
+name: "رودکی"
+},
+{
+districtID: 4903,
+name: "روشن دشت"
+},
+{
+districtID: 3705,
+name: "رهنان"
+},
+{
+districtID: 5637,
+name: "زوان"
+},
+{
+districtID: 3707,
+name: "زینبیه"
+},
+{
+districtID: 4717,
+name: "سپاهان شهر"
+},
+{
+districtID: 6571,
+name: "سپه سالار - مصلی"
+},
+{
+districtID: 3713,
+name: "سعادت"
+},
+{
+districtID: 3715,
+name: "سودان"
+},
+{
+districtID: 3718,
+name: "سیچان"
+},
+{
+districtID: 5640,
+name: "شاهزید"
+},
+{
+districtID: 5643,
+name: "شهرستان"
+},
+{
+districtID: 3725,
+name: "شهرک بختیار دشت"
+},
+{
+districtID: 5646,
+name: "شهرک حاج میرازیی"
+},
+{
+districtID: 3726,
+name: "شهرک رسالت"
+},
+{
+districtID: 5649,
+name: "شهرک زاینده رود"
+},
+{
+districtID: 4681,
+name: "شهرک شهید محمد منتظری"
+},
+{
+districtID: 3728,
+name: "شهرک قدس"
+},
+{
+districtID: 5652,
+name: "شهرک کاوه"
+},
+{
+districtID: 5655,
+name: "شهرک میلاد"
+},
+{
+districtID: 6719,
+name: "شهرک ولیعصر کاوه"
+},
+{
+districtID: 4684,
+name: "شهیدان شرقی"
+},
+{
+districtID: 5658,
+name: "شهیش آباد"
+},
+{
+districtID: 3733,
+name: "شیخ صدوق شمالی"
+},
+{
+districtID: 3737,
+name: "شیخ مفید"
+},
+{
+districtID: 5661,
+name: "شیخ یوسف"
+},
+{
+districtID: 3739,
+name: "صدف"
+},
+{
+districtID: 6706,
+name: "صفه"
+},
+{
+districtID: 3820,
+name: "طوقچی"
+},
+{
+districtID: 3743,
+name: "عاشق آباد"
+},
+{
+districtID: 3745,
+name: "عباس آباد"
+},
+{
+districtID: 5664,
+name: "عسگریه"
+},
+{
+districtID: 3749,
+name: "عقیق"
+},
+{
+districtID: 5667,
+name: "فتح آباد"
+},
+{
+districtID: 3645,
+name: "فردوس"
+},
+{
+districtID: 3756,
+name: "فروردین"
+},
+{
+districtID: 5670,
+name: "فرهنگیان - سلمان فارسی"
+},
+{
+districtID: 3809,
+name: "فرهنگیان - معراج"
+},
+{
+districtID: 3760,
+name: "فلاطوری"
+},
+{
+districtID: 5673,
+name: "فیزادان"
+},
+{
+districtID: 3766,
+name: "قائمیه"
+},
+{
+districtID: 5676,
+name: "قلعه طبره"
+},
+{
+districtID: 3772,
+name: "کارلادان"
+},
+{
+districtID: 5616,
+name: "کلمان"
+},
+{
+districtID: 5679,
+name: "کلمه خواران"
+},
+{
+districtID: 6586,
+name: "کوجان"
+},
+{
+districtID: 3690,
+name: "کوی شهید کشوری"
+},
+{
+districtID: 3786,
+name: "گرکان"
+},
+{
+districtID: 5682,
+name: "گلبهار"
+},
+{
+districtID: 3788,
+name: "گلزار"
+},
+{
+districtID: 3789,
+name: "گلستان"
+},
+{
+districtID: 3792,
+name: "گورتان"
+},
+{
+districtID: 3793,
+name: "لادان"
+},
+{
+districtID: 3794,
+name: "لاله"
+},
+{
+districtID: 5685,
+name: "لنبان"
+},
+{
+districtID: 3797,
+name: "مارچین"
+},
+{
+districtID: 3798,
+name: "مارنان"
+},
+{
+districtID: 3802,
+name: "محله نو"
+},
+{
+districtID: 3804,
+name: "محمودآباد"
+},
+{
+districtID: 3736,
+name: "مرداویج"
+},
+{
+districtID: 5688,
+name: "مستهلک"
+},
+{
+districtID: 5691,
+name: "مفتح"
+},
+{
+districtID: 6611,
+name: "مفتح - ملک شهر"
+},
+{
+districtID: 3810,
+name: "ملاصدرا"
+},
+{
+districtID: 3812,
+name: "ملک شهر"
+},
+{
+districtID: 3815,
+name: "مولوی"
+},
+{
+districtID: 3816,
+name: "مهدی مظاهری"
+},
+{
+districtID: 5694,
+name: "مهرآباد"
+},
+{
+districtID: 3637,
+name: "میدان استقلال"
+},
+{
+districtID: 5697,
+name: "ناربند"
+},
+{
+districtID: 3826,
+name: "ناژوان"
+},
+{
+districtID: 3827,
+name: "ناصرخسرو"
+},
+{
+districtID: 3830,
+name: "نظر - بلوار ملت"
+},
+{
+districtID: 5700,
+name: "نقش جهان"
+},
+{
+districtID: 5703,
+name: "نگارستان"
+},
+{
+districtID: 4712,
+name: "نگین"
+},
+{
+districtID: 3832,
+name: "نورباران"
+},
+{
+districtID: 3836,
+name: "ولدان شهیدان"
+},
+{
+districtID: 3839,
+name: "هزار جریب"
+},
+{
+districtID: 5706,
+name: "همدانیان"
+},
+{
+districtID: 5709,
+name: "یزد آباد"
+}
+],
+allowedToFilterByDistrict: true
+},
+{
+cityID: 128,
+name: "افوس",
+slug: "افوس",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 129,
+name: "انارک",
+slug: "انارک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 130,
+name: "ایمانشهر",
+slug: "ایمانشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 131,
+name: "آران وبیدگل",
+slug: "آران-وبیدگل",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 132,
+name: "بادرود",
+slug: "بادرود",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 133,
+name: "باغ بهادران",
+slug: "باغ-بهادران",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 134,
+name: "بافران",
+slug: "بافران",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 135,
+name: "برزک",
+slug: "برزک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 136,
+name: "برف انبار",
+slug: "برف-انبار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 137,
+name: "بهاران شهر",
+slug: "بهاران-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 138,
+name: "بهارستان",
+slug: "بهارستان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 139,
+name: "بوئین و میاندشت",
+slug: "بوئین-میاندشت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 140,
+name: "پیربکران",
+slug: "پیربکران",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 141,
+name: "تودشک",
+slug: "تودشک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 142,
+name: "تیران",
+slug: "تیران",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 143,
+name: "جندق",
+slug: "جندق",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 144,
+name: "جوزدان",
+slug: "جوزدان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 145,
+name: "جوشقان و کامو",
+slug: "جوشقان-کامو",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 146,
+name: "چادگان",
+slug: "چادگان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 147,
+name: "چرمهین",
+slug: "چرمهین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 148,
+name: "چمگردان",
+slug: "چمگردان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 149,
+name: "حبیب آباد",
+slug: "حبیب-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 150,
+name: "حسن آباد",
+slug: "اصفهان-حسن-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 151,
+name: "حنا",
+slug: "حنا",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 152,
+name: "خالدآباد",
+slug: "خالدآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 153,
+name: "خمینی شهر",
+slug: "خمینی-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 154,
+name: "خوانسار",
+slug: "خوانسار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 155,
+name: "خور",
+slug: "اصفهان-خور",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 157,
+name: "خورزوق",
+slug: "خورزوق",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 158,
+name: "داران",
+slug: "داران",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 159,
+name: "دامنه",
+slug: "دامنه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 160,
+name: "درچه",
+slug: "درچه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 161,
+name: "دستگرد",
+slug: "دستگرد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 162,
+name: "دهاقان",
+slug: "دهاقان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 163,
+name: "دهق",
+slug: "دهق",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 164,
+name: "دولت آباد",
+slug: "اصفهان-دولت-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 165,
+name: "دیزیچه",
+slug: "دیزیچه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 166,
+name: "رزوه",
+slug: "رزوه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 167,
+name: "رضوانشهر",
+slug: "اصفهان-رضوانشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 168,
+name: "زاینده رود",
+slug: "زاینده-رود",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 169,
+name: "زرین شهر",
+slug: "زرین-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 170,
+name: "زواره",
+slug: "زواره",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 171,
+name: "زیباشهر",
+slug: "زیباشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 172,
+name: "سده لنجان",
+slug: "سده-لنجان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 173,
+name: "سفیدشهر",
+slug: "سفیدشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 174,
+name: "سگزی",
+slug: "سگزی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 175,
+name: "سمیرم",
+slug: "سمیرم",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 176,
+name: "شاهین شهر",
+slug: "شاهین-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 177,
+name: "شهرضا",
+slug: "شهرضا",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 178,
+name: "طالخونچه",
+slug: "طالخونچه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 179,
+name: "عسگران",
+slug: "عسگران",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 180,
+name: "علویجه",
+slug: "علویجه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 181,
+name: "فرخی",
+slug: "فرخی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 182,
+name: "فریدونشهر",
+slug: "فریدونشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 183,
+name: "فلاورجان",
+slug: "فلاورجان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 184,
+name: "فولادشهر",
+slug: "فولادشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 185,
+name: "قمصر",
+slug: "قمصر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 186,
+name: "قهجاورستان",
+slug: "قهجاورستان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 187,
+name: "قهدریجان",
+slug: "قهدریجان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 188,
+name: "کاشان",
+slug: "کاشان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 189,
+name: "کرکوند",
+slug: "کرکوند",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 190,
+name: "کلیشاد و سودرجان",
+slug: "کلیشاد-سودرجان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 191,
+name: "کمشچه",
+slug: "کمشچه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 192,
+name: "کمه",
+slug: "کمه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 193,
+name: "کهریزسنگ",
+slug: "کهریزسنگ",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 194,
+name: "کوشک",
+slug: "کوشک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 195,
+name: "کوهپایه",
+slug: "کوهپایه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 196,
+name: "گرگاب",
+slug: "گرگاب",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 197,
+name: "گزبرخوار",
+slug: "گزبرخوار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 198,
+name: "گلپایگان",
+slug: "گلپایگان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 199,
+name: "گلدشت",
+slug: "گلدشت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 200,
+name: "گلشهر",
+slug: "گلشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 201,
+name: "گوگد",
+slug: "گوگد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 202,
+name: "لای بید",
+slug: "لای-بید",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 203,
+name: "مبارکه",
+slug: "مبارکه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 204,
+name: "مجلسی",
+slug: "مجلسی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 205,
+name: "محمدآباد",
+slug: "اصفهان-محمدآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 206,
+name: "مشکات",
+slug: "مشکات",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 207,
+name: "منظریه",
+slug: "منظریه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 208,
+name: "مهاباد",
+slug: "اصفهان-مهاباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 209,
+name: "میمه",
+slug: "اصفهان-میمه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 210,
+name: "نائین",
+slug: "نائین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 211,
+name: "نجف آباد",
+slug: "نجف-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 212,
+name: "نصرآباد",
+slug: "اصفهان-نصرآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 213,
+name: "نطنز",
+slug: "نطنز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 214,
+name: "نوش آباد",
+slug: "نوش-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 215,
+name: "نیاسر",
+slug: "نیاسر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 216,
+name: "نیک آباد",
+slug: "نیک-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 217,
+name: "هرند",
+slug: "هرند",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 218,
+name: "ورزنه",
+slug: "ورزنه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 219,
+name: "ورنامخواست",
+slug: "ورنامخواست",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 220,
+name: "وزوان",
+slug: "وزوان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 221,
+name: "ونک",
+slug: "ونک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 5,
+name: "البرز",
+slug: "البرز",
+cities: [
+{
+cityID: 222,
+name: "اسارا",
+slug: "اسارا",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 223,
+name: "اشتهارد",
+slug: "اشتهارد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 224,
+name: "تنکمان",
+slug: "تنکمان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 225,
+name: "چهارباغ",
+slug: "چهارباغ",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 226,
+name: "سیف آباد",
+slug: "سیف-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 227,
+name: "شهر جدید هشتگرد",
+slug: "شهر-جدید-هشتگرد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 228,
+name: "طالقان",
+slug: "طالقان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 229,
+name: "کرج",
+slug: "کرج",
+isCapital: "1",
+districts: [
+{
+districtID: 4010,
+name: " مهرشهر فازهای 1، 2 و 3"
+},
+{
+districtID: 5496,
+name: " شهرک نور - مهرشهر"
+},
+{
+districtID: 3978,
+name: "آق تپه"
+},
+{
+districtID: 4910,
+name: "احمدیه"
+},
+{
+districtID: 4947,
+name: "اشتراکی - جهازی ها"
+},
+{
+districtID: 5460,
+name: "اصفهانیها"
+},
+{
+districtID: 3981,
+name: "باغستان"
+},
+{
+districtID: 3980,
+name: "برغان - اسلام آباد"
+},
+{
+districtID: 5490,
+name: "بنیاد"
+},
+{
+districtID: 3983,
+name: "جهانشهر"
+},
+{
+districtID: 4929,
+name: "چهارباغ"
+},
+{
+districtID: 4931,
+name: "چهارصد دستگاه"
+},
+{
+districtID: 5505,
+name: "حافظیه"
+},
+{
+districtID: 3985,
+name: "حسین آباد - مهرشهر"
+},
+{
+districtID: 3986,
+name: "حصار"
+},
+{
+districtID: 5481,
+name: "حصارک بالا"
+},
+{
+districtID: 3987,
+name: "حصارک پایین"
+},
+{
+districtID: 5457,
+name: "حیدر آباد"
+},
+{
+districtID: 6810,
+name: "خوشنام"
+},
+{
+districtID: 4969,
+name: "داریوش"
+},
+{
+districtID: 3991,
+name: "دولت آباد"
+},
+{
+districtID: 3992,
+name: "دهقان ویلا"
+},
+{
+districtID: 3993,
+name: "رزکان نو"
+},
+{
+districtID: 3995,
+name: "سرحدآباد"
+},
+{
+districtID: 3996,
+name: "شاهین ویلا"
+},
+{
+districtID: 4915,
+name: "شهرک ارم"
+},
+{
+districtID: 4916,
+name: "شهرک امام رضا"
+},
+{
+districtID: 3984,
+name: "شهرک اوج"
+},
+{
+districtID: 4948,
+name: "شهرک جهان نما"
+},
+{
+districtID: 4951,
+name: "شهرک ذوب آهن"
+},
+{
+districtID: 5502,
+name: "شهرک منظریه"
+},
+{
+districtID: 4000,
+name: "عظیمیه"
+},
+{
+districtID: 4960,
+name: "علی آباد گونه"
+},
+{
+districtID: 4964,
+name: "قلمستان"
+},
+{
+districtID: 4965,
+name: "کارخانه قند"
+},
+{
+districtID: 4002,
+name: "کرج نو"
+},
+{
+districtID: 4970,
+name: "کوی کارمندان جنوبی"
+},
+{
+districtID: 5475,
+name: "کوی کارمندان شمالی"
+},
+{
+districtID: 4971,
+name: "کوی مدرس"
+},
+{
+districtID: 4972,
+name: "کوی مهر"
+},
+{
+districtID: 4004,
+name: "کیانمهر"
+},
+{
+districtID: 4975,
+name: "گلستان یکم"
+},
+{
+districtID: 4005,
+name: "گلشهر"
+},
+{
+districtID: 4006,
+name: "گوهردشت - فاز ۱"
+},
+{
+districtID: 5472,
+name: "گوهردشت - فاز ۲"
+},
+{
+districtID: 6815,
+name: "گوهردشت-فاز3"
+},
+{
+districtID: 5523,
+name: "مهرشهر - فاز ۴"
+},
+{
+districtID: 5526,
+name: "مهرشهر - فاز ۵"
+},
+{
+districtID: 4011,
+name: "مهرویلا"
+},
+{
+districtID: 6820,
+name: "نبوت"
+},
+{
+districtID: 4990,
+name: "ولیعصر"
+}
+],
+allowedToFilterByDistrict: true
+},
+{
+cityID: 230,
+name: "کمال شهر",
+slug: "کمال-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 231,
+name: "کوهسار",
+slug: "کوهسار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 232,
+name: "گرمدره",
+slug: "گرمدره",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 233,
+name: "ماهدشت",
+slug: "ماهدشت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 234,
+name: "محمدشهر",
+slug: "البرز-محمدشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 235,
+name: "مشکین دشت",
+slug: "مشکین-دشت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 236,
+name: "نظرآباد",
+slug: "نظرآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 237,
+name: "هشتگرد",
+slug: "هشتگرد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1117,
+name: "فردیس",
+slug: "فردیس",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1118,
+name: "مارلیک",
+slug: "مارلیک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 6,
+name: "ایلام",
+slug: "استان-ایلام",
+cities: [
+{
+cityID: 238,
+name: "ارکواز",
+slug: "ارکواز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 239,
+name: "ایلام",
+slug: "ایلام",
+isCapital: "1",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 240,
+name: "ایوان",
+slug: "ایوان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 241,
+name: "آبدانان",
+slug: "آبدانان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 242,
+name: "آسمان آباد",
+slug: "آسمان-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 243,
+name: "بدره",
+slug: "بدره",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 244,
+name: "پهله",
+slug: "پهله",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 245,
+name: "توحید",
+slug: "توحید",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 246,
+name: "چوار",
+slug: "چوار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 247,
+name: "دره شهر",
+slug: "دره-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 248,
+name: "دلگشا",
+slug: "دلگشا",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 249,
+name: "دهلران",
+slug: "دهلران",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 250,
+name: "زرنه",
+slug: "زرنه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 251,
+name: "سراب باغ",
+slug: "سراب-باغ",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 252,
+name: "سرابله",
+slug: "سرابله",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 253,
+name: "صالح آباد",
+slug: "ایلام-صالح-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 254,
+name: "لومار",
+slug: "لومار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 255,
+name: "مهران",
+slug: "مهران",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 256,
+name: "مورموری",
+slug: "مورموری",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 257,
+name: "موسیان",
+slug: "موسیان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 258,
+name: "میمه",
+slug: "ایلام-میمه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 7,
+name: "بوشهر",
+slug: "اسان-بوشهر",
+cities: [
+{
+cityID: 259,
+name: "امام حسن",
+slug: "امام-حسن",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 260,
+name: "انارستان",
+slug: "انارستان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 261,
+name: "اهرم",
+slug: "اهرم",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 262,
+name: "آب پخش",
+slug: "آب-پخش",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 263,
+name: "آبدان",
+slug: "آبدان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 264,
+name: "برازجان",
+slug: "برازجان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 265,
+name: "بردخون",
+slug: "بردخون",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 266,
+name: "بندردیر",
+slug: "بندردیر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 267,
+name: "بندردیلم",
+slug: "بندردیلم",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 268,
+name: "بندرریگ",
+slug: "بندرریگ",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 269,
+name: "بندرکنگان",
+slug: "بندرکنگان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 270,
+name: "بندرگناوه",
+slug: "بندرگناوه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 271,
+name: "بنک",
+slug: "بنک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 272,
+name: "بوشهر",
+slug: "بوشهر",
+isCapital: "1",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 273,
+name: "تنگ ارم",
+slug: "تنگ-ارم",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 274,
+name: "جم",
+slug: "جم",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 275,
+name: "چغادک",
+slug: "چغادک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 276,
+name: "خارک",
+slug: "خارک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 277,
+name: "خورموج",
+slug: "خورموج",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 278,
+name: "دالکی",
+slug: "دالکی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 279,
+name: "دلوار",
+slug: "دلوار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 280,
+name: "ریز",
+slug: "ریز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 281,
+name: "سعدآباد",
+slug: "سعدآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 282,
+name: "سیراف",
+slug: "سیراف",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 283,
+name: "شبانکاره",
+slug: "شبانکاره",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 284,
+name: "شنبه",
+slug: "شنبه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 285,
+name: "عسلویه",
+slug: "عسلویه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 286,
+name: "کاکی",
+slug: "کاکی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 287,
+name: "کلمه",
+slug: "کلمه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 288,
+name: "نخل تقی",
+slug: "نخل-تقی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 289,
+name: "وحدتیه",
+slug: "وحدتیه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 8,
+name: "تهران",
+slug: "استان-تهران",
+cities: [
+{
+cityID: 290,
+name: "ارجمند",
+slug: "ارجمند",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 291,
+name: "اسلامشهر",
+slug: "اسلامشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 292,
+name: "اندیشه",
+slug: "اندیشه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 293,
+name: "آبسرد",
+slug: "آبسرد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 294,
+name: "آبعلی",
+slug: "آبعلی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 295,
+name: "باغستان",
+slug: "باغستان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 296,
+name: "باقرشهر",
+slug: "باقرشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 297,
+name: "بومهن",
+slug: "بومهن",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 298,
+name: "پاکدشت",
+slug: "پاکدشت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 299,
+name: "پردیس",
+slug: "پردیس",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 300,
+name: "پیشوا",
+slug: "پیشوا",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 301,
+name: "تهران",
+slug: "تهران",
+isCapital: "1",
+districts: [
+{
+districtID: 4793,
+name: " آگاهی"
+},
+{
+districtID: 4730,
+name: " صفا"
+},
+{
+districtID: 5262,
+name: "آبشار - منطقه 12"
+},
+{
+districtID: 928,
+name: "آپادانا - خرمشهر"
+},
+{
+districtID: 930,
+name: "آجودانیه"
+},
+{
+districtID: 931,
+name: "آذربایجان"
+},
+{
+districtID: 932,
+name: "آذری"
+},
+{
+districtID: 933,
+name: "آرژانتین"
+},
+{
+districtID: 934,
+name: "آزاد شهر"
+},
+{
+districtID: 5196,
+name: "آسمان"
+},
+{
+districtID: 4804,
+name: "آهنگ"
+},
+{
+districtID: 883,
+name: "اباذر"
+},
+{
+districtID: 5364,
+name: "ابوذر - منطقه ۱۴"
+},
+{
+districtID: 4565,
+name: "اتابک"
+},
+{
+districtID: 5376,
+name: "احمدآباد مستوفی"
+},
+{
+districtID: 888,
+name: "اختیاریه"
+},
+{
+districtID: 5226,
+name: "اراج"
+},
+{
+districtID: 4735,
+name: "ارم"
+},
+{
+districtID: 891,
+name: "ازگل"
+},
+{
+districtID: 4592,
+name: "استادمعین"
+},
+{
+districtID: 894,
+name: "اسکندری"
+},
+{
+districtID: 903,
+name: "افسریه "
+},
+{
+districtID: 3566,
+name: "اقدسیه"
+},
+{
+districtID: 909,
+name: "الهیه"
+},
+{
+districtID: 4634,
+name: "امامزاده قاسم"
+},
+{
+districtID: 5304,
+name: "امیر بهادر"
+},
+{
+districtID: 4646,
+name: "امیرآباد"
+},
+{
+districtID: 921,
+name: "امیریه"
+},
+{
+districtID: 3568,
+name: "انقلاب - فلسطین"
+},
+{
+districtID: 4653,
+name: "اوقاف"
+},
+{
+districtID: 926,
+name: "اوین"
+},
+{
+districtID: 927,
+name: "ایران"
+},
+{
+districtID: 4657,
+name: "ایرانشهر"
+},
+{
+districtID: 4659,
+name: "ایوانک"
+},
+{
+districtID: 938,
+name: "بازار"
+},
+{
+districtID: 4667,
+name: "باغ فیض"
+},
+{
+districtID: 945,
+name: "بریانک"
+},
+{
+districtID: 952,
+name: "بلوار فردوس شرق"
+},
+{
+districtID: 4718,
+name: "بلوار فردوس غرب"
+},
+{
+districtID: 953,
+name: "بلوار کشاورز"
+},
+{
+districtID: 4674,
+name: "بلور سازی"
+},
+{
+districtID: 955,
+name: "بهار"
+},
+{
+districtID: 956,
+name: "بهارستان"
+},
+{
+districtID: 4677,
+name: "بهجت آباد"
+},
+{
+districtID: 946,
+name: "بهشت زهرا"
+},
+{
+districtID: 4806,
+name: "پاسدار گمنام"
+},
+{
+districtID: 959,
+name: "پاسداران"
+},
+{
+districtID: 5316,
+name: "پرستار"
+},
+{
+districtID: 4785,
+name: "پل چوبی"
+},
+{
+districtID: 974,
+name: "پونک "
+},
+{
+districtID: 3571,
+name: "پیروزی"
+},
+{
+districtID: 987,
+name: "تجریش"
+},
+{
+districtID: 5385,
+name: "تسلیحات"
+},
+{
+districtID: 4682,
+name: "تقی آباد"
+},
+{
+districtID: 998,
+name: "توانیر"
+},
+{
+districtID: 3572,
+name: "تولید دارو"
+},
+{
+districtID: 991,
+name: "تهران نو"
+},
+{
+districtID: 993,
+name: "تهرانپارس"
+},
+{
+districtID: 4685,
+name: "تهرانسر"
+},
+{
+districtID: 4686,
+name: "تیموری"
+},
+{
+districtID: 3573,
+name: "جردن"
+},
+{
+districtID: 3575,
+name: "جمالزاده جنوبی"
+},
+{
+districtID: 5208,
+name: "جمالزاده شمالی"
+},
+{
+districtID: 6799,
+name: "جمهوری"
+},
+{
+districtID: 5214,
+name: "جنت آباد جنوبی"
+},
+{
+districtID: 5211,
+name: "جنت آباد شمالی"
+},
+{
+districtID: 1013,
+name: "جنت آباد مرکزی"
+},
+{
+districtID: 4808,
+name: "جوادیه - منطقه ۱۶"
+},
+{
+districtID: 1016,
+name: "جوادیه - منطقه ۴"
+},
+{
+districtID: 5367,
+name: "جهاد"
+},
+{
+districtID: 1019,
+name: "جیحون"
+},
+{
+districtID: 4723,
+name: "چهاردیواری"
+},
+{
+districtID: 4688,
+name: "چهارصد دستگاه"
+},
+{
+districtID: 1022,
+name: "چیتگر جنوبی"
+},
+{
+districtID: 5451,
+name: "چیتگر شمالی"
+},
+{
+districtID: 1023,
+name: "چیذر"
+},
+{
+districtID: 5283,
+name: "حکمت"
+},
+{
+districtID: 1029,
+name: "حکیمیه"
+},
+{
+districtID: 5394,
+name: "خانی آباد"
+},
+{
+districtID: 1163,
+name: "خانی آباد نو"
+},
+{
+districtID: 1036,
+name: "خاوران"
+},
+{
+districtID: 1047,
+name: "خرمشهر - نواب"
+},
+{
+districtID: 4693,
+name: "خزانه بخارایی"
+},
+{
+districtID: 4694,
+name: "خلیج فارس"
+},
+{
+districtID: 1045,
+name: "دارآباد"
+},
+{
+districtID: 4696,
+name: "دانشگاه تهران"
+},
+{
+districtID: 1046,
+name: "دبستان"
+},
+{
+districtID: 4697,
+name: "درب دوم"
+},
+{
+districtID: 1048,
+name: "دربند"
+},
+{
+districtID: 1049,
+name: "درکه"
+},
+{
+districtID: 1050,
+name: "دروازه شمیران"
+},
+{
+districtID: 1051,
+name: "دروس"
+},
+{
+districtID: 4699,
+name: "دریا"
+},
+{
+districtID: 5370,
+name: "دریاچه شهدای خلیج فارس"
+},
+{
+districtID: 1053,
+name: "دزاشیب"
+},
+{
+districtID: 4709,
+name: "دولاب"
+},
+{
+districtID: 1060,
+name: "دولت آباد"
+},
+{
+districtID: 1057,
+name: "دهکده المپیک"
+},
+{
+districtID: 3608,
+name: "رازی"
+},
+{
+districtID: 4703,
+name: "زرگنده"
+},
+{
+districtID: 1069,
+name: "زعفرانیه"
+},
+{
+districtID: 4704,
+name: "زمزم - زهتابی"
+},
+{
+districtID: 4705,
+name: "زیبادشت"
+},
+{
+districtID: 5412,
+name: "سازمان آب - منطقه ۵"
+},
+{
+districtID: 1076,
+name: "سازمان برنامه جنوبی"
+},
+{
+districtID: 5259,
+name: "سازمان برنامه شمالی"
+},
+{
+districtID: 4782,
+name: "سبلان"
+},
+{
+districtID: 4698,
+name: "سپهر"
+},
+{
+districtID: 1120,
+name: "ستارخان"
+},
+{
+districtID: 1083,
+name: "سرخه حصار"
+},
+{
+districtID: 1084,
+name: "سعادت آباد"
+},
+{
+districtID: 4710,
+name: "سلسبیل"
+},
+{
+districtID: 1101,
+name: "سوهانک"
+},
+{
+districtID: 3585,
+name: "سهروردی - باغ صبا"
+},
+{
+districtID: 3586,
+name: "سی متری جی"
+},
+{
+districtID: 4711,
+name: "سید خندان"
+},
+{
+districtID: 4713,
+name: "سیزده آبان"
+},
+{
+districtID: 1097,
+name: "شادآباد"
+},
+{
+districtID: 4715,
+name: "شمس آباد - مجیدیه"
+},
+{
+districtID: 1117,
+name: "شمیران نو"
+},
+{
+districtID: 4728,
+name: "شوش"
+},
+{
+districtID: 5244,
+name: "شهر ری"
+},
+{
+districtID: 5256,
+name: "شهران"
+},
+{
+districtID: 1122,
+name: "شهرزیبا"
+},
+{
+districtID: 1126,
+name: "شهرک آزادی"
+},
+{
+districtID: 907,
+name: "شهرک اکباتان"
+},
+{
+districtID: 4818,
+name: "شهرک راه آهن"
+},
+{
+districtID: 1145,
+name: "شهرک رضویه"
+},
+{
+districtID: 5406,
+name: "شهرک شریعتی"
+},
+{
+districtID: 4726,
+name: "شهرک شهید باقری"
+},
+{
+districtID: 3620,
+name: "شهرک غرب"
+},
+{
+districtID: 1244,
+name: "شهرک گلستان"
+},
+{
+districtID: 4722,
+name: "شهرک محلاتی"
+},
+{
+districtID: 5310,
+name: "شهرک نفت - منطقه ۱"
+},
+{
+districtID: 1150,
+name: "شهرک ولیعصر"
+},
+{
+districtID: 5193,
+name: "شهرک هما"
+},
+{
+districtID: 4729,
+name: "شیخ هادی"
+},
+{
+districtID: 3590,
+name: "صادقیه"
+},
+{
+districtID: 1178,
+name: "صد دستگاه"
+},
+{
+districtID: 1183,
+name: "طرشت"
+},
+{
+districtID: 3592,
+name: "ظفر"
+},
+{
+districtID: 4731,
+name: "عباس آباد - اندیشه"
+},
+{
+districtID: 4732,
+name: "عباسی"
+},
+{
+districtID: 1193,
+name: "عبدل آباد"
+},
+{
+districtID: 5280,
+name: "علم و صنعت"
+},
+{
+districtID: 5298,
+name: "علی آباد جنوبی"
+},
+{
+districtID: 1196,
+name: "فاطمی"
+},
+{
+districtID: 936,
+name: "فتح - صنعتی"
+},
+{
+districtID: 1203,
+name: "فرحزاد"
+},
+{
+districtID: 1204,
+name: "فردوسی"
+},
+{
+districtID: 3595,
+name: "فرمانیه"
+},
+{
+districtID: 4812,
+name: "فلاح"
+},
+{
+districtID: 1210,
+name: "قائم مقام"
+},
+{
+districtID: 4737,
+name: "قبا"
+},
+{
+districtID: 4636,
+name: "قزوین - امامزاده حسن"
+},
+{
+districtID: 4739,
+name: "قصر- حشمتیه"
+},
+{
+districtID: 1213,
+name: "قلهک"
+},
+{
+districtID: 4774,
+name: "قنات کوثر"
+},
+{
+districtID: 1214,
+name: "قیام"
+},
+{
+districtID: 1216,
+name: "قیطریه"
+},
+{
+districtID: 4741,
+name: "کاج"
+},
+{
+districtID: 1230,
+name: "کارون"
+},
+{
+districtID: 1219,
+name: "کاشانک"
+},
+{
+districtID: 4742,
+name: "کاظم آباد"
+},
+{
+districtID: 3597,
+name: "کامرانیه"
+},
+{
+districtID: 5220,
+name: "کرمان"
+},
+{
+districtID: 1234,
+name: "کن"
+},
+{
+districtID: 4596,
+name: "کوهسار - استخر"
+},
+{
+districtID: 4745,
+name: "کوهک"
+},
+{
+districtID: 1240,
+name: "کیانشهر"
+},
+{
+districtID: 4770,
+name: "گاندی"
+},
+{
+districtID: 5448,
+name: "گرگان"
+},
+{
+districtID: 4747,
+name: "گیشا"
+},
+{
+districtID: 4796,
+name: "لشگر"
+},
+{
+districtID: 1248,
+name: "لویزان - شیان"
+},
+{
+districtID: 1252,
+name: "مجیدیه "
+},
+{
+districtID: 1254,
+name: "محمودیه"
+},
+{
+districtID: 3603,
+name: "مرزداران"
+},
+{
+districtID: 4753,
+name: "مسعودیه"
+},
+{
+districtID: 5307,
+name: "مسگرآباد"
+},
+{
+districtID: 1260,
+name: "مشیریه"
+},
+{
+districtID: 1269,
+name: "منیریه"
+},
+{
+districtID: 4756,
+name: "مهرآباد جنوبی"
+},
+{
+districtID: 4757,
+name: "مهران - منطقه ۴"
+},
+{
+districtID: 5217,
+name: "مهران - منطقه ۵"
+},
+{
+districtID: 4689,
+name: "میدان حر"
+},
+{
+districtID: 3609,
+name: "میرداماد"
+},
+{
+districtID: 887,
+name: "نارمک"
+},
+{
+districtID: 1301,
+name: "نازی آباد"
+},
+{
+districtID: 1306,
+name: "نظام آباد"
+},
+{
+districtID: 1307,
+name: "نعمت آباد"
+},
+{
+districtID: 1309,
+name: "نیاوران"
+},
+{
+districtID: 4733,
+name: "نیروی دریایی"
+},
+{
+districtID: 1311,
+name: "نیروی هوایی"
+},
+{
+districtID: 1320,
+name: "وحیدیه"
+},
+{
+districtID: 1321,
+name: "وردآورد"
+},
+{
+districtID: 1324,
+name: "ولنجک"
+},
+{
+districtID: 3617,
+name: "ولیعصر - طالقانی"
+},
+{
+districtID: 3618,
+name: "ونک"
+},
+{
+districtID: 4750,
+name: "هروی"
+},
+{
+districtID: 4761,
+name: "هفت چنار"
+},
+{
+districtID: 1335,
+name: "یاخچی آباد"
+},
+{
+districtID: 5199,
+name: "یافت آباد - بازار مبل"
+},
+{
+districtID: 1336,
+name: "یافت آباد - تهرانیه"
+},
+{
+districtID: 1337,
+name: "یوسف آباد"
+}
+],
+allowedToFilterByDistrict: true
+},
+{
+cityID: 302,
+name: "جوادآباد",
+slug: "جوادآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 303,
+name: "چهاردانگه",
+slug: "چهاردانگه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 304,
+name: "حسن آباد",
+slug: "تهران-حسن-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 305,
+name: "دماوند",
+slug: "دماوند",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 306,
+name: "دیزین",
+slug: "دیزین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 307,
+name: "ری",
+slug: "ری",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 308,
+name: "رباط کریم",
+slug: "رباط-کریم",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 309,
+name: "رودهن",
+slug: "رودهن",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 310,
+name: "شاهدشهر",
+slug: "شاهدشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 311,
+name: "شریف آباد",
+slug: "شریف-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 312,
+name: "شمشک",
+slug: "شمشک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 313,
+name: "شهریار",
+slug: "شهریار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 314,
+name: "صالح آباد",
+slug: "تهران-صالح-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 315,
+name: "صباشهر",
+slug: "صباشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 316,
+name: "صفادشت",
+slug: "صفادشت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 317,
+name: "فردوسیه",
+slug: "فردوسیه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 318,
+name: "فشم",
+slug: "فشم",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 319,
+name: "فیروزکوه",
+slug: "فیروزکوه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 320,
+name: "قدس",
+slug: "قدس",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 321,
+name: "قرچک",
+slug: "قرچک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 322,
+name: "کهریزک",
+slug: "کهریزک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 323,
+name: "کیلان",
+slug: "کیلان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 324,
+name: "گلستان",
+slug: "شهر-گلستان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 325,
+name: "لواسان",
+slug: "لواسان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 326,
+name: "ملارد",
+slug: "ملارد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 327,
+name: "میگون",
+slug: "میگون",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 328,
+name: "نسیم شهر",
+slug: "نسیم-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 329,
+name: "نصیرآباد",
+slug: "نصیرآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 330,
+name: "وحیدیه",
+slug: "وحیدیه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 331,
+name: "ورامین",
+slug: "ورامین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1116,
+name: "پرند",
+slug: "پرند",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 9,
+name: "چهارمحال و بختیاری",
+slug: "چهارمحال-بختیاری",
+cities: [
+{
+cityID: 332,
+name: "اردل",
+slug: "اردل",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 333,
+name: "آلونی",
+slug: "آلونی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 334,
+name: "باباحیدر",
+slug: "باباحیدر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 335,
+name: "بروجن",
+slug: "بروجن",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 336,
+name: "بلداجی",
+slug: "بلداجی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 337,
+name: "بن",
+slug: "بن",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 338,
+name: "جونقان",
+slug: "جونقان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 339,
+name: "چلگرد",
+slug: "چلگرد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 340,
+name: "سامان",
+slug: "سامان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 341,
+name: "سفیددشت",
+slug: "سفیددشت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 342,
+name: "سودجان",
+slug: "سودجان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 343,
+name: "سورشجان",
+slug: "سورشجان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 344,
+name: "شلمزار",
+slug: "شلمزار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 345,
+name: "شهرکرد",
+slug: "شهرکرد",
+isCapital: "1",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 346,
+name: "طاقانک",
+slug: "طاقانک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 347,
+name: "فارسان",
+slug: "فارسان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 348,
+name: "فرادبنه",
+slug: "فرادبنه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 349,
+name: "فرخ شهر",
+slug: "فرخ-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 350,
+name: "کیان",
+slug: "کیان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 351,
+name: "گندمان",
+slug: "گندمان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 352,
+name: "گهرو",
+slug: "گهرو",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 353,
+name: "لردگان",
+slug: "لردگان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 354,
+name: "مال خلیفه",
+slug: "مال-خلیفه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 355,
+name: "ناغان",
+slug: "ناغان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 356,
+name: "نافچ",
+slug: "نافچ",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 357,
+name: "نقنه",
+slug: "نقنه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 358,
+name: "هفشجان",
+slug: "هفشجان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 10,
+name: "خراسان جنوبی",
+slug: "خراسان-جنوبی",
+cities: [
+{
+cityID: 359,
+name: "ارسک",
+slug: "ارسک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 360,
+name: "اسدیه",
+slug: "اسدیه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 361,
+name: "اسفدن",
+slug: "اسفدن",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 362,
+name: "اسلامیه",
+slug: "اسلامیه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 363,
+name: "آرین شهر",
+slug: "آرین-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 364,
+name: "آیسک",
+slug: "آیسک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 365,
+name: "بشرویه",
+slug: "بشرویه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 366,
+name: "بیرجند",
+slug: "بیرجند",
+isCapital: "1",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 367,
+name: "حاجی آباد",
+slug: "خراسان-جنوبی-حاجی-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 368,
+name: "خضری دشت بیاض",
+slug: "خضری-دشت-بیاض",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 369,
+name: "خوسف",
+slug: "خوسف",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 370,
+name: "زهان",
+slug: "زهان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 371,
+name: "سرایان",
+slug: "سرایان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 372,
+name: "سربیشه",
+slug: "سربیشه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 373,
+name: "سه قلعه",
+slug: "سه-قلعه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 374,
+name: "شوسف",
+slug: "شوسف",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 375,
+name: "طبس ",
+slug: "خراسان-جنوبی-طبس-",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 376,
+name: "فردوس",
+slug: "فردوس",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 377,
+name: "قاین",
+slug: "قاین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 378,
+name: "قهستان",
+slug: "قهستان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 379,
+name: "محمدشهر",
+slug: "خراسان-جنوبی-محمدشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 380,
+name: "مود",
+slug: "مود",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 381,
+name: "نهبندان",
+slug: "نهبندان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 382,
+name: "نیمبلوک",
+slug: "نیمبلوک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 11,
+name: "خراسان رضوی",
+slug: "خراسان-رضوی",
+cities: [
+{
+cityID: 383,
+name: "احمدآباد صولت",
+slug: "احمدآباد-صولت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 384,
+name: "انابد",
+slug: "انابد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 385,
+name: "باجگیران",
+slug: "باجگیران",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 386,
+name: "باخرز",
+slug: "باخرز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 387,
+name: "بار",
+slug: "بار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 388,
+name: "بایگ",
+slug: "بایگ",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 389,
+name: "بجستان",
+slug: "بجستان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 390,
+name: "بردسکن",
+slug: "بردسکن",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 391,
+name: "بیدخت",
+slug: "بیدخت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 392,
+name: "تایباد",
+slug: "تایباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 393,
+name: "تربت جام",
+slug: "تربت-جام",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 394,
+name: "تربت حیدریه",
+slug: "تربت-حیدریه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 395,
+name: "جغتای",
+slug: "جغتای",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 396,
+name: "جنگل",
+slug: "جنگل",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 397,
+name: "چاپشلو",
+slug: "چاپشلو",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 398,
+name: "چکنه",
+slug: "چکنه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 399,
+name: "چناران",
+slug: "چناران",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 400,
+name: "خرو",
+slug: "خرو",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 401,
+name: "خلیل آباد",
+slug: "خلیل-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 402,
+name: "خواف",
+slug: "خواف",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 403,
+name: "داورزن",
+slug: "داورزن",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 404,
+name: "درگز",
+slug: "درگز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 405,
+name: "در رود",
+slug: "در-رود",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 406,
+name: "دولت آباد",
+slug: "خراسان-رضوی-دولت-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 407,
+name: "رباط سنگ",
+slug: "رباط-سنگ",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 408,
+name: "رشتخوار",
+slug: "رشتخوار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 409,
+name: "رضویه",
+slug: "رضویه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 410,
+name: "روداب",
+slug: "روداب",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 411,
+name: "ریوش",
+slug: "ریوش",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 412,
+name: "سبزوار",
+slug: "سبزوار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 413,
+name: "سرخس",
+slug: "سرخس",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 414,
+name: "سفیدسنگ",
+slug: "سفیدسنگ",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 415,
+name: "سلامی",
+slug: "سلامی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 416,
+name: "سلطان آباد",
+slug: "سلطان-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 417,
+name: "سنگان",
+slug: "سنگان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 418,
+name: "شادمهر",
+slug: "شادمهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 419,
+name: "شاندیز",
+slug: "شاندیز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 420,
+name: "ششتمد",
+slug: "ششتمد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 421,
+name: "شهرآباد",
+slug: "شهرآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 422,
+name: "شهرزو",
+slug: "شهرزو",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 423,
+name: "صالح آباد",
+slug: "خراسان-رضوی-صالح-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 424,
+name: "طرقبه",
+slug: "طرقبه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 425,
+name: "عشق آباد",
+slug: "خراسان-رضوی-عشق-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 426,
+name: "فرهادگرد",
+slug: "فرهادگرد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 427,
+name: "فریمان",
+slug: "فریمان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 428,
+name: "فیروزه",
+slug: "فیروزه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 429,
+name: "فیض آباد",
+slug: "فیض-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 430,
+name: "قاسم آباد",
+slug: "قاسم-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 431,
+name: "قدمگاه",
+slug: "قدمگاه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 432,
+name: "قلندرآباد",
+slug: "قلندرآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 433,
+name: "قوچان",
+slug: "قوچان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 434,
+name: "کاخک",
+slug: "کاخک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 435,
+name: "کاریز",
+slug: "کاریز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 436,
+name: "کاشمر",
+slug: "کاشمر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 437,
+name: "کدکن",
+slug: "کدکن",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 438,
+name: "کلات",
+slug: "کلات",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 439,
+name: "کندر",
+slug: "کندر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 440,
+name: "گلمکان",
+slug: "گلمکان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 441,
+name: "گناباد",
+slug: "گناباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 442,
+name: "لطف آباد",
+slug: "لطف-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 443,
+name: "مزدآوند",
+slug: "مزدآوند",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 444,
+name: "مشهد",
+slug: "مشهد",
+isCapital: "1",
+districts: [
+{
+districtID: 3843,
+name: "آب و برق"
+},
+{
+districtID: 3844,
+name: "آبکوه"
+},
+{
+districtID: 3845,
+name: "آزادشهر"
+},
+{
+districtID: 3925,
+name: "آوینی"
+},
+{
+districtID: 3861,
+name: "آیت الله خامنه ای"
+},
+{
+districtID: 3847,
+name: "آیت الله عبادی"
+},
+{
+districtID: 3848,
+name: "ابوذر - منطقه ۴"
+},
+{
+districtID: 3849,
+name: "ابوطالب"
+},
+{
+districtID: 3850,
+name: "احمدآباد"
+},
+{
+districtID: 3851,
+name: "ارشاد"
+},
+{
+districtID: 5441,
+name: "اروند"
+},
+{
+districtID: 3852,
+name: "استاد یوسفی"
+},
+{
+districtID: 3853,
+name: "اقبال"
+},
+{
+districtID: 3854,
+name: "المهدی"
+},
+{
+districtID: 3868,
+name: "الهیه"
+},
+{
+districtID: 3855,
+name: "امام خمینی"
+},
+{
+districtID: 3856,
+name: "امام رضا"
+},
+{
+districtID: 3857,
+name: "امام هادی"
+},
+{
+districtID: 3858,
+name: "امامیه"
+},
+{
+districtID: 5444,
+name: "امیر آباد"
+},
+{
+districtID: 3859,
+name: "امیرالمومنین - منطقه ۵"
+},
+{
+districtID: 5443,
+name: "انصار"
+},
+{
+districtID: 3860,
+name: "انقلاب"
+},
+{
+districtID: 5426,
+name: "ایثار"
+},
+{
+districtID: 3862,
+name: "ایثارگران - منطقه ۱۰"
+},
+{
+districtID: 5438,
+name: "ایثارگران - منطقه ۲"
+},
+{
+districtID: 3863,
+name: "ایمان"
+},
+{
+districtID: 3864,
+name: "ایوان"
+},
+{
+districtID: 3865,
+name: "بالا خیابان"
+},
+{
+districtID: 3866,
+name: "باهنر"
+},
+{
+districtID: 3867,
+name: "بلال"
+},
+{
+districtID: 3869,
+name: "بهاران"
+},
+{
+districtID: 5425,
+name: "بهارستان - منطقه ۷"
+},
+{
+districtID: 3870,
+name: "بهارستان - منطقه ۹"
+},
+{
+districtID: 3871,
+name: "بهشت"
+},
+{
+districtID: 3926,
+name: "بهشتی - منطقه ۱"
+},
+{
+districtID: 5423,
+name: "بهشتی - منطقه ۸"
+},
+{
+districtID: 3872,
+name: "بهمن"
+},
+{
+districtID: 4244,
+name: "بینالود"
+},
+{
+districtID: 4993,
+name: "پایین خیابان"
+},
+{
+districtID: 4994,
+name: "پردیس"
+},
+{
+districtID: 3874,
+name: "پروین اعتصامی"
+},
+{
+districtID: 3876,
+name: "پنج تن آل عبا"
+},
+{
+districtID: 3877,
+name: "پورسینا"
+},
+{
+districtID: 3878,
+name: "تربت حیدریه"
+},
+{
+districtID: 4995,
+name: "تربیت"
+},
+{
+districtID: 4588,
+name: "تلگرد"
+},
+{
+districtID: 3880,
+name: "ثامن"
+},
+{
+districtID: 3881,
+name: "جانبازان"
+},
+{
+districtID: 3882,
+name: "جاهدشهر"
+},
+{
+districtID: 3883,
+name: "جنت"
+},
+{
+districtID: 4996,
+name: "چهار باغ"
+},
+{
+districtID: 3885,
+name: "چهار چشمه"
+},
+{
+districtID: 5445,
+name: "چهنو"
+},
+{
+districtID: 3887,
+name: "حافظ"
+},
+{
+districtID: 3888,
+name: "حجاب"
+},
+{
+districtID: 3889,
+name: "حجت"
+},
+{
+districtID: 3890,
+name: "حسین آباد"
+},
+{
+districtID: 4998,
+name: "خاتم الانبیا"
+},
+{
+districtID: 3892,
+name: "خرمشهر"
+},
+{
+districtID: 3893,
+name: "خواجه ربیع"
+},
+{
+districtID: 3895,
+name: "دانش"
+},
+{
+districtID: 3897,
+name: "دانشجو"
+},
+{
+districtID: 5000,
+name: "دروی"
+},
+{
+districtID: 3899,
+name: "ده دی"
+},
+{
+districtID: 3900,
+name: "رازی"
+},
+{
+districtID: 5001,
+name: "راه آهن"
+},
+{
+districtID: 3902,
+name: "راهنمایی"
+},
+{
+districtID: 3903,
+name: "رباط"
+},
+{
+districtID: 3904,
+name: "رده"
+},
+{
+districtID: 3905,
+name: "رسالت - منطقه ۱۰"
+},
+{
+districtID: 5419,
+name: "رسالت - منطقه ۳"
+},
+{
+districtID: 3906,
+name: "رضا شهر"
+},
+{
+districtID: 3907,
+name: "رضاییه"
+},
+{
+districtID: 5416,
+name: "زرکش"
+},
+{
+districtID: 3909,
+name: "زیباشهر"
+},
+{
+districtID: 3910,
+name: "سجاد"
+},
+{
+districtID: 5424,
+name: "سجادیه"
+},
+{
+districtID: 3912,
+name: "سراب"
+},
+{
+districtID: 3913,
+name: "سرافرازان"
+},
+{
+districtID: 3914,
+name: "سعدآباد"
+},
+{
+districtID: 3915,
+name: "سلام"
+},
+{
+districtID: 5003,
+name: "سمزقند"
+},
+{
+districtID: 3917,
+name: "سناباد"
+},
+{
+districtID: 3918,
+name: "سید رضی"
+},
+{
+districtID: 5004,
+name: "سیدی"
+},
+{
+districtID: 3920,
+name: "سیس آباد"
+},
+{
+districtID: 3921,
+name: "شاهد"
+},
+{
+districtID: 3922,
+name: "شریف"
+},
+{
+districtID: 5437,
+name: "شفا"
+},
+{
+districtID: 3924,
+name: "شهرآرا"
+},
+{
+districtID: 5006,
+name: "شهرک ابوذر - منطقه ۷"
+},
+{
+districtID: 5435,
+name: "شهید رضوی"
+},
+{
+districtID: 5442,
+name: "شهید معقول"
+},
+{
+districtID: 5446,
+name: "شیرودی"
+},
+{
+districtID: 3927,
+name: "شیرین"
+},
+{
+districtID: 3928,
+name: "طبرسی"
+},
+{
+districtID: 5417,
+name: "طبرسی شمالی"
+},
+{
+districtID: 3929,
+name: "طرق"
+},
+{
+districtID: 3930,
+name: "طلاب"
+},
+{
+districtID: 5428,
+name: "طوس"
+},
+{
+districtID: 5010,
+name: "عامل"
+},
+{
+districtID: 3932,
+name: "عبدالمطلب"
+},
+{
+districtID: 5011,
+name: "عسگریه"
+},
+{
+districtID: 3933,
+name: "عنصری"
+},
+{
+districtID: 5427,
+name: "عیدگاه"
+},
+{
+districtID: 3934,
+name: "فارغ التحصیلان"
+},
+{
+districtID: 5418,
+name: "فاطمیه"
+},
+{
+districtID: 3935,
+name: "فدک"
+},
+{
+districtID: 3936,
+name: "فرامرز عباسی"
+},
+{
+districtID: 5420,
+name: "فرودگاه"
+},
+{
+districtID: 3937,
+name: "فرهنگ"
+},
+{
+districtID: 3938,
+name: "فرهنگیان"
+},
+{
+districtID: 3939,
+name: "فلسطین"
+},
+{
+districtID: 3940,
+name: "قربانی"
+},
+{
+districtID: 5015,
+name: "کارگران"
+},
+{
+districtID: 5016,
+name: "کارمندان اول"
+},
+{
+districtID: 5433,
+name: "کارمندان دوم"
+},
+{
+districtID: 3944,
+name: "کشاورز"
+},
+{
+districtID: 3945,
+name: "کلاهدوز"
+},
+{
+districtID: 3946,
+name: "کوثر"
+},
+{
+districtID: 3947,
+name: "کوشش"
+},
+{
+districtID: 3948,
+name: "کوهسنگی"
+},
+{
+districtID: 5431,
+name: "کوی آقا مصطفی خمینی"
+},
+{
+districtID: 5436,
+name: "کوی امیرالمومنین - منطقه ۲"
+},
+{
+districtID: 3950,
+name: "کوی پلیس"
+},
+{
+districtID: 5439,
+name: "کوی پنج تن"
+},
+{
+districtID: 3951,
+name: "گاز"
+},
+{
+districtID: 3952,
+name: "گوهرشاد"
+},
+{
+districtID: 5440,
+name: "لشگر"
+},
+{
+districtID: 5434,
+name: "محمد آباد"
+},
+{
+districtID: 3953,
+name: "محمود آباد"
+},
+{
+districtID: 5017,
+name: "مشهد قلی"
+},
+{
+districtID: 3956,
+name: "مطهری"
+},
+{
+districtID: 5429,
+name: "مطهری - منطقه ۲"
+},
+{
+districtID: 5432,
+name: "مقدم"
+},
+{
+districtID: 5019,
+name: "موعود"
+},
+{
+districtID: 3960,
+name: "مهدی آباد - منطقه ۲"
+},
+{
+districtID: 5422,
+name: "مهدی آباد - منطقه ۵"
+},
+{
+districtID: 3961,
+name: "مهرآباد"
+},
+{
+districtID: 3962,
+name: "نوده"
+},
+{
+districtID: 3963,
+name: "نوغان"
+},
+{
+districtID: 3965,
+name: "نوفل لوشاتو"
+},
+{
+districtID: 5430,
+name: "نوید"
+},
+{
+districtID: 3967,
+name: "نیروهوایی"
+},
+{
+districtID: 3968,
+name: "نیزه"
+},
+{
+districtID: 3969,
+name: "وحید"
+},
+{
+districtID: 3971,
+name: "ولیعصر - منطقه ۱۰"
+},
+{
+districtID: 5421,
+name: "ولیعصر - منطقه ۷"
+},
+{
+districtID: 3972,
+name: "هاشمی نژاد"
+},
+{
+districtID: 3842,
+name: "هفده شهریور"
+},
+{
+districtID: 3974,
+name: "هنرستان"
+},
+{
+districtID: 3975,
+name: "هنرور"
+}
+],
+allowedToFilterByDistrict: true
+},
+{
+cityID: 445,
+name: "ملک آباد",
+slug: "ملک-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 446,
+name: "نشتیفان",
+slug: "نشتیفان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 447,
+name: "نصرآباد",
+slug: "خراسان-رضوی-نصرآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 448,
+name: "نقاب",
+slug: "نقاب",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 449,
+name: "نوخندان",
+slug: "نوخندان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 450,
+name: "نیشابور",
+slug: "نیشابور",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 451,
+name: "نیل شهر",
+slug: "نیل-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 452,
+name: "همت آباد",
+slug: "همت-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 453,
+name: "یونسی",
+slug: "یونسی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 12,
+name: "خراسان شمالی",
+slug: "خراسان-شمالی",
+cities: [
+{
+cityID: 454,
+name: "اسفراین",
+slug: "اسفراین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 455,
+name: "ایور",
+slug: "ایور",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 456,
+name: "آشخانه",
+slug: "آشخانه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 457,
+name: "بجنورد",
+slug: "بجنورد",
+isCapital: "1",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 458,
+name: "پیش قلعه",
+slug: "پیش-قلعه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 459,
+name: "تیتکانلو",
+slug: "تیتکانلو",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 460,
+name: "جاجرم",
+slug: "جاجرم",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 461,
+name: "حصارگرمخان",
+slug: "حصارگرمخان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 462,
+name: "درق",
+slug: "درق",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 463,
+name: "راز",
+slug: "راز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 464,
+name: "سنخواست",
+slug: "سنخواست",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 465,
+name: "شوقان",
+slug: "شوقان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 466,
+name: "شیروان",
+slug: "شیروان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 467,
+name: "صفی آباد",
+slug: "خراسان-شمالی-صفی-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 468,
+name: "فاروج",
+slug: "فاروج",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 469,
+name: "قاضی",
+slug: "قاضی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 470,
+name: "گرمه",
+slug: "گرمه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 471,
+name: "لوجلی",
+slug: "لوجلی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 13,
+name: "خوزستان",
+slug: "خوزستان",
+cities: [
+{
+cityID: 472,
+name: "اروندکنار",
+slug: "اروندکنار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 473,
+name: "الوان",
+slug: "الوان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 474,
+name: "امیدیه",
+slug: "امیدیه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 475,
+name: "اندیمشک",
+slug: "اندیمشک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 476,
+name: "اهواز",
+slug: "اهواز",
+isCapital: "1",
+districts: [
+{
+districtID: 4822,
+name: "آزادگان"
+},
+{
+districtID: 4192,
+name: "آسیه آباد"
+},
+{
+districtID: 4819,
+name: "اباذر"
+},
+{
+districtID: 4193,
+name: "امانیه"
+},
+{
+districtID: 5544,
+name: "بنکداران"
+},
+{
+districtID: 4194,
+name: "بهارستان"
+},
+{
+districtID: 4824,
+name: "بهشت آباد"
+},
+{
+districtID: 4195,
+name: "پادادشهر"
+},
+{
+districtID: 4196,
+name: "پردیس"
+},
+{
+districtID: 4854,
+name: "چهارصد دستگاه"
+},
+{
+districtID: 4198,
+name: "حصیر آباد"
+},
+{
+districtID: 4828,
+name: "خرم کوشک"
+},
+{
+districtID: 5568,
+name: "خماسی"
+},
+{
+districtID: 4200,
+name: "دغاغله"
+},
+{
+districtID: 4830,
+name: "دویست دستگاه"
+},
+{
+districtID: 4201,
+name: "رسالت"
+},
+{
+districtID: 4833,
+name: "زاویه ملی راه"
+},
+{
+districtID: 4202,
+name: "زرگان"
+},
+{
+districtID: 4834,
+name: "زمین شهری"
+},
+{
+districtID: 4203,
+name: "زوویه"
+},
+{
+districtID: 4204,
+name: "زیباشهر"
+},
+{
+districtID: 4205,
+name: "زیتون کارگری"
+},
+{
+districtID: 4206,
+name: "زیتون کارمندی"
+},
+{
+districtID: 4207,
+name: "سپیدار"
+},
+{
+districtID: 4823,
+name: "سلام آباد شرقی"
+},
+{
+districtID: 5571,
+name: "سید خلف"
+},
+{
+districtID: 4210,
+name: "سیصد دستگاه"
+},
+{
+districtID: 4211,
+name: "شریعتی جنوبی"
+},
+{
+districtID: 4213,
+name: "شهرک آغاجاری"
+},
+{
+districtID: 5547,
+name: "شهرک الهیه"
+},
+{
+districtID: 4215,
+name: "شهرک دانشگاه"
+},
+{
+districtID: 4216,
+name: "شهرک رزمندگان اهواز"
+},
+{
+districtID: 4841,
+name: "شهرک شهید میثمی"
+},
+{
+districtID: 4214,
+name: "شهرک ملی حفاری"
+},
+{
+districtID: 4218,
+name: "شهرک نفت"
+},
+{
+districtID: 5574,
+name: "صد دستگاه"
+},
+{
+districtID: 4220,
+name: "عامری"
+},
+{
+districtID: 5532,
+name: "عین دو"
+},
+{
+districtID: 5541,
+name: "فاز پنج پاداد"
+},
+{
+districtID: 5538,
+name: "فاز دو پاداد"
+},
+{
+districtID: 5535,
+name: "فاز یک پاداد"
+},
+{
+districtID: 4221,
+name: "فرهنگ شهر"
+},
+{
+districtID: 4878,
+name: "فولادشهر"
+},
+{
+districtID: 4890,
+name: "کارون"
+},
+{
+districtID: 4222,
+name: "کانتکس"
+},
+{
+districtID: 4856,
+name: "کریشان"
+},
+{
+districtID: 4225,
+name: "کوروش"
+},
+{
+districtID: 5562,
+name: "کوی ۱۷ شهریور"
+},
+{
+districtID: 4860,
+name: "کوی آزادی"
+},
+{
+districtID: 4861,
+name: "کوی استادان"
+},
+{
+districtID: 4223,
+name: "کوی انقلاب"
+},
+{
+districtID: 4864,
+name: "کوی ایثار"
+},
+{
+districtID: 4226,
+name: "کوی باهنر"
+},
+{
+districtID: 4865,
+name: "کوی بشارت"
+},
+{
+districtID: 4888,
+name: "کوی پلیس"
+},
+{
+districtID: 4197,
+name: "کوی پیروزی"
+},
+{
+districtID: 4869,
+name: "کوی جهاد"
+},
+{
+districtID: 4870,
+name: "کوی راه کربلا"
+},
+{
+districtID: 4227,
+name: "کوی رمضان"
+},
+{
+districtID: 5565,
+name: "کوی سپاه"
+},
+{
+districtID: 4228,
+name: "کوی سلطان منش"
+},
+{
+districtID: 4839,
+name: "کوی سیاحی"
+},
+{
+districtID: 4871,
+name: "کوی شاهد"
+},
+{
+districtID: 4872,
+name: "کوی شایسته"
+},
+{
+districtID: 4875,
+name: "کوی صادقیه"
+},
+{
+districtID: 4876,
+name: "کوی عابدی"
+},
+{
+districtID: 4892,
+name: "کوی کربن"
+},
+{
+districtID: 4891,
+name: "کوی کرمی"
+},
+{
+districtID: 4894,
+name: "کوی گلدشت"
+},
+{
+districtID: 5559,
+name: "کوی مجاهد"
+},
+{
+districtID: 4880,
+name: "کوی مخابرات"
+},
+{
+districtID: 4881,
+name: "کوی مخزن ساز"
+},
+{
+districtID: 4231,
+name: "کوی مدرس"
+},
+{
+districtID: 5550,
+name: "کوی منابع طبیعی"
+},
+{
+districtID: 4883,
+name: "کوی مهدیس"
+},
+{
+districtID: 4884,
+name: "کوی مهندسان"
+},
+{
+districtID: 4232,
+name: "کوی نبوت"
+},
+{
+districtID: 5556,
+name: "کوی نفت"
+},
+{
+districtID: 4885,
+name: "کوی نیرو"
+},
+{
+districtID: 4234,
+name: "کیان آباد"
+},
+{
+districtID: 4235,
+name: "کیانپارس"
+},
+{
+districtID: 4236,
+name: "کیانشهر"
+},
+{
+districtID: 4237,
+name: "گلستان"
+},
+{
+districtID: 4847,
+name: "ملاشیه"
+},
+{
+districtID: 4240,
+name: "ملی راه"
+},
+{
+districtID: 5553,
+name: "منبع آب"
+},
+{
+districtID: 4848,
+name: "مهرشهر"
+},
+{
+districtID: 4837,
+name: "نادری"
+},
+{
+districtID: 4849,
+name: "نهضت آباد"
+},
+{
+districtID: 4242,
+name: "نیو سایت"
+},
+{
+districtID: 4243,
+name: "یوسفی"
+}
+],
+allowedToFilterByDistrict: true
+},
+{
+cityID: 477,
+name: "ایذه",
+slug: "ایذه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 478,
+name: "آبادان",
+slug: "آبادان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 479,
+name: "آغاجاری",
+slug: "آغاجاری",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 480,
+name: "باغ ملک",
+slug: "باغ-ملک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 481,
+name: "بستان",
+slug: "بستان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 482,
+name: "بندرامام خمینی",
+slug: "بندرامام-خمینی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 483,
+name: "بندرماهشهر",
+slug: "بندرماهشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 484,
+name: "بهبهان",
+slug: "بهبهان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 485,
+name: "ترکالکی",
+slug: "ترکالکی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 486,
+name: "جایزان",
+slug: "جایزان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 487,
+name: "چمران",
+slug: "چمران",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 488,
+name: "چویبده",
+slug: "چویبده",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 489,
+name: "حر",
+slug: "حر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 490,
+name: "حسینیه",
+slug: "حسینیه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 491,
+name: "حمزه",
+slug: "حمزه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 492,
+name: "حمیدیه",
+slug: "حمیدیه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 493,
+name: "خرمشهر",
+slug: "خرمشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 494,
+name: "دارخوین",
+slug: "دارخوین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 495,
+name: "دزآب",
+slug: "دزآب",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 496,
+name: "دزفول",
+slug: "دزفول",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 497,
+name: "دهدز",
+slug: "دهدز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 498,
+name: "رامشیر",
+slug: "رامشیر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 499,
+name: "رامهرمز",
+slug: "رامهرمز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 500,
+name: "رفیع",
+slug: "رفیع",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 501,
+name: "زهره",
+slug: "زهره",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 502,
+name: "سالند",
+slug: "سالند",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 503,
+name: "سردشت",
+slug: "خوزستان-سردشت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 504,
+name: "سوسنگرد",
+slug: "سوسنگرد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 505,
+name: "شادگان",
+slug: "شادگان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 506,
+name: "شاوور",
+slug: "شاوور",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 507,
+name: "شرافت",
+slug: "شرافت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 508,
+name: "شوش",
+slug: "شوش",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 509,
+name: "شوشتر",
+slug: "شوشتر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 510,
+name: "شیبان",
+slug: "شیبان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 511,
+name: "صالح شهر",
+slug: "صالح-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 512,
+name: "صفی آباد",
+slug: "خوزستان-صفی-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 513,
+name: "صیدون",
+slug: "صیدون",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 514,
+name: "قلعه تل",
+slug: "قلعه-تل",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 515,
+name: "قلعه خواجه",
+slug: "قلعه-خواجه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 516,
+name: "گتوند",
+slug: "گتوند",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 517,
+name: "لالی",
+slug: "لالی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 518,
+name: "مسجدسلیمان",
+slug: "مسجدسلیمان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 520,
+name: "ملاثانی",
+slug: "ملاثانی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 521,
+name: "میانرود",
+slug: "میانرود",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 522,
+name: "مینوشهر",
+slug: "مینوشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 523,
+name: "هفتگل",
+slug: "هفتگل",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 524,
+name: "هندیجان",
+slug: "هندیجان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 525,
+name: "هویزه",
+slug: "هویزه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 526,
+name: "ویس",
+slug: "ویس",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 14,
+name: "زنجان",
+slug: "استان-زنجان",
+cities: [
+{
+cityID: 527,
+name: "ابهر",
+slug: "ابهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 528,
+name: "ارمغان خانه",
+slug: "ارمغان-خانه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 529,
+name: "آب بر",
+slug: "آب-بر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 530,
+name: "چورزق",
+slug: "چورزق",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 531,
+name: "حلب",
+slug: "حلب",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 532,
+name: "خرمدره",
+slug: "خرمدره",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 533,
+name: "دندی",
+slug: "دندی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 534,
+name: "زرین آباد",
+slug: "زرین-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 535,
+name: "زرین رود",
+slug: "زرین-رود",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 536,
+name: "زنجان",
+slug: "زنجان",
+isCapital: "1",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 537,
+name: "سجاس",
+slug: "سجاس",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 538,
+name: "سلطانیه",
+slug: "سلطانیه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 539,
+name: "سهرورد",
+slug: "سهرورد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 540,
+name: "صائین قلعه",
+slug: "صائین-قلعه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 541,
+name: "قیدار",
+slug: "قیدار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 542,
+name: "گرماب",
+slug: "گرماب",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 543,
+name: "ماه نشان",
+slug: "ماه-نشان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 544,
+name: "هیدج",
+slug: "هیدج",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 15,
+name: "سمنان",
+slug: "استان-سمنان",
+cities: [
+{
+cityID: 545,
+name: "امیریه",
+slug: "امیریه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 546,
+name: "ایوانکی",
+slug: "ایوانکی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 547,
+name: "آرادان",
+slug: "آرادان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 548,
+name: "بسطام",
+slug: "بسطام",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 549,
+name: "بیارجمند",
+slug: "بیارجمند",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 550,
+name: "دامغان",
+slug: "دامغان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 551,
+name: "درجزین",
+slug: "درجزین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 552,
+name: "دیباج",
+slug: "دیباج",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 553,
+name: "سرخه",
+slug: "سرخه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 554,
+name: "سمنان",
+slug: "سمنان",
+isCapital: "1",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 555,
+name: "شاهرود",
+slug: "شاهرود",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 556,
+name: "شهمیرزاد",
+slug: "شهمیرزاد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 557,
+name: "کلاته خیج",
+slug: "کلاته-خیج",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 558,
+name: "گرمسار",
+slug: "گرمسار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 559,
+name: "مجن",
+slug: "مجن",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 560,
+name: "مهدی شهر",
+slug: "مهدی-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 561,
+name: "میامی",
+slug: "میامی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 16,
+name: "سیستان و بلوچستان",
+slug: "سیستان-بلوچستان",
+cities: [
+{
+cityID: 562,
+name: "ادیمی",
+slug: "ادیمی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 563,
+name: "اسپکه",
+slug: "اسپکه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 564,
+name: "ایرانشهر",
+slug: "ایرانشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 565,
+name: "بزمان",
+slug: "بزمان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 566,
+name: "بمپور",
+slug: "بمپور",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 567,
+name: "بنت",
+slug: "بنت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 568,
+name: "بنجار",
+slug: "بنجار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 569,
+name: "پیشین",
+slug: "پیشین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 570,
+name: "جالق",
+slug: "جالق",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 571,
+name: "چابهار",
+slug: "چابهار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 572,
+name: "خاش",
+slug: "خاش",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 573,
+name: "دوست محمد",
+slug: "دوست-محمد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 574,
+name: "راسک",
+slug: "راسک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 575,
+name: "زابل",
+slug: "زابل",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 576,
+name: "زابلی",
+slug: "زابلی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 577,
+name: "زاهدان",
+slug: "زاهدان",
+isCapital: "1",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 578,
+name: "زهک",
+slug: "زهک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 579,
+name: "سراوان",
+slug: "سراوان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 580,
+name: "سرباز",
+slug: "سرباز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 581,
+name: "سوران",
+slug: "سوران",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 582,
+name: "سیرکان",
+slug: "سیرکان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 583,
+name: "علی اکبر",
+slug: "علی-اکبر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 584,
+name: "فنوج",
+slug: "فنوج",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 585,
+name: "قصرقند",
+slug: "قصرقند",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 586,
+name: "کنارک",
+slug: "کنارک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 587,
+name: "گشت",
+slug: "گشت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 588,
+name: "گلمورتی",
+slug: "گلمورتی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 589,
+name: "محمدان",
+slug: "محمدان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 590,
+name: "محمدآباد",
+slug: "سیستان-و-بلوچستان-محمدآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 591,
+name: "محمدی",
+slug: "محمدی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 592,
+name: "میرجاوه",
+slug: "میرجاوه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 593,
+name: "نصرت آباد",
+slug: "نصرت-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 594,
+name: "نگور",
+slug: "نگور",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 595,
+name: "نوک آباد",
+slug: "نوک-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 596,
+name: "نیک شهر",
+slug: "نیک-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 597,
+name: "هیدوچ",
+slug: "هیدوچ",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 17,
+name: "فارس",
+slug: "فارس",
+cities: [
+{
+cityID: 598,
+name: "اردکان",
+slug: "فارس-اردکان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 599,
+name: "ارسنجان",
+slug: "ارسنجان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 600,
+name: "استهبان",
+slug: "استهبان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 601,
+name: "اشکنان",
+slug: "اشکنان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 602,
+name: "افزر",
+slug: "افزر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 603,
+name: "اقلید",
+slug: "اقلید",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 604,
+name: "امام شهر",
+slug: "امام-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 605,
+name: "اهل",
+slug: "اهل",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 606,
+name: "اوز",
+slug: "اوز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 607,
+name: "ایج",
+slug: "ایج",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 608,
+name: "ایزدخواست",
+slug: "ایزدخواست",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 609,
+name: "آباده",
+slug: "آباده",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 610,
+name: "آباده طشک",
+slug: "آباده-طشک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 611,
+name: "باب انار",
+slug: "باب-انار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 612,
+name: "بالاده",
+slug: "فارس-بالاده",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 613,
+name: "بنارویه",
+slug: "بنارویه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 614,
+name: "بهمن",
+slug: "بهمن",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 615,
+name: "بوانات",
+slug: "بوانات",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 616,
+name: "بیرم",
+slug: "بیرم",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 617,
+name: "بیضا",
+slug: "بیضا",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 618,
+name: "جنت شهر",
+slug: "جنت-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 619,
+name: "جهرم",
+slug: "جهرم",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 620,
+name: "جویم",
+slug: "جویم",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 621,
+name: "زرین دشت",
+slug: "زرین-دشت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 622,
+name: "حسن آباد",
+slug: "فارس-حسن-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 623,
+name: "خان زنیان",
+slug: "خان-زنیان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 624,
+name: "خاوران",
+slug: "خاوران",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 625,
+name: "خرامه",
+slug: "خرامه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 626,
+name: "خشت",
+slug: "خشت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 627,
+name: "خنج",
+slug: "خنج",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 628,
+name: "خور",
+slug: "فارس-خور",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 629,
+name: "داراب",
+slug: "داراب",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 630,
+name: "داریان",
+slug: "داریان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 631,
+name: "دبیران",
+slug: "دبیران",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 632,
+name: "دژکرد",
+slug: "دژکرد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 633,
+name: "دهرم",
+slug: "دهرم",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 634,
+name: "دوبرجی",
+slug: "دوبرجی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 635,
+name: "رامجرد",
+slug: "رامجرد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 636,
+name: "رونیز",
+slug: "رونیز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 637,
+name: "زاهدشهر",
+slug: "زاهدشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 638,
+name: "زرقان",
+slug: "زرقان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 639,
+name: "سده",
+slug: "سده",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 640,
+name: "سروستان",
+slug: "سروستان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 641,
+name: "سعادت شهر",
+slug: "سعادت-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 642,
+name: "سورمق",
+slug: "سورمق",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 643,
+name: "سیدان",
+slug: "سیدان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 644,
+name: "ششده",
+slug: "ششده",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 645,
+name: "شهرپیر",
+slug: "شهرپیر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 646,
+name: "شهرصدرا",
+slug: "شهرصدرا",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 647,
+name: "شیراز",
+slug: "شیراز",
+isCapital: "1",
+districts: [
+{
+districtID: 4014,
+name: "آرین"
+},
+{
+districtID: 4015,
+name: "آزادگان"
+},
+{
+districtID: 4016,
+name: "ابوذر"
+},
+{
+districtID: 4017,
+name: "ابیوردی"
+},
+{
+districtID: 6512,
+name: "احمد آباد - منطقه ۷"
+},
+{
+districtID: 4018,
+name: "احمدآباد"
+},
+{
+districtID: 4019,
+name: "ارم"
+},
+{
+districtID: 4026,
+name: "انجیر"
+},
+{
+districtID: 6566,
+name: "انجیره"
+},
+{
+districtID: 4027,
+name: "ایثار"
+},
+{
+districtID: 4031,
+name: "باغ تخت"
+},
+{
+districtID: 4033,
+name: "باهنر"
+},
+{
+districtID: 4036,
+name: "بزین"
+},
+{
+districtID: 4038,
+name: "بلوار پودنک"
+},
+{
+districtID: 4045,
+name: "بهشتی"
+},
+{
+districtID: 4048,
+name: "پانصد ستگاه"
+},
+{
+districtID: 6804,
+name: "پردیس ارم"
+},
+{
+districtID: 4049,
+name: "پرواز"
+},
+{
+districtID: 4050,
+name: "پزشکان"
+},
+{
+districtID: 4051,
+name: "تاچارا"
+},
+{
+districtID: 5140,
+name: "ترکان"
+},
+{
+districtID: 6308,
+name: "تلخه دشک"
+},
+{
+districtID: 4020,
+name: "تندگویان"
+},
+{
+districtID: 4054,
+name: "چوگیاه"
+},
+{
+districtID: 4084,
+name: "حافظیه"
+},
+{
+districtID: 4057,
+name: "حجت آباد"
+},
+{
+districtID: 6482,
+name: "حسین آباد سرتل"
+},
+{
+districtID: 4060,
+name: "خاتون جدید"
+},
+{
+districtID: 6302,
+name: "خلدبرین"
+},
+{
+districtID: 6410,
+name: "درکی"
+},
+{
+districtID: 4067,
+name: "دشت چنار"
+},
+{
+districtID: 4073,
+name: "دوکوهک"
+},
+{
+districtID: 6326,
+name: "ده پیاله"
+},
+{
+districtID: 6350,
+name: "رباستی"
+},
+{
+districtID: 4071,
+name: "رضوان"
+},
+{
+districtID: 4072,
+name: "رکن آباد"
+},
+{
+districtID: 4107,
+name: "زهرا"
+},
+{
+districtID: 4075,
+name: "زیباشهر"
+},
+{
+districtID: 6320,
+name: "ستاد"
+},
+{
+districtID: 4076,
+name: "ستارخان"
+},
+{
+districtID: 4078,
+name: "سراج"
+},
+{
+districtID: 4079,
+name: "سردزک"
+},
+{
+districtID: 4080,
+name: "سعدیه"
+},
+{
+districtID: 4112,
+name: "سنگ آباد"
+},
+{
+districtID: 6440,
+name: "سیاحت گر"
+},
+{
+districtID: 5147,
+name: "شریف آباد"
+},
+{
+districtID: 4025,
+name: "شهرک امیرکبیر"
+},
+{
+districtID: 6470,
+name: "شهرک پردیس"
+},
+{
+districtID: 6560,
+name: "شهرک حافظ"
+},
+{
+districtID: 6446,
+name: "شهرک دستغیب"
+},
+{
+districtID: 6332,
+name: "شهرک صنعتی"
+},
+{
+districtID: 6392,
+name: "شهرک گلشن - منطقه ۳"
+},
+{
+districtID: 6542,
+name: "شهرک مدرس"
+},
+{
+districtID: 6398,
+name: "عادل آباد"
+},
+{
+districtID: 4088,
+name: "عفیف آباد"
+},
+{
+districtID: 4663,
+name: "فخرآباد"
+},
+{
+districtID: 6404,
+name: "فرگاز"
+},
+{
+districtID: 4091,
+name: "فرهنگ شهر"
+},
+{
+districtID: 4092,
+name: "فرهنگیان"
+},
+{
+districtID: 4095,
+name: "قصر قمشه"
+},
+{
+districtID: 4099,
+name: "کاراندیش"
+},
+{
+districtID: 4101,
+name: "کوشکک"
+},
+{
+districtID: 6344,
+name: "کوی طلاب"
+},
+{
+districtID: 6434,
+name: "کوی ولیعصر"
+},
+{
+districtID: 4114,
+name: "گلدشت"
+},
+{
+districtID: 4116,
+name: "گلستان"
+},
+{
+districtID: 6458,
+name: "لاله"
+},
+{
+districtID: 4122,
+name: "مطهری"
+},
+{
+districtID: 4123,
+name: "معالی آباد"
+},
+{
+districtID: 6338,
+name: "منطقه هوایی دوران"
+},
+{
+districtID: 4128,
+name: "منوچهری"
+},
+{
+districtID: 6290,
+name: "مهدی آباد - منطقه ۱"
+},
+{
+districtID: 4132,
+name: "میانرود"
+},
+{
+districtID: 6500,
+name: "نصرآباد"
+},
+{
+districtID: 6314,
+name: "نمازی"
+},
+{
+districtID: 4135,
+name: "نواب صفوی"
+},
+{
+districtID: 4136,
+name: "نیایش"
+},
+{
+districtID: 4137,
+name: "والفجر"
+},
+{
+districtID: 6518,
+name: "وزیرآباد"
+},
+{
+districtID: 4111,
+name: "ولیعصر"
+},
+{
+districtID: 6807,
+name: "هدایت"
+},
+{
+districtID: 4139,
+name: "هفت تنان"
+}
+],
+allowedToFilterByDistrict: true
+},
+{
+cityID: 648,
+name: "صغاد",
+slug: "صغاد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 649,
+name: "صفاشهر",
+slug: "صفاشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 650,
+name: "علامرودشت",
+slug: "علامرودشت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 651,
+name: "فدامی",
+slug: "فدامی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 652,
+name: "فراشبند",
+slug: "فراشبند",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 653,
+name: "فسا",
+slug: "فسا",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 654,
+name: "فیروزآباد",
+slug: "فارس-فیروزآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 655,
+name: "قائمیه",
+slug: "قائمیه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 656,
+name: "قادرآباد",
+slug: "قادرآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 657,
+name: "قطب آباد",
+slug: "قطب-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 658,
+name: "قطرویه",
+slug: "قطرویه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 659,
+name: "قیر",
+slug: "قیر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 660,
+name: "کارزین (فتح آباد)",
+slug: "کارزین-فتح-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 661,
+name: "کازرون",
+slug: "کازرون",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 662,
+name: "کامفیروز",
+slug: "کامفیروز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 663,
+name: "کره ای",
+slug: "کره-ای",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 664,
+name: "کنارتخته",
+slug: "کنارتخته",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 665,
+name: "کوار",
+slug: "کوار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 666,
+name: "گراش",
+slug: "گراش",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 667,
+name: "گله دار",
+slug: "گله-دار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 668,
+name: "لار",
+slug: "لار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 669,
+name: "لامرد",
+slug: "لامرد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 670,
+name: "لپویی",
+slug: "لپویی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 671,
+name: "لطیفی",
+slug: "لطیفی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 672,
+name: "مبارک آباددیز",
+slug: "مبارک-آباددیز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 673,
+name: "مرودشت",
+slug: "مرودشت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 674,
+name: "مشکان",
+slug: "مشکان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 675,
+name: "مصیری",
+slug: "مصیری",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 676,
+name: "مهر",
+slug: "مهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 677,
+name: "میمند",
+slug: "میمند",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 678,
+name: "نوبندگان",
+slug: "نوبندگان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 679,
+name: "نوجین",
+slug: "نوجین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 680,
+name: "نودان",
+slug: "نودان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 681,
+name: "نورآباد",
+slug: "فارس-نورآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 682,
+name: "نی ریز",
+slug: "نی-ریز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 683,
+name: "وراوی",
+slug: "وراوی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 18,
+name: "قزوین",
+slug: "استان-قزوین",
+cities: [
+{
+cityID: 684,
+name: "ارداق",
+slug: "ارداق",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 685,
+name: "اسفرورین",
+slug: "اسفرورین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 686,
+name: "اقبالیه",
+slug: "اقبالیه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 687,
+name: "الوند",
+slug: "الوند",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 688,
+name: "آبگرم",
+slug: "آبگرم",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 689,
+name: "آبیک",
+slug: "آبیک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 690,
+name: "آوج",
+slug: "آوج",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 691,
+name: "بوئین زهرا",
+slug: "بوئین-زهرا",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 692,
+name: "بیدستان",
+slug: "بیدستان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 693,
+name: "تاکستان",
+slug: "تاکستان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 694,
+name: "خاکعلی",
+slug: "خاکعلی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 695,
+name: "خرمدشت",
+slug: "خرمدشت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 696,
+name: "دانسفهان",
+slug: "دانسفهان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 697,
+name: "رازمیان",
+slug: "رازمیان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 698,
+name: "سگزآباد",
+slug: "سگزآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 699,
+name: "سیردان",
+slug: "سیردان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 700,
+name: "شال",
+slug: "شال",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 701,
+name: "شریفیه",
+slug: "شریفیه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 702,
+name: "ضیاآباد",
+slug: "ضیاآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 703,
+name: "قزوین",
+slug: "قزوین",
+isCapital: "1",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 704,
+name: "کوهین",
+slug: "کوهین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 705,
+name: "محمدیه",
+slug: "محمدیه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 706,
+name: "محمودآباد نمونه",
+slug: "محمودآباد-نمونه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 707,
+name: "معلم کلایه",
+slug: "معلم-کلایه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 708,
+name: "نرجه",
+slug: "نرجه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 19,
+name: "قم",
+slug: "استان-قم",
+cities: [
+{
+cityID: 709,
+name: "جعفریه",
+slug: "جعفریه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 710,
+name: "دستجرد",
+slug: "دستجرد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 711,
+name: "سلفچگان",
+slug: "سلفچگان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 712,
+name: "قم",
+slug: "قم",
+isCapital: "1",
+districts: [
+{
+districtID: 4144,
+name: "آزادگان"
+},
+{
+districtID: 5775,
+name: "آقا بقال شیخ مهدی نایب حسین"
+},
+{
+districtID: 5940,
+name: "آلوچو"
+},
+{
+districtID: 5733,
+name: "اراضی بهداری"
+},
+{
+districtID: 5034,
+name: "ارم"
+},
+{
+districtID: 5871,
+name: "اسمعیل آباد"
+},
+{
+districtID: 5886,
+name: "الوندیه و گذر صادق"
+},
+{
+districtID: 4170,
+name: "امام حسن"
+},
+{
+districtID: 4171,
+name: "امام حسین"
+},
+{
+districtID: 4147,
+name: "انصار"
+},
+{
+districtID: 5799,
+name: "باجک سه"
+},
+{
+districtID: 4149,
+name: "باجک یک"
+},
+{
+districtID: 5802,
+name: "باجیک دو"
+},
+{
+districtID: 5745,
+name: "باسکول"
+},
+{
+districtID: 5721,
+name: "باغ اشرافی"
+},
+{
+districtID: 5937,
+name: "باغ پنبه"
+},
+{
+districtID: 5763,
+name: "باغ شازده"
+},
+{
+districtID: 5796,
+name: "باغ شریفی"
+},
+{
+districtID: 5901,
+name: "باغ کرباسی"
+},
+{
+districtID: 5967,
+name: "براسون"
+},
+{
+districtID: 5727,
+name: "بکایی"
+},
+{
+districtID: 4150,
+name: "بلوار امین و ساحلی"
+},
+{
+districtID: 5025,
+name: "بنیاد"
+},
+{
+districtID: 5943,
+name: "پامنار"
+},
+{
+districtID: 4153,
+name: "پانزده خرداد"
+},
+{
+districtID: 5027,
+name: "پردیسان"
+},
+{
+districtID: 5760,
+name: "پشت انبارنفت"
+},
+{
+districtID: 5889,
+name: "تکیه آقا سید حسنی"
+},
+{
+districtID: 5029,
+name: "تولید دارو"
+},
+{
+districtID: 5964,
+name: "جانباز"
+},
+{
+districtID: 5030,
+name: "جمکران"
+},
+{
+districtID: 5841,
+name: "جوی شور"
+},
+{
+districtID: 5904,
+name: "جهان بینی"
+},
+{
+districtID: 5808,
+name: "چهار امامزاده"
+},
+{
+districtID: 5844,
+name: "چهار مردان"
+},
+{
+districtID: 5925,
+name: "چهل اختران"
+},
+{
+districtID: 5033,
+name: "چهل درخت"
+},
+{
+districtID: 5859,
+name: "حاج خلیل"
+},
+{
+districtID: 5772,
+name: "حاج زنبیل"
+},
+{
+districtID: 5856,
+name: "حمام تالار"
+},
+{
+districtID: 5739,
+name: "حنیف نژاد"
+},
+{
+districtID: 5035,
+name: "خاکفرج"
+},
+{
+districtID: 5829,
+name: "خندق"
+},
+{
+districtID: 5820,
+name: "دربهشت"
+},
+{
+districtID: 5850,
+name: "دروازه چوبی"
+},
+{
+districtID: 5949,
+name: "دروازه ری"
+},
+{
+districtID: 5730,
+name: "دروازه قلعه"
+},
+{
+districtID: 5715,
+name: "دروازه کاشان"
+},
+{
+districtID: 5853,
+name: "دور شهر"
+},
+{
+districtID: 5832,
+name: "رجایی"
+},
+{
+districtID: 5931,
+name: "رضویه شرقی"
+},
+{
+districtID: 5928,
+name: "رضویه غربی"
+},
+{
+districtID: 5919,
+name: "زاد - منطقه ۳"
+},
+{
+districtID: 5769,
+name: "زاد - منطقه ۶"
+},
+{
+districtID: 4162,
+name: "زاویه"
+},
+{
+districtID: 4163,
+name: "زنبیل آباد"
+},
+{
+districtID: 5781,
+name: "زندیان"
+},
+{
+districtID: 5041,
+name: "زین الدین"
+},
+{
+districtID: 5958,
+name: "زینبیه"
+},
+{
+districtID: 5868,
+name: "ژاندارمها"
+},
+{
+districtID: 5961,
+name: "سازمان آب"
+},
+{
+districtID: 5043,
+name: "سالاریه"
+},
+{
+districtID: 5880,
+name: "سراجه"
+},
+{
+districtID: 5823,
+name: "سربخش"
+},
+{
+districtID: 5826,
+name: "سرحوض"
+},
+{
+districtID: 5814,
+name: "سلاخ خانه"
+},
+{
+districtID: 5865,
+name: "سنگ بند"
+},
+{
+districtID: 5787,
+name: "سید معصوم"
+},
+{
+districtID: 5877,
+name: "سیدان"
+},
+{
+districtID: 5045,
+name: "شادقلی"
+},
+{
+districtID: 5724,
+name: "شاه ابراهیم زندآباد"
+},
+{
+districtID: 5862,
+name: "شاه احمد قاسم"
+},
+{
+districtID: 5811,
+name: "شاه سید علی"
+},
+{
+districtID: 4168,
+name: "شهرقائم"
+},
+{
+districtID: 5754,
+name: "شهرک توانیر"
+},
+{
+districtID: 5047,
+name: "شهرک شهرداری"
+},
+{
+districtID: 5757,
+name: "شهرک فاطمیه"
+},
+{
+districtID: 5054,
+name: "شهرک قدس"
+},
+{
+districtID: 5048,
+name: "شیخ آباد"
+},
+{
+districtID: 5835,
+name: "صادقی"
+},
+{
+districtID: 5838,
+name: "صدوق"
+},
+{
+districtID: 5898,
+name: "صفائیه"
+},
+{
+districtID: 4174,
+name: "صفاشهر"
+},
+{
+districtID: 5784,
+name: "صیاد شیرازی"
+},
+{
+districtID: 4143,
+name: "طالقانی"
+},
+{
+districtID: 5742,
+name: "طلاب غیر ایرانی"
+},
+{
+districtID: 5934,
+name: "عربستان"
+},
+{
+districtID: 5892,
+name: "عشقعلی"
+},
+{
+districtID: 5793,
+name: "علی آباد"
+},
+{
+districtID: 5051,
+name: "علی آباد سعدگان"
+},
+{
+districtID: 5052,
+name: "عماریاسر"
+},
+{
+districtID: 4178,
+name: "فرهنگیان"
+},
+{
+districtID: 5910,
+name: "قلعه عمو حسین"
+},
+{
+districtID: 5055,
+name: "قلعه کامکار"
+},
+{
+districtID: 5955,
+name: "قلعه یزدی ها"
+},
+{
+districtID: 5766,
+name: "قم نو"
+},
+{
+districtID: 5970,
+name: "کاسه گرها"
+},
+{
+districtID: 5907,
+name: "گذرقلعه"
+},
+{
+districtID: 5059,
+name: "گلزار"
+},
+{
+districtID: 5883,
+name: "لبچال"
+},
+{
+districtID: 5736,
+name: "لسانی"
+},
+{
+districtID: 5916,
+name: "مجیدیه"
+},
+{
+districtID: 5790,
+name: "محمد آباد"
+},
+{
+districtID: 5748,
+name: "مسجد امام حسن"
+},
+{
+districtID: 5847,
+name: "مصلی"
+},
+{
+districtID: 5817,
+name: "منبع آب"
+},
+{
+districtID: 5922,
+name: "مهدیه - منطقه ۱"
+},
+{
+districtID: 5718,
+name: "مهدیه - منطقه ۳"
+},
+{
+districtID: 5946,
+name: "مهدیه - منطقه ۴"
+},
+{
+districtID: 5913,
+name: "مهرآباد"
+},
+{
+districtID: 5778,
+name: "میدان نو"
+},
+{
+districtID: 5952,
+name: "میرزائیه"
+},
+{
+districtID: 5751,
+name: "نخودی"
+},
+{
+districtID: 5712,
+name: "نکویی"
+},
+{
+districtID: 4185,
+name: "نوبهار"
+},
+{
+districtID: 5805,
+name: "نوقطار"
+},
+{
+districtID: 5065,
+name: "نیروگاه"
+},
+{
+districtID: 5874,
+name: "وادی السلام"
+},
+{
+districtID: 5067,
+name: "ولیعصر"
+},
+{
+districtID: 4188,
+name: "هنرستان"
+},
+{
+districtID: 5895,
+name: "یخچال قاضی"
+},
+{
+districtID: 4189,
+name: "یزدانشهر"
+}
+],
+allowedToFilterByDistrict: true
+},
+{
+cityID: 713,
+name: "قنوات",
+slug: "قنوات",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 714,
+name: "کهک",
+slug: "کهک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 20,
+name: "کردستان",
+slug: "کردستان",
+cities: [
+{
+cityID: 715,
+name: "آرمرده",
+slug: "آرمرده",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 716,
+name: "بابارشانی",
+slug: "بابارشانی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 717,
+name: "بانه",
+slug: "بانه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 718,
+name: "بلبان آباد",
+slug: "بلبان-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 719,
+name: "بوئین سفلی",
+slug: "بوئین-سفلی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 720,
+name: "بیجار",
+slug: "بیجار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 721,
+name: "چناره",
+slug: "چناره",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 722,
+name: "دزج",
+slug: "دزج",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 723,
+name: "دلبران",
+slug: "دلبران",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 724,
+name: "دهگلان",
+slug: "دهگلان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 725,
+name: "دیواندره",
+slug: "دیواندره",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 726,
+name: "زرینه",
+slug: "زرینه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 727,
+name: "سروآباد",
+slug: "سروآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 728,
+name: "سریش آباد",
+slug: "سریش-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 729,
+name: "سقز",
+slug: "سقز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 730,
+name: "سنندج",
+slug: "سنندج",
+isCapital: "1",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 731,
+name: "شویشه",
+slug: "شویشه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 732,
+name: "صاحب",
+slug: "صاحب",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 733,
+name: "قروه",
+slug: "قروه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 734,
+name: "کامیاران",
+slug: "کامیاران",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 735,
+name: "کانی دینار",
+slug: "کانی-دینار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 736,
+name: "کانی سور",
+slug: "کانی-سور",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 737,
+name: "مریوان",
+slug: "مریوان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 738,
+name: "موچش",
+slug: "موچش",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 739,
+name: "یاسوکند",
+slug: "یاسوکند",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 21,
+name: "کرمان",
+slug: "استان-کرمان",
+cities: [
+{
+cityID: 740,
+name: "اختیارآباد",
+slug: "اختیارآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 741,
+name: "ارزوئیه",
+slug: "ارزوئیه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 742,
+name: "امین شهر",
+slug: "امین-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 743,
+name: "انار",
+slug: "انار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 744,
+name: "اندوهجرد",
+slug: "اندوهجرد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 745,
+name: "باغین",
+slug: "باغین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 746,
+name: "بافت",
+slug: "بافت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 747,
+name: "بردسیر",
+slug: "بردسیر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 748,
+name: "بروات",
+slug: "بروات",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 749,
+name: "بزنجان",
+slug: "بزنجان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 750,
+name: "بم",
+slug: "بم",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 751,
+name: "بهرمان",
+slug: "بهرمان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 752,
+name: "پاریز",
+slug: "پاریز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 753,
+name: "جبالبارز",
+slug: "جبالبارز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 754,
+name: "جوپار",
+slug: "جوپار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 755,
+name: "جوزم",
+slug: "جوزم",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 756,
+name: "جیرفت",
+slug: "جیرفت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 757,
+name: "چترود",
+slug: "چترود",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 758,
+name: "خاتون آباد",
+slug: "خاتون-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 759,
+name: "خانوک",
+slug: "خانوک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 760,
+name: "خورسند",
+slug: "خورسند",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 761,
+name: "درب بهشت",
+slug: "درب-بهشت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 762,
+name: "دهج",
+slug: "دهج",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 763,
+name: "رابر",
+slug: "رابر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 764,
+name: "راور",
+slug: "راور",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 765,
+name: "راین",
+slug: "راین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 766,
+name: "رفسنجان",
+slug: "رفسنجان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 767,
+name: "رودبار",
+slug: "کرمان-رودبار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 768,
+name: "ریحان شهر",
+slug: "ریحان-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 769,
+name: "زرند",
+slug: "زرند",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 770,
+name: "زنگی آباد",
+slug: "زنگی-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 771,
+name: "زیدآباد",
+slug: "زیدآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 772,
+name: "سیرجان",
+slug: "سیرجان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 773,
+name: "شهداد",
+slug: "شهداد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 774,
+name: "شهربابک",
+slug: "شهربابک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 775,
+name: "صفائیه",
+slug: "صفائیه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 776,
+name: "عنبرآباد",
+slug: "عنبرآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 777,
+name: "فاریاب",
+slug: "فاریاب",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 778,
+name: "فهرج",
+slug: "فهرج",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 779,
+name: "قلعه گنج",
+slug: "قلعه-گنج",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 780,
+name: "کاظم آباد",
+slug: "کاظم-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 781,
+name: "کرمان",
+slug: "کرمان",
+isCapital: "1",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 782,
+name: "کشکوئیه",
+slug: "کشکوئیه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 783,
+name: "کهنوج",
+slug: "کهنوج",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 784,
+name: "کوهبنان",
+slug: "کوهبنان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 785,
+name: "کیانشهر",
+slug: "کیانشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 786,
+name: "گلباف",
+slug: "گلباف",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 787,
+name: "گلزار",
+slug: "گلزار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 788,
+name: "لاله زار",
+slug: "لاله-زار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 789,
+name: "ماهان",
+slug: "ماهان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 790,
+name: "محمدآباد",
+slug: "کرمان-محمدآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 791,
+name: "محی آباد",
+slug: "محی-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 792,
+name: "مردهک",
+slug: "مردهک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 793,
+name: "مس سرچشمه",
+slug: "مس-سرچشمه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 794,
+name: "منوجان",
+slug: "منوجان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 795,
+name: "نجف شهر",
+slug: "نجف-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 796,
+name: "نرماشیر",
+slug: "نرماشیر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 797,
+name: "نظام شهر",
+slug: "نظام-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 798,
+name: "نگار",
+slug: "نگار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 799,
+name: "نودژ",
+slug: "نودژ",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 800,
+name: "هجدک",
+slug: "هجدک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 801,
+name: "یزدان شهر",
+slug: "یزدان-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 22,
+name: "کرمانشاه",
+slug: "استان-کرمانشاه",
+cities: [
+{
+cityID: 802,
+name: "ازگله",
+slug: "ازگله",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 803,
+name: "اسلام آباد غرب",
+slug: "اسلام-آباد-غرب",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 804,
+name: "باینگان",
+slug: "باینگان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 805,
+name: "بیستون",
+slug: "بیستون",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 806,
+name: "پاوه",
+slug: "پاوه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 807,
+name: "تازه آباد",
+slug: "تازه-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 808,
+name: "جوان رود",
+slug: "جوان-رود",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 809,
+name: "حمیل",
+slug: "حمیل",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 810,
+name: "ماهیدشت",
+slug: "ماهیدشت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 811,
+name: "روانسر",
+slug: "روانسر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 812,
+name: "سرپل ذهاب",
+slug: "سرپل-ذهاب",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 813,
+name: "سرمست",
+slug: "سرمست",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 814,
+name: "سطر",
+slug: "سطر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 815,
+name: "سنقر",
+slug: "سنقر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 816,
+name: "سومار",
+slug: "سومار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 817,
+name: "شاهو",
+slug: "شاهو",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 818,
+name: "صحنه",
+slug: "صحنه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 819,
+name: "قصرشیرین",
+slug: "قصرشیرین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 820,
+name: "کرمانشاه",
+slug: "کرمانشاه",
+isCapital: "1",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 821,
+name: "کرندغرب",
+slug: "کرندغرب",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 822,
+name: "کنگاور",
+slug: "کنگاور",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 823,
+name: "کوزران",
+slug: "کوزران",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 824,
+name: "گهواره",
+slug: "گهواره",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 825,
+name: "گیلانغرب",
+slug: "گیلانغرب",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 826,
+name: "میان راهان",
+slug: "میان-راهان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 827,
+name: "نودشه",
+slug: "نودشه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 828,
+name: "نوسود",
+slug: "نوسود",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 829,
+name: "هرسین",
+slug: "هرسین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 830,
+name: "هلشی",
+slug: "هلشی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 23,
+name: "کهگیلویه و بویراحمد",
+slug: "کهگیلویه-بویراحمد",
+cities: [
+{
+cityID: 831,
+name: "باشت",
+slug: "باشت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 832,
+name: "پاتاوه",
+slug: "پاتاوه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 833,
+name: "چرام",
+slug: "چرام",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 834,
+name: "چیتاب",
+slug: "چیتاب",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 835,
+name: "دهدشت",
+slug: "دهدشت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 836,
+name: "دوگنبدان",
+slug: "دوگنبدان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 837,
+name: "دیشموک",
+slug: "دیشموک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 838,
+name: "سوق",
+slug: "سوق",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 839,
+name: "سی سخت",
+slug: "سی-سخت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 840,
+name: "قلعه رئیسی",
+slug: "قلعه-رئیسی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 841,
+name: "گراب سفلی",
+slug: "گراب-سفلی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 842,
+name: "لنده",
+slug: "لنده",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 843,
+name: "لیکک",
+slug: "لیکک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 844,
+name: "مادوان",
+slug: "مادوان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 845,
+name: "مارگون",
+slug: "مارگون",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 846,
+name: "یاسوج",
+slug: "یاسوج",
+isCapital: "1",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 24,
+name: "گلستان",
+slug: "گلستان",
+cities: [
+{
+cityID: 847,
+name: "انبارآلوم",
+slug: "انبارآلوم",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 848,
+name: "اینچه برون",
+slug: "اینچه-برون",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 849,
+name: "آزادشهر",
+slug: "آزادشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 850,
+name: "آق قلا",
+slug: "آق-قلا",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 851,
+name: "بندرترکمن",
+slug: "بندرترکمن",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 852,
+name: "بندرگز",
+slug: "بندرگز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 853,
+name: "جلین",
+slug: "جلین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 854,
+name: "خان ببین",
+slug: "خان-ببین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 855,
+name: "دلند",
+slug: "دلند",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 856,
+name: "رامیان",
+slug: "رامیان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 857,
+name: "سرخنکلاته",
+slug: "سرخنکلاته",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 858,
+name: "سیمین شهر",
+slug: "سیمین-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 859,
+name: "علی آباد کتول",
+slug: "علی-آباد-کتول",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 860,
+name: "فاضل آباد",
+slug: "فاضل-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 861,
+name: "کردکوی",
+slug: "کردکوی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 862,
+name: "کلاله",
+slug: "کلاله",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 863,
+name: "گالیکش",
+slug: "گالیکش",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 864,
+name: "گرگان",
+slug: "گرگان",
+isCapital: "1",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 865,
+name: "گمیش تپه",
+slug: "گمیش-تپه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 866,
+name: "گنبدکاووس",
+slug: "گنبدکاووس",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 867,
+name: "مراوه",
+slug: "مراوه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 868,
+name: "مینودشت",
+slug: "مینودشت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 869,
+name: "نگین شهر",
+slug: "نگین-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 870,
+name: "نوده خاندوز",
+slug: "نوده-خاندوز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 871,
+name: "نوکنده",
+slug: "نوکنده",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 25,
+name: "لرستان",
+slug: "لرستان",
+cities: [
+{
+cityID: 872,
+name: "ازنا",
+slug: "ازنا",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 873,
+name: "اشترینان",
+slug: "اشترینان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 874,
+name: "الشتر",
+slug: "الشتر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 875,
+name: "الیگودرز",
+slug: "الیگودرز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 876,
+name: "بروجرد",
+slug: "بروجرد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 877,
+name: "پلدختر",
+slug: "پلدختر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 878,
+name: "چالانچولان",
+slug: "چالانچولان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 879,
+name: "چغلوندی",
+slug: "چغلوندی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 880,
+name: "چقابل",
+slug: "چقابل",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 881,
+name: "خرم آباد",
+slug: "لرستان-خرم-آباد",
+isCapital: "1",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 882,
+name: "درب گنبد",
+slug: "درب-گنبد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 883,
+name: "دورود",
+slug: "دورود",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 884,
+name: "زاغه",
+slug: "زاغه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 885,
+name: "سپیددشت",
+slug: "سپیددشت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 886,
+name: "سراب دوره",
+slug: "سراب-دوره",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 887,
+name: "فیروزآباد",
+slug: "لرستان-فیروزآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 888,
+name: "کونانی",
+slug: "کونانی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 889,
+name: "کوهدشت",
+slug: "کوهدشت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 890,
+name: "گراب",
+slug: "گراب",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 891,
+name: "معمولان",
+slug: "معمولان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 892,
+name: "مومن آباد",
+slug: "مومن-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 893,
+name: "نورآباد",
+slug: "لرستان-نورآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 894,
+name: "ویسیان",
+slug: "ویسیان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 26,
+name: "گیلان",
+slug: "گیلان",
+cities: [
+{
+cityID: 895,
+name: "احمدسرگوراب",
+slug: "احمدسرگوراب",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 896,
+name: "اسالم",
+slug: "اسالم",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 897,
+name: "اطاقور",
+slug: "اطاقور",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 898,
+name: "املش",
+slug: "املش",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 899,
+name: "آستارا",
+slug: "آستارا",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 900,
+name: "آستانه اشرفیه",
+slug: "آستانه-اشرفیه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 901,
+name: "بازار جمعه",
+slug: "بازار-جمعه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 902,
+name: "بره سر",
+slug: "بره-سر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 903,
+name: "بندرانزلی",
+slug: "بندرانزلی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 906,
+name: "پره سر",
+slug: "پره-سر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 907,
+name: "تالش",
+slug: "تالش",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 908,
+name: "توتکابن",
+slug: "توتکابن",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 909,
+name: "جیرنده",
+slug: "جیرنده",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 910,
+name: "چابکسر",
+slug: "چابکسر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 911,
+name: "چاف و چمخاله",
+slug: "چاف-و-چمخاله",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 912,
+name: "چوبر",
+slug: "چوبر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 913,
+name: "حویق",
+slug: "حویق",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 914,
+name: "خشکبیجار",
+slug: "خشکبیجار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 915,
+name: "خمام",
+slug: "خمام",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 916,
+name: "دیلمان",
+slug: "دیلمان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 917,
+name: "رانکوه",
+slug: "رانکوه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 918,
+name: "رحیم آباد",
+slug: "رحیم-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 919,
+name: "رستم آباد",
+slug: "رستم-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 920,
+name: "رشت",
+slug: "رشت",
+isCapital: "1",
+districts: [
+{
+districtID: 5068,
+name: "آب آسیاب"
+},
+{
+districtID: 5070,
+name: "آج بیشه"
+},
+{
+districtID: 6135,
+name: "آزادگان"
+},
+{
+districtID: 6183,
+name: "استقامت"
+},
+{
+districtID: 5072,
+name: "الکتریک"
+},
+{
+districtID: 4527,
+name: "بازار"
+},
+{
+districtID: 4530,
+name: "باقرآباد"
+},
+{
+districtID: 4543,
+name: "بلوار گیلان"
+},
+{
+districtID: 6141,
+name: "بیانی"
+},
+{
+districtID: 4547,
+name: "پارک شهر"
+},
+{
+districtID: 5076,
+name: "پاسکیاب"
+},
+{
+districtID: 5077,
+name: "پردیسان"
+},
+{
+districtID: 5078,
+name: "پستک"
+},
+{
+districtID: 4557,
+name: "پیرسرا"
+},
+{
+districtID: 5081,
+name: "چله خانه"
+},
+{
+districtID: 5086,
+name: "حمیدیان"
+},
+{
+districtID: 6174,
+name: "خبرنگار"
+},
+{
+districtID: 5089,
+name: "خرسندی"
+},
+{
+districtID: 5088,
+name: "خواهر امام"
+},
+{
+districtID: 6153,
+name: "دانشگاه گیلان"
+},
+{
+districtID: 6147,
+name: "دولت آباد"
+},
+{
+districtID: 6156,
+name: "دهکده گیل"
+},
+{
+districtID: 4571,
+name: "دیانتی"
+},
+{
+districtID: 4591,
+name: "سلیمانداراب"
+},
+{
+districtID: 6177,
+name: "سیاه اسطلخ"
+},
+{
+districtID: 6144,
+name: "سیمکو"
+},
+{
+districtID: 5069,
+name: "شهرک برق"
+},
+{
+districtID: 6180,
+name: "شهرک سید احمد خمینی"
+},
+{
+districtID: 6165,
+name: "شهرک شهید مصطفی خمینی"
+},
+{
+districtID: 6162,
+name: "شهرک شهید مفتح"
+},
+{
+districtID: 5097,
+name: "شهرک صبا"
+},
+{
+districtID: 6171,
+name: "شهرک فجر آزادگان"
+},
+{
+districtID: 5098,
+name: "شهرک قدس"
+},
+{
+districtID: 6159,
+name: "شهرک کمپوست"
+},
+{
+districtID: 5099,
+name: "شهرک مروارید"
+},
+{
+districtID: 5101,
+name: "صف سر"
+},
+{
+districtID: 6138,
+name: "صومعه بیجار"
+},
+{
+districtID: 4602,
+name: "ضیابری"
+},
+{
+districtID: 4605,
+name: "علی آباد"
+},
+{
+districtID: 4608,
+name: "فرهنگ"
+},
+{
+districtID: 4612,
+name: "فلسطین"
+},
+{
+districtID: 6168,
+name: "قاسمیه"
+},
+{
+districtID: 6150,
+name: "قلعه سرا"
+},
+{
+districtID: 5106,
+name: "کاکتوس"
+},
+{
+districtID: 5108,
+name: "کسبخ"
+},
+{
+districtID: 5110,
+name: "کوی امام رضا (ع)"
+},
+{
+districtID: 6132,
+name: "کوی بهشتی"
+},
+{
+districtID: 5111,
+name: "کوی حسینی"
+},
+{
+districtID: 6129,
+name: "کوی عرفان"
+},
+{
+districtID: 5105,
+name: "کوی قدس"
+},
+{
+districtID: 5112,
+name: "کوی هلال احمر"
+},
+{
+districtID: 4621,
+name: "گلسار"
+},
+{
+districtID: 5115,
+name: "لاکانشهر"
+},
+{
+districtID: 5116,
+name: "مسکن مهر"
+},
+{
+districtID: 4624,
+name: "معلم"
+},
+{
+districtID: 5117,
+name: "منظریه"
+},
+{
+districtID: 5118,
+name: "نخودچر"
+},
+{
+districtID: 5120,
+name: "نیروی دریایی"
+},
+{
+districtID: 4551,
+name: "نیکمرام"
+},
+{
+districtID: 5121,
+name: "ولکس"
+}
+],
+allowedToFilterByDistrict: true
+},
+{
+cityID: 921,
+name: "رضوانشهر",
+slug: "گیلان-رضوانشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 922,
+name: "رودبار",
+slug: "گیلان-رودبار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 923,
+name: "رودبنه",
+slug: "رودبنه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 924,
+name: "رودسر",
+slug: "رودسر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 925,
+name: "سنگر",
+slug: "سنگر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 926,
+name: "سیاهکل",
+slug: "سیاهکل",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 927,
+name: "شفت",
+slug: "شفت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 928,
+name: "شلمان",
+slug: "شلمان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 929,
+name: "صومعه سرا",
+slug: "صومعه-سرا",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 930,
+name: "فومن",
+slug: "فومن",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 931,
+name: "کلاچای",
+slug: "کلاچای",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 932,
+name: "کوچصفهان",
+slug: "کوچصفهان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 933,
+name: "کومله",
+slug: "کومله",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 934,
+name: "کیاشهر",
+slug: "کیاشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 935,
+name: "گوراب زرمیخ",
+slug: "گوراب-زرمیخ",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 936,
+name: "لاهیجان",
+slug: "لاهیجان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 937,
+name: "لشت نشا",
+slug: "لشت-نشا",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 938,
+name: "لنگرود",
+slug: "لنگرود",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 939,
+name: "لوشان",
+slug: "لوشان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 940,
+name: "لولمان",
+slug: "لولمان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 941,
+name: "لوندویل",
+slug: "لوندویل",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 942,
+name: "لیسار",
+slug: "لیسار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 943,
+name: "ماسال",
+slug: "ماسال",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 944,
+name: "ماسوله",
+slug: "ماسوله",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 945,
+name: "مرجقل",
+slug: "مرجقل",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 946,
+name: "منجیل",
+slug: "منجیل",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 947,
+name: "واجارگاه",
+slug: "واجارگاه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1121,
+name: "زیباکنار",
+slug: "زیباکنار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 27,
+name: "مازندران",
+slug: "مازندران",
+cities: [
+{
+cityID: 948,
+name: "امیرکلا",
+slug: "امیرکلا",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 949,
+name: "ایزدشهر",
+slug: "ایزدشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 950,
+name: "آلاشت",
+slug: "آلاشت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 951,
+name: "آمل",
+slug: "آمل",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 952,
+name: "بابل",
+slug: "بابل",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 953,
+name: "بابلسر",
+slug: "بابلسر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 954,
+name: "بالاده",
+slug: "مازندران-بالاده",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 955,
+name: "بهشهر",
+slug: "بهشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 956,
+name: "بهنمیر",
+slug: "بهنمیر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 957,
+name: "پل سفید",
+slug: "پل-سفید",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 958,
+name: "تنکابن",
+slug: "تنکابن",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 959,
+name: "جویبار",
+slug: "جویبار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 960,
+name: "چالوس",
+slug: "چالوس",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 961,
+name: "چمستان",
+slug: "چمستان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 962,
+name: "خرم آباد",
+slug: "مازندران-خرم-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 963,
+name: "خلیل شهر",
+slug: "خلیل-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 964,
+name: "خوش رودپی",
+slug: "خوش-رودپی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 965,
+name: "دابودشت",
+slug: "دابودشت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 966,
+name: "رامسر",
+slug: "رامسر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 967,
+name: "رستمکلا",
+slug: "رستمکلا",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 968,
+name: "رویان",
+slug: "رویان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 969,
+name: "رینه",
+slug: "رینه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 970,
+name: "زرگرمحله",
+slug: "زرگرمحله",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 971,
+name: "زیرآب",
+slug: "زیرآب",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 972,
+name: "ساری",
+slug: "ساری",
+isCapital: "1",
+districts: [
+{
+districtID: 4523,
+name: "۲۲بهمن"
+},
+{
+districtID: 6120,
+name: "آزاد گله"
+},
+{
+districtID: 4586,
+name: "آزادی"
+},
+{
+districtID: 6093,
+name: "آهی دشت"
+},
+{
+districtID: 6114,
+name: "اتحاد"
+},
+{
+districtID: 6117,
+name: "امام حسین"
+},
+{
+districtID: 4517,
+name: "باقرآباد"
+},
+{
+districtID: 6108,
+name: "پایین دزا"
+},
+{
+districtID: 4526,
+name: "پشت پرورشگاه"
+},
+{
+districtID: 5122,
+name: "پشت چین دکا"
+},
+{
+districtID: 4529,
+name: "پل تجن"
+},
+{
+districtID: 4534,
+name: "پل گردن"
+},
+{
+districtID: 4536,
+name: "پیوندی"
+},
+{
+districtID: 4539,
+name: "ترک محله"
+},
+{
+districtID: 5133,
+name: "جوادیه"
+},
+{
+districtID: 4546,
+name: "چال مسجد"
+},
+{
+districtID: 5124,
+name: "چهارراه کارمندان"
+},
+{
+districtID: 6102,
+name: "دانش"
+},
+{
+districtID: 6099,
+name: "دخانیات"
+},
+{
+districtID: 6126,
+name: "ذغالچال"
+},
+{
+districtID: 4556,
+name: "راهبند"
+},
+{
+districtID: 5125,
+name: "ششصد دستگاه "
+},
+{
+districtID: 4570,
+name: "شکرآباد"
+},
+{
+districtID: 6105,
+name: "شهابی"
+},
+{
+districtID: 4573,
+name: "شهبند"
+},
+{
+districtID: 4576,
+name: "شهرک شهرداری"
+},
+{
+districtID: 4579,
+name: "طبرستان"
+},
+{
+districtID: 6096,
+name: "قره جه"
+},
+{
+districtID: 4590,
+name: "کوی اصحاب"
+},
+{
+districtID: 4594,
+name: "کوی افشار"
+},
+{
+districtID: 6087,
+name: "کوی باهنر"
+},
+{
+districtID: 4598,
+name: "کوی پزشکان پردیس"
+},
+{
+districtID: 4604,
+name: "کوی جهاد"
+},
+{
+districtID: 4607,
+name: "کوی سنگ"
+},
+{
+districtID: 6090,
+name: "کوی کارگران"
+},
+{
+districtID: 5130,
+name: "کوی نور"
+},
+{
+districtID: 5131,
+name: "کوی هفت تیر"
+},
+{
+districtID: 5132,
+name: "گل افشان"
+},
+{
+districtID: 4617,
+name: "مازیار و کوی لاله"
+},
+{
+districtID: 6111,
+name: "مرکز شهر"
+},
+{
+districtID: 4620,
+name: "معلم (ساری نو) "
+},
+{
+districtID: 4623,
+name: "مهدی آباد"
+},
+{
+districtID: 4627,
+name: "مهیار"
+},
+{
+districtID: 4630,
+name: "میرزمانی "
+},
+{
+districtID: 6123,
+name: "هولا"
+}
+],
+allowedToFilterByDistrict: true
+},
+{
+cityID: 973,
+name: "سرخرود",
+slug: "سرخرود",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 974,
+name: "سلمان شهر",
+slug: "سلمان-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 975,
+name: "سورک",
+slug: "سورک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 976,
+name: "شیرگاه",
+slug: "شیرگاه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 977,
+name: "شیرود",
+slug: "شیرود",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 978,
+name: "عباس آباد",
+slug: "عباس-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 979,
+name: "فریدونکنار",
+slug: "فریدونکنار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 980,
+name: "فریم",
+slug: "فریم",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 981,
+name: "قائم شهر",
+slug: "قائم-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 982,
+name: "کتالم",
+slug: "کتالم",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 983,
+name: "کلارآباد",
+slug: "کلارآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 984,
+name: "کلاردشت",
+slug: "کلاردشت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 985,
+name: "کله بست",
+slug: "کله-بست",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 986,
+name: "کوهی خیل",
+slug: "کوهی-خیل",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 987,
+name: "کیاسر",
+slug: "کیاسر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 988,
+name: "کیاکلا",
+slug: "کیاکلا",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 989,
+name: "گتاب",
+slug: "گتاب",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 990,
+name: "گزنک",
+slug: "گزنک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 991,
+name: "گلوگاه",
+slug: "گلوگاه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 992,
+name: "محمودآباد",
+slug: "مازندران-محمودآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 993,
+name: "مرزن آباد",
+slug: "مرزن-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 994,
+name: "مرزیکلا",
+slug: "مرزیکلا",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 995,
+name: "نشتارود",
+slug: "نشتارود",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 996,
+name: "نکا",
+slug: "نکا",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 997,
+name: "نور",
+slug: "نور",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 998,
+name: "نوشهر",
+slug: "نوشهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1119,
+name: "سادات شهر",
+slug: "سادات-شهر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 28,
+name: "مرکزی",
+slug: "مرکزی",
+cities: [
+{
+cityID: 999,
+name: "اراک",
+slug: "اراک",
+isCapital: "1",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1000,
+name: "آستانه",
+slug: "آستانه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1001,
+name: "آشتیان",
+slug: "آشتیان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1002,
+name: "پرندک",
+slug: "پرندک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1003,
+name: "تفرش",
+slug: "تفرش",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1004,
+name: "توره",
+slug: "توره",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1005,
+name: "جاورسیان",
+slug: "جاورسیان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1006,
+name: "خشکرود",
+slug: "خشکرود",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1007,
+name: "خمین",
+slug: "خمین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1008,
+name: "خنداب",
+slug: "خنداب",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1009,
+name: "داودآباد",
+slug: "داودآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1010,
+name: "دلیجان",
+slug: "دلیجان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1011,
+name: "رازقان",
+slug: "رازقان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1012,
+name: "زاویه",
+slug: "زاویه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1013,
+name: "ساروق",
+slug: "ساروق",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1014,
+name: "ساوه",
+slug: "ساوه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1015,
+name: "سنجان",
+slug: "سنجان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1016,
+name: "شازند",
+slug: "شازند",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1017,
+name: "غرق آباد",
+slug: "غرق-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1018,
+name: "فرمهین",
+slug: "فرمهین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1019,
+name: "قورچی باشی",
+slug: "قورچی-باشی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1020,
+name: "کرهرود",
+slug: "کرهرود",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1021,
+name: "کمیجان",
+slug: "کمیجان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1022,
+name: "مامونیه",
+slug: "مامونیه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1023,
+name: "محلات",
+slug: "محلات",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1024,
+name: "مهاجران",
+slug: "مهاجران",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1025,
+name: "میلاجرد",
+slug: "میلاجرد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1026,
+name: "نراق",
+slug: "نراق",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1027,
+name: "نوبران",
+slug: "نوبران",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1028,
+name: "نیمور",
+slug: "نیمور",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1029,
+name: "هندودر",
+slug: "هندودر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 29,
+name: "هرمزگان",
+slug: "هرمزگان",
+cities: [
+{
+cityID: 1030,
+name: "ابوموسی",
+slug: "ابوموسی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1031,
+name: "بستک",
+slug: "بستک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1032,
+name: "بندرجاسک",
+slug: "بندرجاسک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1033,
+name: "بندرچارک",
+slug: "بندرچارک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1034,
+name: "بندرخمیر",
+slug: "بندرخمیر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1035,
+name: "بندرعباس",
+slug: "بندرعباس",
+isCapital: "1",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1036,
+name: "بندرلنگه",
+slug: "بندرلنگه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1037,
+name: "بیکا",
+slug: "بیکا",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1038,
+name: "پارسیان",
+slug: "پارسیان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1039,
+name: "تخت",
+slug: "تخت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1040,
+name: "جناح",
+slug: "جناح",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1041,
+name: "حاجی آباد",
+slug: "هرمزگان-حاجی-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1042,
+name: "درگهان",
+slug: "درگهان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1043,
+name: "دهبارز",
+slug: "دهبارز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1044,
+name: "رویدر",
+slug: "رویدر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1045,
+name: "زیارتعلی",
+slug: "زیارتعلی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1046,
+name: "سردشت",
+slug: "هرمزگان-سردشت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1047,
+name: "سندرک",
+slug: "سندرک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1048,
+name: "سوزا",
+slug: "سوزا",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1049,
+name: "سیریک",
+slug: "سیریک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1050,
+name: "فارغان",
+slug: "فارغان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1051,
+name: "فین",
+slug: "فین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1052,
+name: "قشم",
+slug: "قشم",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1053,
+name: "قلعه قاضی",
+slug: "قلعه-قاضی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1054,
+name: "کنگ",
+slug: "کنگ",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1055,
+name: "کوشکنار",
+slug: "کوشکنار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1056,
+name: "کیش",
+slug: "کیش",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1057,
+name: "گوهران",
+slug: "گوهران",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1058,
+name: "میناب",
+slug: "میناب",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1059,
+name: "هرمز",
+slug: "هرمز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1060,
+name: "هشتبندی",
+slug: "هشتبندی",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 30,
+name: "همدان",
+slug: "استان-همدان",
+cities: [
+{
+cityID: 1061,
+name: "ازندریان",
+slug: "ازندریان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1062,
+name: "اسدآباد",
+slug: "اسدآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1063,
+name: "برزول",
+slug: "برزول",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1064,
+name: "بهار",
+slug: "بهار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1065,
+name: "تویسرکان",
+slug: "تویسرکان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1066,
+name: "جورقان",
+slug: "جورقان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1067,
+name: "جوکار",
+slug: "جوکار",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1068,
+name: "دمق",
+slug: "دمق",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1069,
+name: "رزن",
+slug: "رزن",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1070,
+name: "زنگنه",
+slug: "زنگنه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1071,
+name: "سامن",
+slug: "سامن",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1072,
+name: "سرکان",
+slug: "سرکان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1073,
+name: "شیرین سو",
+slug: "شیرین-سو",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1074,
+name: "صالح آباد",
+slug: "همدان-صالح-آباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1075,
+name: "فامنین",
+slug: "فامنین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1076,
+name: "فرسفج",
+slug: "فرسفج",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1077,
+name: "فیروزان",
+slug: "فیروزان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1078,
+name: "قروه درجزین",
+slug: "قروه-درجزین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1079,
+name: "قهاوند",
+slug: "قهاوند",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1080,
+name: "کبودر آهنگ",
+slug: "کبودر-آهنگ",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1081,
+name: "گل تپه",
+slug: "گل-تپه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1082,
+name: "گیان",
+slug: "گیان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1083,
+name: "لالجین",
+slug: "لالجین",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1084,
+name: "مریانج",
+slug: "مریانج",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1085,
+name: "ملایر",
+slug: "ملایر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1086,
+name: "نهاوند",
+slug: "نهاوند",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1087,
+name: "همدان",
+slug: "همدان",
+isCapital: "1",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+},
+{
+provinceID: 31,
+name: "یزد",
+slug: "استان-یزد",
+cities: [
+{
+cityID: 1088,
+name: "ابرکوه",
+slug: "ابرکوه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1089,
+name: "احمدآباد",
+slug: "احمدآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1090,
+name: "اردکان",
+slug: "یزد-اردکان",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1091,
+name: "اشکذر",
+slug: "اشکذر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1092,
+name: "بافق",
+slug: "بافق",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1093,
+name: "بفروئیه",
+slug: "بفروئیه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1094,
+name: "بهاباد",
+slug: "بهاباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1095,
+name: "تفت",
+slug: "تفت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1096,
+name: "حمیدیا",
+slug: "حمیدیا",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1097,
+name: "خضرآباد",
+slug: "خضرآباد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1098,
+name: "دیهوک",
+slug: "دیهوک",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1099,
+name: "زارچ",
+slug: "زارچ",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1100,
+name: "شاهدیه",
+slug: "شاهدیه",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1101,
+name: "طبس",
+slug: "یزد-طبس",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1103,
+name: "عقدا",
+slug: "عقدا",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1104,
+name: "مروست",
+slug: "مروست",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1105,
+name: "مهردشت",
+slug: "مهردشت",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1106,
+name: "مهریز",
+slug: "مهریز",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1107,
+name: "میبد",
+slug: "میبد",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1108,
+name: "ندوشن",
+slug: "ندوشن",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1109,
+name: "نیر",
+slug: "یزد-نیر",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1110,
+name: "هرات",
+slug: "هرات",
+isCapital: "0",
+districts: [ ],
+allowedToFilterByDistrict: false
+},
+{
+cityID: 1111,
+name: "یزد",
+slug: "یزد",
+isCapital: "1",
+districts: [ ],
+allowedToFilterByDistrict: false
+}
+],
+allowedToFilterByCity: true
+]
+}

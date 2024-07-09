@@ -1,0 +1,23 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "complainTypeID": {
+                        "type": "integer"
+                    },
+                    "title": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "complainTypeID",
+                    "title"
+                ]
+            }
+        }
+    }
+}

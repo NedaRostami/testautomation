@@ -1,0 +1,100 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "total": {
+                    "type": "integer"
+                },
+                "r": {
+                    "type": "string"
+                },
+                "lv": {
+                    "type": ["string", "null"]
+                },
+                "sm": {
+                    "type": ["string", "null"]
+                },
+                "ls": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "id": {
+                                "type": "string"
+                            },
+                            "title": {
+                                "type": "string"
+                            },
+                            "l": {
+                                "type": "object",
+                                "properties": {
+                                    "r": {
+                                      "type": [
+                                          "null",
+                                          "string"
+                                      ]
+                                    },
+                                    "c": {
+                                      "type": [
+                                          "null",
+                                          "string"
+                                      ]
+                                    },
+                                    "n": {
+                                        "type": [
+                                            "null",
+                                            "string"
+                                        ]
+                                    }
+                                },
+                                "required": [
+                                    "c",
+                                    "n",
+                                    "r"
+                                ]
+                            },
+                            "p": {
+                                "type": "string"
+                            },
+                            "si": {
+                                "type": "string"
+                            },
+                            "ci": {
+                                "type": "string"
+                            },
+                            "i": {
+                                "type": "string"
+                            },
+                            "b": {
+                                "type": "boolean"
+                            },
+                            "s": {
+                                "type": ["string", "null"]
+                            }
+                        },
+                        "required": [
+                            "b",
+                            "ci",
+                            "i",
+                            "id",
+                            "l",
+                            "p",
+                            "s",
+                            "si",
+                            "title"
+                        ]
+                    }
+                }
+            },
+            "required": [
+                "ls",
+                "lv",
+                "r",
+                "sm",
+                "total"
+            ]
+        }
+    }
+}

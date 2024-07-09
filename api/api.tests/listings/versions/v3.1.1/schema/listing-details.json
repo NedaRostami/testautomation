@@ -1,0 +1,163 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "id": {
+                    "type": "string"
+                },
+                "title": {
+                    "type": "string"
+                },
+                "l": {
+                    "type": "object",
+                    "properties": {
+                        "r": {
+                            "type": "string"
+                        },
+                        "c": {
+                            "type": "string"
+                        },
+                        "n": {
+                            "type": ["string", "null"]
+                        }
+                    },
+                    "required": [
+                        "c",
+                        "n",
+                        "r"
+                    ]
+                },
+                "p": {
+                    "type": "string"
+                },
+                "si": {
+                    "type": "string"
+                },
+                "ci": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "desc": {
+                    "type": "string"
+                },
+                "i": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "thumb": {
+                                "type": "string"
+                            },
+                            "large": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "large",
+                            "thumb"
+                        ]
+                    }
+                },
+                "c": {
+                    "type": "object",
+                    "properties": {
+                        "c1": {
+                            "type": "string"
+                        },
+                        "c2": {
+                            "type": "string"
+                        },
+                        "c3": {
+                            "type": ["string", "null"]
+                        }
+                    },
+                    "required": [
+                        "c1",
+                        "c2",
+                        "c3"
+                    ]
+                },
+                "a": {
+                    "type": "array"
+                },
+                "t": {
+                    "type": "integer"
+                },
+                "ui": {
+                    "type": "integer"
+                },
+                "sc": {
+                    "type": "boolean"
+                },
+                "v": {
+                    "type": "boolean"
+                },
+                "tel": {
+                    "type": "string"
+                },
+                "cid": {
+                    "type": ["integer", "string", "null"]
+                },
+                "s": {
+                    "type": ["string", "null"]
+                },
+                "userInfo": {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "registeredFrom": {
+                            "type": "string"
+                        },
+                        "phoneVerified": {
+                            "type": "boolean"
+                        },
+                        "image": {
+                            "type": ["string", "null"]
+                        },
+                        "userId": {
+                            "type": "integer"
+                        }
+                    },
+                    "required": [
+                        "image",
+                        "name",
+                        "phoneVerified",
+                        "registeredFrom",
+                        "userId"
+                    ]
+                }
+            },
+            "required": [
+                "a",
+                "c",
+                "ci",
+                "cid",
+                "desc",
+                "i",
+                "id",
+                "l",
+                "p",
+                "s",
+                "sc",
+                "si",
+                "t",
+                "tel",
+                "title",
+                "ui",
+                "v"
+            ]
+        },
+        "status": {
+            "type": "integer",
+            "enum": [
+                200
+            ]
+        }
+    }
+}

@@ -1,0 +1,241 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "listingID": {
+                    "type": "string"
+                },
+                "title": {
+                    "type": "string"
+                },
+                "categoryID": {
+                    "type": "integer"
+                },
+                "ownerID": {
+                    "type": "integer"
+                },
+                "images": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "serverKey": {
+                                "type": ["string", "null"]
+                            },
+                            "isDefault": {
+                                "type": "boolean"
+                            },
+                            "fullSizeURL": {
+                                "type": "string"
+                            },
+                            "thumbnailURL": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "fullSizeURL",
+                            "isDefault",
+                            "serverKey",
+                            "thumbnailURL"
+                        ]
+                    }
+                },
+                "description": {
+                    "type": "string"
+                },
+                "attributes": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "attributeID": {
+                                "type": ["integer", "string"]
+                            },
+                            "attributeTitle": {
+                                "type": "string"
+                            },
+                            "attributeValue": {
+                                "type": ["integer","string"]
+                            },
+                            "attributeOrder": {
+                                "type": "integer"
+                            },
+                            "attributeIndex": {
+                                "type": "integer"
+                            },
+                            "shouldFillRow": {
+                                "type": "boolean"
+                            }
+                        },
+                        "required": [
+                            "attributeID",
+                            "attributeIndex",
+                            "attributeOrder",
+                            "attributeTitle",
+                            "attributeValue",
+                            "shouldFillRow"
+                        ]
+                    }
+                },
+                "listingURL": {
+                    "type": "string"
+                },
+                "userType": {
+                    "type": "integer"
+                },
+                "moderationStatus": {
+                    "type": "integer"
+                },
+                "locationID": {
+                    "type": "integer"
+                },
+                "locationType": {
+                    "type": "integer"
+                },
+                "expirationDate": {
+                    "type": "string"
+                },
+                "phoneNumberIsVerified": {
+                    "type": "boolean"
+                },
+                "hiddenPhoneNumber": {
+                    "type": "string"
+                },
+                "shouldShowContact": {
+                    "type": "boolean"
+                },
+                "sortInfo": {
+                    "type": "string"
+                },
+                "isChatEnabled": {
+                    "type": "boolean"
+                },
+                "relatedListings": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "listingID": {
+                                "type": "string"
+                            },
+                            "title": {
+                                "type": "string"
+                            },
+                            "thumbImageURL": {
+                                "type": "string"
+                            },
+                            "locationName": {
+                                "type": "string"
+                            },
+                            "attributes": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "properties": {
+                                        "attributeID": {
+                                            "type": ["integer", "string"]
+                                        },
+                                        "attributeTitle": {
+                                            "type": "string"
+                                        },
+                                        "attributeValue": {
+                                            "type": ["string", "integer"]
+                                        },
+                                        "attributeOrder": {
+                                            "type": "integer"
+                                        },
+                                        "attributeIndex": {
+                                            "type": "integer"
+                                        },
+                                        "shouldFillRow": {
+                                            "type": "boolean"
+                                        }
+                                    },
+                                    "required": [
+                                        "attributeID",
+                                        "attributeIndex",
+                                        "attributeOrder",
+                                        "attributeTitle",
+                                        "attributeValue",
+                                        "shouldFillRow"
+                                    ]
+                                }
+                            },
+                            "lastModifiedDate": {
+                                "type": "string"
+                            },
+                            "priceString": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "attributes",
+                            "lastModifiedDate",
+                            "listingID",
+                            "locationName",
+                            "priceString",
+                            "thumbImageURL",
+                            "title"
+                        ]
+                    }
+                },
+                "userInfo": {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "registeredFrom": {
+                            "type": "string"
+                        },
+                        "phoneVerified": {
+                            "type": "boolean"
+                        },
+                        "image": {
+                            "type": ["string", "null"]
+                        },
+                        "userId": {
+                            "type": "integer"
+                        }
+                    },
+                    "required": [
+                        "image",
+                        "name",
+                        "phoneVerified",
+                        "registeredFrom",
+                        "userId"
+                    ]
+                }
+            },
+            "required": [
+                "attributes",
+                "categoryID",
+                "description",
+                "expirationDate",
+                "hiddenPhoneNumber",
+                "images",
+                "isChatEnabled",
+                "listingID",
+                "listingURL",
+                "locationID",
+                "locationType",
+                "moderationStatus",
+                "ownerID",
+                "phoneNumberIsVerified",
+                "relatedListings",
+                "shouldShowContact",
+                "sortInfo",
+                "title",
+                "userType"
+            ]
+        },
+        "status": {
+            "type": "integer",
+            "enum": [
+                200
+            ]
+        }
+    }
+}

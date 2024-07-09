@@ -1,0 +1,17 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "message": {
+                    "type": "string",
+                    "default": "پروفایل شما با موفقیت بروزرسانی شد"
+                }
+            },
+            "required": [
+                "message"
+            ]
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "message": {
+                    "type": "string",
+                    "default": "یک کد تایید به شماره موبایل شما ارسال شد"
+                },
+                "userState": {
+                    "type": "integer",
+                    "default": 3
+                },
+                "token": {
+                    "type": "string",
+                    "default": "eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJleHAiOjE1NTIxMjA4NzAsIm1vYmlsZSI6IjA5OTkzNTczMjI2In0."
+                },
+                "mobileNumber": {
+                    "type": "string",
+                    "default": "0900XXX3226"
+                },
+                "isNewUser": {
+                    "type": "boolean",
+                    "default": true
+                }
+            },
+            "required": [
+                "isNewUser",
+                "message",
+                "mobileNumber",
+                "token",
+                "userState"
+            ]
+        }
+    }
+}

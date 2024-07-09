@@ -1,0 +1,28 @@
+{
+    "properties": {
+        "body": {
+            "properties": {
+                "issueDate": {
+                    "type": "string"
+                },
+                "complaintID": {
+                    "type": "integer"
+                },
+                "message": {
+                    "type": "string"
+                },
+                "listingID": {
+                    "type": "integer"
+                }
+            },
+            "type": "object",
+            "required": [
+                "complaintID",
+                "issueDate",
+                "listingID",
+                "message"
+            ]
+        }
+    },
+    "type": "object"
+}

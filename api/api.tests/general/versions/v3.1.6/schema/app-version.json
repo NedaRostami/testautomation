@@ -1,0 +1,28 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "latestVersion": {
+                    "type": "string"
+                },
+                "minimumSupportedVersion": {
+                    "type": "string"
+                },
+                "downloadURL": {
+                    "type": "string"
+                },
+                "forceUpdate": {
+                    "type": "boolean"
+                }
+            },
+            "required": [
+                "downloadURL",
+                "forceUpdate",
+                "latestVersion",
+                "minimumSupportedVersion"
+            ]
+        }
+    }
+}

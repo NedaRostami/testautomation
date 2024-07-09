@@ -1,0 +1,34 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "type": "string"
+                    },
+                    "name": {
+                        "type": "string"
+                    },
+                    "matchedName": {
+                        "type": "string"
+                    },
+                    "alternatives": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    }
+                },
+                "required": [
+                    "alternatives",
+                    "id",
+                    "matchedName",
+                    "name"
+                ]
+            }
+        }
+    }
+}

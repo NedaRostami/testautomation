@@ -1,0 +1,134 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "listingID": {
+                    "type": "string"
+                },
+                "title": {
+                    "type": "string"
+                },
+                "categoryID": {
+                    "type": "integer"
+                },
+                "ownerID": {
+                    "type": "integer"
+                },
+                "images": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "serverKey": {
+                                "type": "string"
+                            },
+                            "isDefault": {
+                                "type": "boolean"
+                            },
+                            "fullSizeURL": {
+                                "type": "string"
+                            },
+                            "thumbnailURL": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "fullSizeURL",
+                            "isDefault",
+                            "serverKey",
+                            "thumbnailURL"
+                        ]
+                    }
+                },
+                "description": {
+                    "type": "string"
+                },
+                "attributes": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "attributeID": {
+                                "type": ["integer", "string", "null"]
+                            },
+                            "attributeTitle": {
+                                "type": "string"
+                            },
+                            "attributeValue": {
+                                "type": ["integer", "string", "null"]
+                            },
+                            "attributeOrder": {
+                                "type": "integer"
+                            },
+                            "attributeIndex": {
+                                "type": "integer"
+                            },
+                            "shouldFillRow": {
+                                "type": "boolean"
+                            }
+                        },
+                        "required": [
+                            "attributeID",
+                            "attributeIndex",
+                            "attributeOrder",
+                            "attributeTitle",
+                            "attributeValue",
+                            "shouldFillRow"
+                        ]
+                    }
+                },
+                "lastModifiedDateString": {
+                    "type": "string"
+                },
+                "listingURL": {
+                    "type": "string"
+                },
+                "userType": {
+                    "type": "integer"
+                },
+                "moderationStatus": {
+                    "type": "integer"
+                },
+                "locationID": {
+                    "type": "integer"
+                },
+                "locationType": {
+                    "type": "integer"
+                },
+                "districtName": {
+                    "type": "string"
+                },
+                "hasEmail": {
+                    "type": "boolean"
+                },
+                "expirationDate": {
+                    "type": "string"
+                },
+                "relatedListings": {
+                    "type": "array"
+                }
+            },
+            "required": [
+                "attributes",
+                "categoryID",
+                "description",
+                "districtName",
+                "expirationDate",
+                "hasEmail",
+                "images",
+                "lastModifiedDateString",
+                "listingID",
+                "listingURL",
+                "locationID",
+                "locationType",
+                "moderationStatus",
+                "ownerID",
+                "relatedListings",
+                "title",
+                "userType"
+            ]
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "contactInfo": {
+                    "type": "string",
+                    "default": "f0a96a635e619e9d62212ed4d58184a3@im.mielse.com"
+                }
+            },
+            "required": [
+                "contactInfo"
+            ]
+        }
+    }
+}

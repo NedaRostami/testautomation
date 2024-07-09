@@ -1,0 +1,30 @@
+{
+    "properties": {
+        "body": {
+            "properties": {
+                "success": {
+                    "type": "boolean"
+                },
+                "unfavoritedIds": {
+                    "type": "array",
+                    "items": {
+                        "type": "integer"
+                    }
+                },
+                "favoritedIds": {
+                    "type": "array",
+                    "items": {
+                        "type": "integer"
+                    }
+                }
+            },
+            "type": "object",
+            "required": [
+                "favoritedIds",
+                "success",
+                "unfavoritedIds"
+            ]
+        }
+    },
+    "type": "object"
+}

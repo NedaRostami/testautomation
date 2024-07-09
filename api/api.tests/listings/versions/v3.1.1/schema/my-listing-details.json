@@ -1,0 +1,167 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "id": {
+                    "type": "string"
+                },
+                "title": {
+                    "type": "string"
+                },
+                "l": {
+                    "type": "object",
+                    "properties": {
+                        "r": {
+                            "type": "string"
+                        },
+                        "c": {
+                            "type": "string"
+                        },
+                        "n": {
+                            "type": ["string","null"]
+                        },
+                        "id": {
+                            "type": "integer"
+                        },
+                        "t": {
+                            "type": "integer"
+                        }
+                    },
+                    "required": [
+                        "c",
+                        "id",
+                        "n",
+                        "r",
+                        "t"
+                    ]
+                },
+                "p": {
+                    "type": "string"
+                },
+                "si": {
+                    "type": "string"
+                },
+                "ci": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    },
+                    "default": [
+                        "chat",
+                        "call",
+                        "sms"
+                    ]
+                },
+                "desc": {
+                    "type": "string"
+                },
+                "i": {
+                    "type": "array"
+                },
+                "c": {
+                    "type": "object",
+                    "properties": {
+                        "c1": {
+                            "type": "string"
+                        },
+                        "c2": {
+                            "type": "string"
+                        },
+                        "c3": {
+                            "type": ["string", "null"]
+                        },
+                        "id": {
+                            "type": "integer"
+                        }
+                    },
+                    "required": [
+                        "c1",
+                        "c2",
+                        "c3",
+                        "id"
+                    ]
+                },
+                "a": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "id": {
+                                "type": ["integer", "string", "null"]
+                            },
+                            "t": {
+                                "type": "string"
+                            },
+                            "v": {
+                                "type": ["integer", "string", "null"]
+                            },
+                            "lk": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "id",
+                            "lk",
+                            "t",
+                            "v"
+                        ]
+                    }
+                },
+                "t": {
+                    "type": "integer"
+                },
+                "ui": {
+                    "type": "integer"
+                },
+                "sc": {
+                    "type": "boolean"
+                },
+                "v": {
+                    "type": "boolean"
+                },
+                "tel": {
+                    "type": "string"
+                },
+                "cid": {
+                    "type": "null"
+                },
+                "m": {
+                    "type": "integer"
+                },
+                "cbb": {
+                    "type": "boolean"
+                },
+                "bs": {
+                    "type": "string"
+                },
+                "e": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "a",
+                "bs",
+                "c",
+                "cbb",
+                "ci",
+                "cid",
+                "desc",
+                "e",
+                "i",
+                "id",
+                "l",
+                "m",
+                "p",
+                "sc",
+                "si",
+                "t",
+                "tel",
+                "title",
+                "ui",
+                "v"
+            ]
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "provinceID": {
+                        "type": "integer"
+                    },
+                    "name": {
+                        "type": "string"
+                    },
+                    "slug": {
+                        "type": "string"
+                    },
+                    "cities": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "cityID": {
+                                    "type": "integer"
+                                },
+                                "name": {
+                                    "type": "string"
+                                },
+                                "slug": {
+                                    "type": "string"
+                                },
+                                "districts": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "object",
+                                        "properties": {
+                                            "districtID": {
+                                                "type": "integer"
+                                            },
+                                            "name": {
+                                                "type": "string"
+                                            }
+                                        },
+                                        "required": [
+                                            "districtID",
+                                            "name"
+                                        ]
+                                    }
+                                },
+                                "allowedToFilterByDistrict": {
+                                    "type": "boolean"
+                                }
+                            },
+                            "required": [
+                                "allowedToFilterByDistrict",
+                                "cityID",
+                                "districts",
+                                "name",
+                                "slug"
+                            ]
+                        }
+                    },
+                    "allowedToFilterByCity": {
+                        "type": "boolean"
+                    }
+                },
+                "required": [
+                    "allowedToFilterByCity",
+                    "cities",
+                    "name",
+                    "provinceID",
+                    "slug"
+                ]
+            }
+        }
+    }
+}

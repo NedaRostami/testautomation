@@ -1,0 +1,23 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "categoryID": {
+                        "type": "integer"
+                    },
+                    "title": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "categoryID",
+                    "title"
+                ]
+            }
+        }
+    }
+}

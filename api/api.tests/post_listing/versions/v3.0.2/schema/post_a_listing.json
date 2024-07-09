@@ -1,0 +1,165 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "message": {
+                    "type": "string"
+                },
+                "listingID": {
+                    "type": "string"
+                },
+                "title": {
+                    "type": "string"
+                },
+                "price": {
+                    "type": "null"
+                },
+                "paidFeatures": {
+                    "type": "object",
+                    "properties": {
+                        "info": {
+                            "type": "object",
+                            "properties": {
+                                "paidFeatureTitle": {
+                                    "type": "string"
+                                },
+                                "paidFeatureDescription": {
+                                    "type": "string"
+                                },
+                                "paidFeatureHeader": {
+                                    "type": "string"
+                                },
+                                "paidFeaturesBack": {
+                                    "type": "string"
+                                }
+                            },
+                            "required": [
+                                "paidFeatureDescription",
+                                "paidFeatureHeader",
+                                "paidFeatureTitle",
+                                "paidFeaturesBack"
+                            ]
+                        },
+                        "bumps": {
+                            "type": "array",
+                            "items": {
+                                "type": "object",
+                                "properties": {
+                                    "id": {
+                                        "type": "integer"
+                                    },
+                                    "price": {
+                                        "type": "integer"
+                                    },
+                                    "bumpType": {
+                                        "type": "string"
+                                    },
+                                    "lifeTime": {
+                                        "type": "integer"
+                                    },
+                                    "showInBumpList": {
+                                        "type": "boolean"
+                                    },
+                                    "sku": {
+                                        "type": "string"
+                                    },
+                                    "analyticsKey": {
+                                        "type": "string"
+                                    },
+                                    "title": {
+                                        "type": "string"
+                                    },
+                                    "color": {
+                                        "type": "string"
+                                    }
+                                },
+                                "required": [
+                                    "analyticsKey",
+                                    "bumpType",
+                                    "color",
+                                    "id",
+                                    "lifeTime",
+                                    "price",
+                                    "showInBumpList",
+                                    "sku",
+                                    "title"
+                                ]
+                            },
+                            "default": [
+                                {
+                                    "id": 1,
+                                    "price": 5000,
+                                    "bumpType": "refresh",
+                                    "lifeTime": 0,
+                                    "showInBumpList": false,
+                                    "sku": "refresh",
+                                    "analyticsKey": "bump_refresh",
+                                    "title": "بروزرسانی (۲۴ ساعت پس از تایید)",
+                                    "color": "#8f1864"
+                                },
+                                {
+                                    "id": 2,
+                                    "price": 10000,
+                                    "bumpType": "refresh_top3",
+                                    "lifeTime": 24,
+                                    "showInBumpList": true,
+                                    "sku": "refresh_top3",
+                                    "analyticsKey": "bump_refresh24",
+                                    "title": "بروزرسانی + ۲۴ ساعت ویترین (۲۴ ساعت پس از تایید)",
+                                    "color": "#18d176"
+                                },
+                                {
+                                    "id": 3,
+                                    "price": 16000,
+                                    "bumpType": "refresh_top3_2x",
+                                    "lifeTime": 48,
+                                    "showInBumpList": true,
+                                    "sku": "refresh_top3_2x",
+                                    "analyticsKey": "bump_refresh48",
+                                    "title": "۲ بار بروزرسانی + ۴۸ ساعت ویترین (۲۴ ساعت پس از تایید)",
+                                    "color": "#ffc000"
+                                }
+                            ]
+                        },
+                        "bumpTitle": {
+                            "type": "string"
+                        }
+                    },
+                    "required": [
+                        "bumpTitle",
+                        "bumps",
+                        "info"
+                    ]
+                },
+                "links": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "title": {
+                                "type": "string"
+                            },
+                            "url": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "title",
+                            "url"
+                        ]
+                    }
+                }
+            },
+            "required": [
+                "links",
+                "listingID",
+                "message",
+                "paidFeatures",
+                "price",
+                "title"
+            ]
+        }
+    }
+}

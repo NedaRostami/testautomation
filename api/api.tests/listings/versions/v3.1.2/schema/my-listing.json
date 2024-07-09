@@ -1,0 +1,115 @@
+{
+    "properties": {
+        "body": {
+            "required": [
+                "listings",
+                "totalCount"
+            ],
+            "properties": {
+                "listings": {
+                    "items": {
+                        "required": [
+                            "bumpStatus",
+                            "canBeBumped",
+                            "certificate",
+                            "contactInfo",
+                            "expirationDateString",
+                            "imagesCount",
+                            "moderationStatus",
+                            "priceString",
+                            "priceTag",
+                            "sortInfo",
+                            "thumbImageURL",
+                            "title"
+                        ],
+                        "properties": {
+                            "listingID": {
+                                "type": "string"
+                            },
+                            "expirationDateString": {
+                                "type": "string"
+                            },
+                            "shopLogo": {
+                                "type": ["string", "null"]
+                            },
+                            "isBumped": {
+                                "type": "boolean"
+                            },
+                            "thumbImageURL": {
+                                "type": "string"
+                            },
+                            "priceTag": {
+                                "type": ["array", "null"]
+                            },
+                            "moderationStatus": {
+                                "type": "integer"
+                            },
+                            "sortInfo": {
+                                "type": "string"
+                            },
+                            "location": {
+                                "required": [
+                                    "city",
+                                    "locationID",
+                                    "locationType",
+                                    "neighbourhood",
+                                    "region"
+                                ],
+                                "properties": {
+                                    "locationID": {
+                                        "type": "integer"
+                                    },
+                                    "region": {
+                                        "type": "string"
+                                    },
+                                    "neighbourhood": {
+                                        "type": ["string", "null"]
+                                    },
+                                    "locationType": {
+                                        "type": "integer"
+                                    },
+                                    "city": {
+                                        "type": "string"
+                                    },
+
+                                },
+                                "type": "object"
+                            },
+                            "canBeBumped": {
+                                "type": "boolean"
+                            },
+                            "bumpStatus": {
+                                "type": "string"
+                            },
+                            "certificate": {
+                                "type": ["object", "null"]
+                            },
+                            "priceString": {
+                                "type": "string"
+                            },
+                            "title": {
+                                "type": "string"
+                            },
+                            "imagesCount": {
+                                "type": "integer"
+                            },
+                            "contactInfo": {
+                                "type": "string"
+                            },
+                            "type": {
+                                "type": "string"
+                            }
+                        },
+                        "type": "object"
+                    },
+                    "type": "array"
+                },
+                "totalCount": {
+                    "type": "string"
+                }
+            },
+            "type": "object"
+        }
+    },
+    "type": "object"
+}

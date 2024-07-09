@@ -1,0 +1,16 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "contactInfo": {
+                    "type": ["string", "null"]
+                }
+            },
+            "required": [
+                "contactInfo"
+            ]
+        }
+    }
+}

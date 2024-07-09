@@ -1,0 +1,16 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "deepLink": {
+                    "type": "string",
+                }
+            },
+            "required": [
+                "deepLink"
+            ]
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "isSpecialInHome": {
+                        "type": "integer"
+                    },
+                    "contactInfo": {
+                        "type": "string"
+                    },
+                    "title": {
+                        "type": "string"
+                    },
+                    "priceString": {
+                        "type": "string"
+                    },
+                    "listingID": {
+                        "type": "string"
+                    },
+                    "priceTag": {
+                        "type": ["array", "null"]
+                    },
+                    "type": {
+                        "type": "string"
+                    },
+                    "isBumped": {
+                        "type": "boolean"
+                    },
+                    "isSpecial": {
+                        "type": "integer"
+                    },
+                    "shopLogo": {
+                        "type": ["string", "null"]
+                    },
+                    "thumbImageURL": {
+                        "type": ["string", "null"]
+                    },
+                    "location": {
+                        "type": "object",
+                        "properties": {
+                            "neighbourhood": {
+                                "type": "string"
+                            },
+                            "city": {
+                                "type": "string"
+                            },
+                            "region": {
+                                "type": ["string", "null"]
+                            }
+                        },
+                        "required": [
+                            "city",
+                            "neighbourhood",
+                            "region"
+                        ]
+                    },
+                    "certificate": {
+                        "type": ["null", "object"]
+                    },
+                    "separatorMessage": {
+                        "type": ["null", "string"]
+                    },
+                    "sortInfo": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "certificate",
+                    "contactInfo",
+                    "isBumped",
+                    "isSpecial",
+                    "isSpecialInHome",
+                    "listingID",
+                    "location",
+                    "priceString",
+                    "priceTag",
+                    "separatorMessage",
+                    "shopLogo",
+                    "sortInfo",
+                    "thumbImageURL",
+                    "title",
+                    "type"
+                ]
+            }
+        }
+    }
+}

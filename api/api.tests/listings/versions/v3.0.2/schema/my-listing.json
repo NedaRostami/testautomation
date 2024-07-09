@@ -1,0 +1,86 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "listingID": {
+                        "type": "string"
+                    },
+                    "title": {
+                        "type": "string"
+                    },
+                    "thumbImageURL": {
+                        "type": "string"
+                    },
+                    "locationName": {
+                        "type": "string"
+                    },
+                    "attributes": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "attributeID": {
+                                   "type": ["integer", "string", "null"]
+                                },
+                                "attributeValue": {
+                                    "type": ["string", "null"]
+                                }
+                            },
+                            "required": [
+                                "attributeID",
+                                "attributeValue"
+                            ]
+                        }
+                    },
+                    "separatorFlag": {
+                        "type": "boolean"
+                    },
+                    "separatorMessage": {
+                        "type": "string"
+                    },
+                    "priceString": {
+                        "type": "string"
+                    },
+                    "bumpStatus": {
+                        "type": "string"
+                    },
+                    "ci": {
+                        "type": "string"
+                    },
+                    "lastModifiedDateString": {
+                        "type": "string"
+                    },
+                    "canBeBumped": {
+                        "type": "boolean"
+                    },
+                    "moderationStatus": {
+                        "type": "integer"
+                    },
+                    "expirationDateString": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "attributes",
+                    "bumpStatus",
+                    "canBeBumped",
+                    "ci",
+                    "expirationDateString",
+                    "lastModifiedDateString",
+                    "listingID",
+                    "locationName",
+                    "moderationStatus",
+                    "priceString",
+                    "separatorFlag",
+                    "separatorMessage",
+                    "thumbImageURL",
+                    "title"
+                ]
+            }
+        }
+    }
+}

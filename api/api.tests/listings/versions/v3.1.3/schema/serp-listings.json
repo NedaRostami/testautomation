@@ -1,0 +1,115 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "totalCount": {
+                    "type": "integer"
+                },
+                "requestDateTime": {
+                    "type": "string"
+                },
+                "lastReceivedValue": {
+                    "type": ["string", "null"]
+                },
+                "serpMixItems": {
+                    "type": ["string", "null"]
+                },
+                "listings": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "listingID": {
+                                "type": "string"
+                            },
+                            "title": {
+                                "type": "string"
+                            },
+                            "location": {
+                                "type": "object",
+                                "properties": {
+                                    "region": {
+                                        "type": ["string", "null"]
+                                    },
+                                    "city": {
+                                        "type": ["string", "null"]
+                                    },
+                                    "neighbourhood": {
+                                        "type": ["string", "null"]
+                                    }
+                                },
+                                "required": [
+                                    "city",
+                                    "neighbourhood",
+                                    "region"
+                                ]
+                            },
+                            "priceString": {
+                                "type": "string"
+                            },
+                            "sortInfo": {
+                                "type": "string"
+                            },
+                            "contactInfo": {
+                                "type": "string"
+                            },
+                            "priceTag": {
+                                "type": ["array", "null"]
+                            },
+                            "certificate": {
+                                "type": ["object", "null"]
+                            },
+                            "thumbImageURL": {
+                                "type": "string"
+                            },
+                            "isBumped": {
+                                "type": "boolean"
+                            },
+                            "separatorMessage": {
+                                "type": ["string", "null"]
+                            },
+                            "type": {
+                                "type": "string"
+                            },
+                            "shopLogo": {
+                                "type": ["string", "null"]
+                            },
+                            "isSpecial": {
+                                "type": "integer"
+                            },
+                            "isSpecialInHome": {
+                                "type": "integer"
+                            }
+                        },
+                        "required": [
+                            "certificate",
+                            "contactInfo",
+                            "isBumped",
+                            "isSpecial",
+                            "isSpecialInHome",
+                            "listingID",
+                            "location",
+                            "priceString",
+                            "priceTag",
+                            "separatorMessage",
+                            "shopLogo",
+                            "sortInfo",
+                            "thumbImageURL",
+                            "title",
+                            "type"
+                        ]
+                    }
+                }
+            },
+            "required": [
+                "lastReceivedValue",
+                "listings",
+                "requestDateTime",
+                "serpMixItems",
+                "totalCount"
+            ]
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "queryString": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "queryString"
+            ]
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "totalCount": {
+                    "type": "string"
+                },
+                "listings": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "listingID": {
+                                "type": "string"
+                            },
+                            "title": {
+                                "type": "string"
+                            },
+                            "location": {
+                                "type": "object",
+                                "properties": {
+                                    "region": {
+                                        "type": "string"
+                                    },
+                                    "city": {
+                                        "type": "string"
+                                    },
+                                    "neighbourhood": {
+                                        "type": ["null", "string"]
+                                    },
+                                    "locationID": {
+                                        "type": "integer"
+                                    },
+                                    "locationType": {
+                                        "type": "integer"
+                                    }
+                                },
+                                "required": [
+                                    "city",
+                                    "locationID",
+                                    "locationType",
+                                    "neighbourhood",
+                                    "region"
+                                ]
+                            },
+                            "priceString": {
+                                "type": "string"
+                            },
+                            "sortInfo": {
+                                "type": "string"
+                            },
+                            "contactInfo": {
+                                "type": "string"
+                            },
+                            "priceTag": {
+                                "type": ["array", "null"]
+                            },
+                            "certificate": {
+                                "type": ["object", "null"]
+                            },
+                            "thumbImageURL": {
+                                "type": "string"
+                            },
+                            "isBumped": {
+                                "type": "boolean"
+                            },
+                            "imagesCount": {
+                                "type": "integer"
+                            },
+                            "moderationStatus": {
+                                "type": "integer"
+                            },
+                            "canBeBumped": {
+                                "type": "boolean"
+                            },
+                            "bumpStatus": {
+                                "type": "string"
+                            },
+                            "expirationDateString": {
+                                "type": "string"
+                            },
+                            "type": {
+                                "type": "string"
+                            },
+                            "shopLogo": {
+                                "type": ["string", "null"]
+                            },
+                            "isSpecial": {
+                                "type": "integer"
+                            },
+                            "isSpecialInHome": {
+                                "type": "integer"
+                            }
+                        },
+                        "required": [
+                            "bumpStatus",
+                            "canBeBumped",
+                            "certificate",
+                            "contactInfo",
+                            "expirationDateString",
+                            "imagesCount",
+                            "isBumped",
+                            "isSpecial",
+                            "isSpecialInHome",
+                            "listingID",
+                            "location",
+                            "moderationStatus",
+                            "priceString",
+                            "priceTag",
+                            "shopLogo",
+                            "sortInfo",
+                            "thumbImageURL",
+                            "title",
+                            "type"
+                        ]
+                    }
+                }
+            },
+            "required": [
+                "listings",
+                "totalCount"
+            ]
+        }
+    },
+    "type": "object"
+}

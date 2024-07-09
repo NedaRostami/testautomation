@@ -1,0 +1,65 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "x-ticket": {
+                    "type": "string",
+                    "default": "5f28a98e88bc36f14772969d7acdc512"
+                },
+                "userID": {
+                    "type": "integer",
+                    "default": 19600022
+                },
+                "emailAddress": {
+                    "type": ["string", "null"],
+                    "default": null
+                },
+                "mobileNumber": {
+                    "type": "string",
+                    "default": "09003573226"
+                },
+                "notificationKey": {
+                    "type": ["string", "null"],
+                    "default": null
+                },
+                "chat": {
+                    "type": "object",
+                    "properties": {
+                        "id": {
+                            "type": "string",
+                            "default": "8d432a0542b0b29cb55235b013ecbb2a"
+                        },
+                        "nickname": {
+                            "type": "null",
+                            "default": null
+                        },
+                        "isChatEnabled": {
+                            "type": "boolean",
+                            "default": false
+                        },
+                        "chatNotifications": {
+                            "type": "boolean",
+                            "default": true
+                        }
+                    },
+                    "required": [
+                        "chatNotifications",
+                        "id",
+                        "isChatEnabled",
+                        "nickname"
+                    ]
+                }
+            },
+            "required": [
+                "chat",
+                "emailAddress",
+                "mobileNumber",
+                "notificationKey",
+                "userID",
+                "x-ticket"
+            ]
+        }
+    }
+}

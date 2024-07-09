@@ -1,0 +1,111 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "listing": {
+                    "type": "object",
+                    "properties": {
+                        "filter": {
+                            "type": "object",
+                            "properties": {
+                                "withImage": {
+                                    "type": "boolean"
+                                },
+                                "withImageException": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "integer"
+                                    }
+                                }
+                            },
+                            "required": [
+                                "withImage",
+                                "withImageException"
+                            ]
+                        },
+                        "new": {
+                            "type": "object",
+                            "properties": {
+                                "maxPrice": {
+                                    "type": "integer"
+                                }
+                            },
+                            "required": [
+                                "maxPrice"
+                            ]
+                        }
+                    },
+                    "required": [
+                        "filter",
+                        "new"
+                    ]
+                },
+                "features": {
+                    "type": "object",
+                    "properties": {
+                        "savedSearch": {
+                            "type": "boolean"
+                        },
+                        "chat": {
+                            "type": "boolean"
+                        },
+                        "bump": {
+                            "type": "boolean"
+                        },
+                        "notifications": {
+                            "type": "boolean"
+                        },
+                        "leads-views": {
+                            "type": "boolean"
+                        },
+                        "paid-features": {
+                            "type": "boolean"
+                        },
+                        "newChat": {
+                            "type": "boolean"
+                        },
+                        "carSearch": {
+                            "type": "boolean"
+                        },
+                        "leads": {
+                            "type": "boolean"
+                        },
+                        "views": {
+                            "type": "boolean"
+                        },
+                        "carBodyInsurance": {
+                            "type": "boolean"
+                        },
+                        "thirdPartyInsurance": {
+                            "type": "boolean"
+                        }
+                    },
+                    "required": [
+                        "bump",
+                        "carBodyInsurance",
+                        "carSearch",
+                        "chat",
+                        "leads",
+                        "leads-views",
+                        "newChat",
+                        "notifications",
+                        "paid-features",
+                        "savedSearch",
+                        "thirdPartyInsurance",
+                        "views"
+                    ]
+                },
+                "notifications": {
+                    "type": "array"
+                }
+            },
+            "required": [
+                "features",
+                "listing",
+                "notifications"
+            ]
+        }
+    }
+}

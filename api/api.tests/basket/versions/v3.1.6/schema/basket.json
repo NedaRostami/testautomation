@@ -1,0 +1,139 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "products": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "id": {
+                                "type": "integer"
+                            },
+                            "title": {
+                                "type": "string"
+                            },
+                            "price": {
+                                "type": "string"
+                            },
+                            "image": {
+                                "type": "string"
+                            },
+                            "priceString": {
+                                "type": "string"
+                            },
+                            "up": {
+                                "type": "object",
+                                "properties": {
+                                    "count": {
+                                        "type": "integer"
+                                    },
+                                    "message": {
+                                        "type": "string"
+                                    }
+                                },
+                                "required": [
+                                    "count",
+                                    "message"
+                                ]
+                            },
+                            "down": {
+                                "type": "object",
+                                "properties": {
+                                    "count": {
+                                        "type": "integer"
+                                    },
+                                    "message": {
+                                        "type": "string"
+                                    }
+                                },
+                                "required": [
+                                    "count",
+                                    "message"
+                                ]
+                            },
+                            "shop": {
+                                "type": "object",
+                                "properties": {
+                                    "icon": {
+                                        "type": "string"
+                                    },
+                                    "id": {
+                                        "type": "integer"
+                                    },
+                                    "title": {
+                                        "type": "string"
+                                    },
+                                    "image": {
+                                        "type": "string"
+                                    }
+                                },
+                                "required": [
+                                    "icon",
+                                    "id",
+                                    "image",
+                                    "title"
+                                ]
+                            }
+                        },
+                        "required": [ "down",  "id", "image","price", "priceString","shop", "title","up"]
+                    },
+                    "default": []
+                },
+                "totalPrice": {
+                    "type": "integer"
+                },
+                "banner": {
+                    "type": "object",
+                    "properties": {
+                        "icon": {
+                            "type": "string",
+                            "default": ""
+                        },
+                        "links": {
+                            "type": "array",
+                            "default": []
+                        },
+                        "slogan": {
+                            "type": "string",
+                            "default": ""
+                        },
+                        "title": {
+                            "type": "string",
+                            "default": "با خیال راحت خرید کنید"
+                        },
+                        "description": {
+                            "type": "string",
+                            "default": "مبلغی که پرداخت می‌کنید به امانت نزد شیپور می‌ماند، کالا برای شما ارسال می‌شود و بعد از دریافت و تاییدِ شما مبلغ را منتقل می‌کنیم. در صورت مطابقت نداشتن کالای ارسالی با توضیحات فروشنده مبلغ پرداختی به شما بازگردانده می‌شود."
+                        }
+                    },
+                    "required": [
+                        "description",
+                        "icon",
+                        "links",
+                        "slogan",
+                        "title"
+                    ]
+                },
+                "deliveryPrice": {
+                    "type": "string",
+                    "default": "محاسبه در مرحله بعدی"
+                }
+            },
+            "required": [
+                "banner",
+                "deliveryPrice",
+                "products",
+                "totalPrice"
+            ]
+        },
+        "status": {
+            "type": "integer",
+            "enum": [
+                200
+            ]
+        }
+    }
+}

@@ -1,0 +1,529 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "categoryID": {
+                        "type": "integer"
+                    },
+                    "categoryTitle": {
+                        "type": "string"
+                    },
+                    "topCategory": {
+                        "type": "boolean"
+                    },
+                    "attributes": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "attributeID": {
+                                    "type": ["integer", "string", "null"]
+                                },
+                                "attributeTitle": {
+                                    "type": "string"
+                                },
+                                "attributeOrder": {
+                                    "type": "integer"
+                                },
+                                "attributeIndex": {
+                                    "type": "integer"
+                                },
+                                "isRequired": {
+                                    "type": "boolean"
+                                },
+                                "attributeType": {
+                                    "type": "integer"
+                                },
+                                "localyticsKey": {
+                                    "type": "string"
+                                },
+                                "attributeOptions": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "object",
+                                        "properties": {
+                                            "optionID": {
+                                                "type": "integer"
+                                            },
+                                            "optionValue": {
+                                                "type": "string"
+                                            }
+                                        },
+                                        "required": [
+                                            "optionID",
+                                            "optionValue"
+                                        ]
+                                    }
+                                },
+                                "groupName": {
+                                    "type": [
+                                        "string",
+                                        "null"
+                                    ]
+                                },
+                                "attributeDependency": {
+                                    "type": "array"
+                                },
+                                "isSeparated": {
+                                    "type": "boolean"
+                                },
+                                "viewPlace": {
+                                    "type": "string"
+                                },
+                                "queryKey": {
+                                    "type": "string"
+                                }
+                            },
+                            "required": [
+                                "attributeDependency",
+                                "attributeID",
+                                "attributeIndex",
+                                "attributeOptions",
+                                "attributeOrder",
+                                "attributeTitle",
+                                "attributeType",
+                                "groupName",
+                                "isRequired",
+                                "isSeparated",
+                                "localyticsKey",
+                                "queryKey",
+                                "viewPlace"
+                            ]
+                        }
+                    },
+                    "excludedAttributes": {
+                        "type": "array"
+                    },
+                    "children": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "categoryID": {
+                                    "type": "integer"
+                                },
+                                "categoryTitle": {
+                                    "type": "string"
+                                },
+                                "topCategory": {
+                                    "type": "boolean"
+                                },
+                                "attributes": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "object",
+                                        "properties": {
+                                            "attributeID": {
+                                                "type": ["integer", "string", "null"]
+                                            },
+                                            "attributeTitle": {
+                                                "type": "string"
+                                            },
+                                            "attributeOrder": {
+                                                "type": "integer"
+                                            },
+                                            "attributeIndex": {
+                                                "type": "integer"
+                                            },
+                                            "isRequired": {
+                                                "type": "boolean"
+                                            },
+                                            "attributeType": {
+                                                "type": "integer"
+                                            },
+                                            "localyticsKey": {
+                                                "type": "string"
+                                            },
+                                            "attributeOptions": {
+                                                "type": "array",
+                                                "items": {
+                                                    "type": "object",
+                                                    "properties": {
+                                                        "optionID": {
+                                                            "type": "integer"
+                                                        },
+                                                        "optionValue": {
+                                                            "type": "string"
+                                                        }
+                                                    },
+                                                    "required": [
+                                                        "optionID",
+                                                        "optionValue"
+                                                    ]
+                                                }
+                                            },
+                                            "groupName": {
+                                                "type": ["string", "null"]
+                                            },
+                                            "attributeDependency": {
+                                                "type": "array"
+                                            },
+                                            "isSeparated": {
+                                                "type": "boolean"
+                                            },
+                                            "viewPlace": {
+                                                "type": "string"
+                                            },
+                                            "queryKey": {
+                                                "type": "string"
+                                            }
+                                        },
+                                        "required": [
+                                            "attributeDependency",
+                                            "attributeID",
+                                            "attributeIndex",
+                                            "attributeOptions",
+                                            "attributeOrder",
+                                            "attributeTitle",
+                                            "attributeType",
+                                            "groupName",
+                                            "isRequired",
+                                            "isSeparated",
+                                            "localyticsKey",
+                                            "queryKey",
+                                            "viewPlace"
+                                        ]
+                                    }
+                                },
+                                "excludedAttributes": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "object",
+                                        "properties": {
+                                            "attributeID": {
+                                                "type": "integer"
+                                            }
+                                        },
+                                        "required": [
+                                            "attributeID"
+                                        ]
+                                    }
+                                },
+                                "children": {
+                                    "type": "array"
+                                },
+                                "sortOptions": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "object",
+                                        "properties": {
+                                            "optionID": {
+                                                "type": "integer"
+                                            },
+                                            "title": {
+                                                "type": "string"
+                                            }
+                                        },
+                                        "required": [
+                                            "optionID",
+                                            "title"
+                                        ]
+                                    }
+                                },
+                                "defaultSortOptionID": {
+                                    "type": "integer"
+                                },
+                                "iconURL": {
+                                    "type": "string"
+                                },
+                                "defaultImageURL": {
+                                    "type": "string"
+                                },
+                                "defaultThumbnailURL": {
+                                    "type": "string"
+                                },
+                                "optionalDistrictSelection": {
+                                    "type": "boolean"
+                                },
+                                "hasImageFilter": {
+                                    "type": "boolean"
+                                },
+                                "placeholders": {
+                                    "anyOf": [
+                                        {
+                                            "type": "null"
+                                        },
+                                        {
+                                            "type": "object",
+                                            "properties": {
+                                                "title": {
+                                                    "type": "string"
+                                                },
+                                                "description": {
+                                                    "type": "string"
+                                                }
+                                            },
+                                            "required": [
+                                                "description",
+                                                "title"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "brands": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "object",
+                                        "properties": {
+                                            "categoryID": {
+                                                "type": "integer"
+                                            },
+                                            "categoryTitle": {
+                                                "type": "string"
+                                            },
+                                            "topCategory": {
+                                                "type": "boolean"
+                                            },
+                                            "attributes": {
+                                                "type": "array",
+                                                "items": {
+                                                    "type": "object",
+                                                    "properties": {
+                                                        "attributeID": {
+                                                           "type": ["integer", "string", "null"]
+                                                        },
+                                                        "attributeTitle": {
+                                                            "type": "string"
+                                                        },
+                                                        "attributeOrder": {
+                                                            "type": "integer"
+                                                        },
+                                                        "attributeIndex": {
+                                                            "type": "integer"
+                                                        },
+                                                        "isRequired": {
+                                                            "type": "boolean"
+                                                        },
+                                                        "attributeType": {
+                                                            "type": "integer"
+                                                        },
+                                                        "localyticsKey": {
+                                                            "type": "string"
+                                                        },
+                                                        "attributeOptions": {
+                                                            "type": "array",
+                                                            "items": {
+                                                                "type": "object",
+                                                                "properties": {
+                                                                    "optionID": {
+                                                                        "type": "integer"
+                                                                    },
+                                                                    "optionValue": {
+                                                                        "type": "string"
+                                                                    }
+                                                                },
+                                                                "required": [
+                                                                    "optionID",
+                                                                    "optionValue"
+                                                                ]
+                                                            }
+                                                        },
+                                                        "groupName": {
+                                                            "type": ["string", "null"]
+                                                        },
+                                                        "attributeDependency": {
+                                                            "type": "array",
+                                                            "items": {
+                                                                "type": "array",
+                                                                "items": {
+                                                                    "type": "string"
+                                                                }
+                                                            }
+                                                        },
+                                                        "isSeparated": {
+                                                            "type": "boolean"
+                                                        },
+                                                        "viewPlace": {
+                                                            "type": "string"
+                                                        },
+                                                        "queryKey": {
+                                                            "type": "string"
+                                                        }
+                                                    },
+                                                    "required": [
+                                                        "attributeDependency",
+                                                        "attributeID",
+                                                        "attributeIndex",
+                                                        "attributeOptions",
+                                                        "attributeOrder",
+                                                        "attributeTitle",
+                                                        "attributeType",
+                                                        "groupName",
+                                                        "isRequired",
+                                                        "isSeparated",
+                                                        "localyticsKey",
+                                                        "queryKey",
+                                                        "viewPlace"
+                                                    ]
+                                                }
+                                            },
+                                            "excludedAttributes": {
+                                                "type": "array"
+                                            },
+                                            "children": {
+                                                "type": "array"
+                                            },
+                                            "sortOptions": {
+                                                "type": "array",
+                                                "items": {
+                                                    "type": "object",
+                                                    "properties": {
+                                                        "optionID": {
+                                                            "type": "integer"
+                                                        },
+                                                        "title": {
+                                                            "type": "string"
+                                                        }
+                                                    },
+                                                    "required": [
+                                                        "optionID",
+                                                        "title"
+                                                    ]
+                                                }
+                                            },
+                                            "defaultSortOptionID": {
+                                                "type": "integer"
+                                            },
+                                            "iconURL": {
+                                                "type": "string"
+                                            },
+                                            "defaultImageURL": {
+                                                "type": "string"
+                                            },
+                                            "defaultThumbnailURL": {
+                                                "type": "string"
+                                            },
+                                            "optionalDistrictSelection": {
+                                                "type": "boolean"
+                                            },
+                                            "hasImageFilter": {
+                                                "type": "boolean"
+                                            },
+                                            "placeholders": {
+                                                "type": "null"
+                                            }
+                                        },
+                                        "required": [
+                                            "attributes",
+                                            "categoryID",
+                                            "categoryTitle",
+                                            "children",
+                                            "defaultImageURL",
+                                            "defaultSortOptionID",
+                                            "defaultThumbnailURL",
+                                            "excludedAttributes",
+                                            "hasImageFilter",
+                                            "iconURL",
+                                            "optionalDistrictSelection",
+                                            "placeholders",
+                                            "sortOptions",
+                                            "topCategory"
+                                        ]
+                                    }
+                                }
+                            },
+                            "required": [
+                                "attributes",
+                                "categoryID",
+                                "categoryTitle",
+                                "children",
+                                "defaultImageURL",
+                                "defaultSortOptionID",
+                                "defaultThumbnailURL",
+                                "excludedAttributes",
+                                "hasImageFilter",
+                                "iconURL",
+                                "optionalDistrictSelection",
+                                "placeholders",
+                                "sortOptions",
+                                "topCategory"
+                            ]
+                        }
+                    },
+                    "sortOptions": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "optionID": {
+                                    "type": "integer"
+                                },
+                                "title": {
+                                    "type": "string"
+                                }
+                            },
+                            "required": [
+                                "optionID",
+                                "title"
+                            ]
+                        }
+                    },
+                    "defaultSortOptionID": {
+                        "type": "integer"
+                    },
+                    "iconURL": {
+                        "type": "string"
+                    },
+                    "defaultImageURL": {
+                        "type": "string"
+                    },
+                    "defaultThumbnailURL": {
+                        "type": "string"
+                    },
+                    "optionalDistrictSelection": {
+                        "type": "boolean"
+                    },
+                    "hasImageFilter": {
+                        "type": "boolean"
+                    },
+                    "placeholders": {
+                        "anyOf": [
+                            {
+                                "type": "null"
+                            },
+                            {
+                                "type": "object",
+                                "properties": {
+                                    "title": {
+                                        "type": "string"
+                                    },
+                                    "description": {
+                                        "type": "string"
+                                    }
+                                },
+                                "required": [
+                                    "description",
+                                    "title"
+                                ]
+                            }
+                        ]
+                    },
+                    "brands": {
+                        "type": "array"
+                    }
+                },
+                "required": [
+                    "attributes",
+                    "brands",
+                    "categoryID",
+                    "categoryTitle",
+                    "children",
+                    "defaultImageURL",
+                    "defaultSortOptionID",
+                    "defaultThumbnailURL",
+                    "excludedAttributes",
+                    "hasImageFilter",
+                    "iconURL",
+                    "optionalDistrictSelection",
+                    "placeholders",
+                    "sortOptions",
+                    "topCategory"
+                ]
+            }
+        }
+    }
+}

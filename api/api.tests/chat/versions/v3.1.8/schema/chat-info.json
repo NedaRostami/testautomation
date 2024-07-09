@@ -1,0 +1,37 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "listingID": {
+                    "type": "integer",
+                    "default": 220085207
+                },
+                "title": {
+                    "type": "string",
+                    "default": "موبایل اورجینال invens مدل v12"
+                },
+                "image": {
+                    "type": "string",
+                    "default": "https://staging.mielse.com/imgs/2019/10/06/220085207/133x133_af/220085207_9c53a4bae5460cd200aa9d2f691d61c2.webp"
+                },
+                "priceString": {
+                    "type": "string",
+                    "default": "قیمت توافقی"
+                },
+                "userId": {
+                    "type": "integer",
+                    "default": 28586053
+                }
+            },
+            "required": [
+                "image",
+                "listingID",
+                "priceString",
+                "title",
+                "userId"
+            ]
+        }
+    }
+}

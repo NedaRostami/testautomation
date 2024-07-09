@@ -1,0 +1,238 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "listingID": {
+                    "type": "string"
+                },
+                "title": {
+                    "type": "string"
+                },
+                "location": {
+                    "type": "object",
+                    "properties": {
+                        "region": {
+                            "type": "string"
+                        },
+                        "city": {
+                            "type": "string"
+                        },
+                        "neighbourhood": {
+                            "type": ["string", "null"]
+                        }
+                    },
+                    "required": [
+                        "city",
+                        "neighbourhood",
+                        "region"
+                    ]
+                },
+                "priceString": {
+                    "type": "string"
+                },
+                "sortInfo": {
+                    "type": "string"
+                },
+                "contactInfo": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "priceTag": {
+                    "type": ["array", "null"]
+                },
+                "description": {
+                    "type": "string"
+                },
+                "images": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "thumbnailURL": {
+                                "type": "string"
+                            },
+                            "fullSizeURL": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "fullSizeURL",
+                            "thumbnailURL"
+                        ]
+                    }
+                },
+                "category": {
+                    "type": "object",
+                    "properties": {
+                        "c1": {
+                            "type": "string"
+                        },
+                        "c2": {
+                            "type": "string"
+                        },
+                        "c3": {
+                            "type": ["string", "null"]
+                        },
+                        "categoryID": {
+                            "type": "integer"
+                        }
+                    },
+                    "required": [
+                        "c1",
+                        "c2",
+                        "c3",
+                        "categoryID"
+                    ]
+                },
+                "attributes": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "attributeTitle": {
+                                "type": "string"
+                            },
+                            "attributeValue": {
+                                "type": "string"
+                            },
+                            "attributeLocalyticsKey": {
+                                "type": "string"
+                            },
+                            "attributeGroupId": {
+                                "type": "integer"
+                            },
+                            "attributeStyleId": {
+                                "type": "integer"
+                            }
+                        },
+                        "required": [
+                            "attributeGroupId",
+                            "attributeLocalyticsKey",
+                            "attributeStyleId",
+                            "attributeTitle",
+                            "attributeValue"
+                        ]
+                    }
+                },
+                "userType": {
+                    "type": "integer"
+                },
+                "ownerID": {
+                    "type": "integer"
+                },
+                "shouldShowContact": {
+                    "type": "boolean"
+                },
+                "phoneNumberIsVerified": {
+                    "type": "boolean"
+                },
+                "hiddenPhoneNumber": {
+                    "type": "string"
+                },
+                "isChatEnabled": {
+                    "type": "boolean"
+                },
+                "separatorMessage": {
+                    "type": ["string", "null"]
+                },
+                "type": {
+                    "type": "string"
+                },
+                "shopLogo": {
+                    "type": ["string", "null"]
+                },
+                "isSpecial": {
+                    "type": "integer"
+                },
+                "isSpecialInHome": {
+                    "type": "integer"
+                },
+                "shopInfo": {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "registeredFrom": {
+                            "type": "string"
+                        },
+                        "phoneVerified": {
+                            "type": "boolean"
+                        },
+                        "image": {
+                            "type": "string"
+                        },
+                        "shopProfileId": {
+                            "type": "string"
+                        }
+                    },
+                    "required": [
+                        "image",
+                        "name",
+                        "phoneVerified",
+                        "registeredFrom",
+                        "shopProfileId"
+                    ]
+                },
+                "userInfo": {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "registeredFrom": {
+                            "type": "string"
+                        },
+                        "phoneVerified": {
+                            "type": "boolean"
+                        },
+                        "image": {
+                            "type": ["string", "null"]
+                        },
+                        "userId": {
+                            "type": "integer"
+                        }
+                    },
+                    "required": [
+                        "image",
+                        "name",
+                        "phoneVerified",
+                        "registeredFrom",
+                        "userId"
+                    ]
+                },
+                "paidFeature": {
+                    "type": "array"
+                }
+            },
+            "required": [
+                "attributes",
+                "category",
+                "contactInfo",
+                "description",
+                "hiddenPhoneNumber",
+                "images",
+                "isChatEnabled",
+                "isSpecial",
+                "isSpecialInHome",
+                "listingID",
+                "location",
+                "ownerID",
+                "phoneNumberIsVerified",
+                "priceString",
+                "priceTag",
+                "separatorMessage",
+                "shopLogo",
+                "shouldShowContact",
+                "sortInfo",
+                "title",
+                "type",
+                "userType"
+            ]
+        }
+    }
+}
