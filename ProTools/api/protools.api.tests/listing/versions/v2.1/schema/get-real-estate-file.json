@@ -1,0 +1,25 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "total": {
+                    "type": "string",
+                },
+                "skipped": {
+                    "type": "integer",
+                },
+                "size": {
+                    "type": "integer",
+                },
+                "continuation": {
+                    "type": "string",
+                },
+                "items": {
+                    "type": "array",
+                }
+            },
+        }
+    }
+}

@@ -1,0 +1,12 @@
+Home_SP_Banner = "id:serp-secure-purchase-section"
+Home_SP_Banner_Txt = "خرید امن"
+Home_Ad_In_SP_Banner = "xpath://*[@id='serp-secure-purchase-section']//*[@id='listing-{}']"
+Home_All_Category = "xpath://*[@id='advanced-search']//*[contains(@class,'form-select') and contains(@class,'category')]"
+Home_Search_Input = "name:q"
+Home_Search_Btn = "css:button.icon-search"
+
+Home_Post_Listing_Btn = "ثبت آگهی رایگان"
+Home_All_Category_Txt = "همه گروه‌ها"
+Home_Vitrin_Txt = "ویترین"
+Home_Listing_Title = "//*[@*]/div[2]/h2/a"
+Home_Category_Content = "xpath=//*/div[2]/div/span"

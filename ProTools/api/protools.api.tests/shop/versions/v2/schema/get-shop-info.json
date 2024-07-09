@@ -1,0 +1,77 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "title": {
+                    "type": "string",
+                },
+                "slug": {
+                    "type": "string",
+                },
+                "slogan": {
+                    "type": "string",
+                },
+                "about": {
+                    "type": "string",
+                },
+                "image": {
+                    "type": "string",
+                },
+                "cover": {
+                    "type": "string",
+                },
+                "working_time": {
+                    "type": "string",
+                },
+                "email": {
+                    "type": "string",
+                },
+                "website": {
+                    "type": "string",
+                },
+                "address": {
+                    "type": "string",
+                },
+                "telephones": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    },
+                },
+                "latitude": {
+                    "type": "string",
+                },
+                "longitude": {
+                    "type": "string",
+                },
+                "has_special_items": {
+                    "type": "boolean",
+                }
+            },
+            "required": [
+                "about",
+                "address",
+                "cover",
+                "email",
+                "has_special_items",
+                "image",
+                "latitude",
+                "longitude",
+                "slogan",
+                "slug",
+                "telephones",
+                "title",
+                "website",
+                "working_time"
+            ]
+        },
+        "status": {
+            "type": "integer",
+            "enum": [
+                200
+            ]
+        }
+    }
+}

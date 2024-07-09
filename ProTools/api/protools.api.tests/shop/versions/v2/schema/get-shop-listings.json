@@ -1,0 +1,153 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "total": {
+                    "type": "integer",
+                    "default": 1
+                },
+                "skipped": {
+                    "type": "integer",
+                    "default": 0
+                },
+                "size": {
+                    "type": "integer",
+                    "default": 24
+                },
+                "continuation": {
+                    "type": "string",
+                    "default": "eyJwYWdlIjoyfQ=="
+                },
+                "items": {
+                    "type": "array",
+                    "items": [
+                        {
+                            "type": "object",
+                            "properties": {
+                                "human_readable_id": {
+                                    "type": "string"
+                                },
+                                "title": {
+                                    "type": "string",
+                                    "enum": [
+                                        "فروش دامداری و کشاورزی 971 متر در لالی"
+                                    ]
+                                },
+                                "created_at": {
+                                    "type": "integer"
+                                },
+                                "status": {
+                                    "type": "object",
+                                    "properties": {
+                                        "title": {
+                                            "type": "string"
+                                        },
+                                        "slug": {
+                                            "type": "string"
+                                        },
+                                        "color": {
+                                            "type": "integer"
+                                        }
+                                    },
+                                    "required": [
+                                        "color",
+                                        "slug",
+                                        "title"
+                                    ]
+                                },
+                                "refreshed_at": {
+                                    "type": "integer"
+                                },
+                                "flags": {
+                                    "type": "array"
+                                },
+                                "image": {
+                                    "type": "string"
+                                },
+                                "prices": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "object",
+                                        "properties": {
+                                            "title": {
+                                                "type": "string"
+                                            },
+                                            "slug": {
+                                                "type": "string"
+                                            },
+                                            "value": {
+                                                "type": "string"
+                                            },
+                                            "unit": {
+                                                "type": "string"
+                                            }
+                                        },
+                                        "required": [
+                                            "slug",
+                                            "title",
+                                            "unit",
+                                            "value"
+                                        ]
+                                    }
+                                },
+                                "checksum": {
+                                    "type": "string"
+                                }
+                            },
+                            "required": [
+                                "checksum",
+                                "created_at",
+                                "flags",
+                                "human_readable_id",
+                                "image",
+                                "prices",
+                                "refreshed_at",
+                                "status",
+                                "title"
+                            ]
+                        }
+                    ],
+                    "default": [
+                        {
+                            "human_readable_id": "250498637",
+                            "title": "فروش دامداری و کشاورزی 971 متر در لالی",
+                            "created_at": 1579497668000,
+                            "status": {
+                                "title": "پذیرفته شد",
+                                "slug": "published",
+                                "color": 3
+                            },
+                            "refreshed_at": 1579510269000,
+                            "flags": [],
+                            "image": "https://staging.mielse.com/imgs/2020/01/20/250498637/800x800_S/250498637_89292c0ba70b0f150f9cc0be9187b61f.jpg",
+                            "prices": [
+                                {
+                                    "title": "قیمت",
+                                    "slug": "price",
+                                    "value": "۹۱۶,۰۰۰,۰۰۰",
+                                    "unit": "تومان"
+                                }
+                            ],
+                            "checksum": "ef4895ae0d45831260736c56209111e5"
+                        }
+                    ]
+                }
+            },
+            "required": [
+                "continuation",
+                "items",
+                "size",
+                "skipped",
+                "total"
+            ]
+        },
+        "status": {
+            "type": "integer",
+            "enum": [
+                200
+            ]
+        }
+    }
+}

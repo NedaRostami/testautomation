@@ -1,0 +1,14 @@
+-v deviceName:emulator-5554
+-v platformName:Android
+-v android_version:9.0
+-v platform:ANDROID
+-v avdName:Android Emulator
+-v TestType:Alounak App
+-v general_api_version:6.4.0
+-v protools_version:1
+-v REMOTE_TEST:Local
+-v APK_PATH:app-estate-debug.apk
+-L trace
+-P ./auto-tests:./auto-tests/lib/
+-d Reports/alounak
+--skiponfailure    noncritical

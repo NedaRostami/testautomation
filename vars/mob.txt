@@ -1,0 +1,6 @@
+-v deviceName:samsung_galaxy_s10_e_8.1
+-v android_version:8.1
+-v browserName:chrome
+-v appPackage:com.android.chrome
+-v appActivity:com.google.android.apps.chrome.Main
+-v TestType:Mobile Site

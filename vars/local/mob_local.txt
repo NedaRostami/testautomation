@@ -1,0 +1,5 @@
+-v deviceName:emulator-5554
+-v version:6.0
+-v browserName:browser
+-v appPackage:com.android.chrome
+-v appActivity:com.google.android.apps.chrome.Main

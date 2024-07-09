@@ -1,0 +1,3 @@
+-v version:10.3
+-v deviceName:iPhone 7 Simulator
+-v TestType:iOS App

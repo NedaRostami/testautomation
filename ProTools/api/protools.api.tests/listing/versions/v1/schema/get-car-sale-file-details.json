@@ -1,0 +1,124 @@
+{
+    "type": "object",
+    "properties": {
+        "human_readable_id": {
+            "type": "string",
+        },
+        "title": {
+            "type": "string",
+        },
+        "created_at": {
+            "type": "integer",
+        },
+        "status": {
+            "type": "object",
+            "properties": {
+                "title": {
+                    "type": "string",
+                },
+                "slug": {
+                    "type": "string",
+                },
+                "color": {
+                    "type": "integer",
+                }
+            },
+            "required": [
+                "color",
+                "slug",
+                "title"
+            ]
+        },
+        "refreshed_at": {
+            "type": "integer",
+        },
+        "flags": {
+            "type": "array",
+        },
+        "prices": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "title": {
+                        "type": "string"
+                    },
+                    "slug": {
+                        "type": "string"
+                    },
+                    "value": {
+                        "type": "string"
+                    },
+                    "unit": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "slug",
+                    "title",
+                    "unit",
+                    "value"
+                ]
+            },
+        },
+        "checksum": {
+            "type": "string",
+        },
+        "attributes": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "title": {
+                        "type": "string"
+                    },
+                    "slug": {
+                        "type": "string"
+                    },
+                    "value": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "slug",
+                    "title",
+                    "value"
+                ]
+            },
+        },
+        "extra_attributes": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "title": {
+                        "type": "string"
+                    },
+                    "slug": {
+                        "type": "string"
+                    },
+                    "value": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "slug",
+                    "title",
+                    "value"
+                ]
+            },
+        }
+    },
+    "required": [
+        "attributes",
+        "checksum",
+        "created_at",
+        "extra_attributes",
+        "flags",
+        "human_readable_id",
+        "prices",
+        "refreshed_at",
+        "status",
+        "title"
+    ]
+}

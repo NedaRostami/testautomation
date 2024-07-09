@@ -1,0 +1,6 @@
+-v platform:LINUX
+-v platformName:LINUX
+-v TestType:Api
+--processes  100
+-d Reports/api
+./api/api.tests

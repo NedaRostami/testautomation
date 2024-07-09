@@ -1,0 +1,52 @@
+{
+    "type": "object",
+    "properties": {
+        "groups": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "title": {
+                        "type": "string"
+                    },
+                    "slug": {
+                        "type": "string"
+                    },
+                    "members": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "human_readable_id": {
+                                    "type": "string"
+                                },
+                                "cellphone": {
+                                    "type": "string"
+                                },
+                                "accepted": {
+                                    "type": "boolean"
+                                },
+                                "full_name": {
+                                    "type": "string"
+                                }
+                            },
+                            "required": [
+                                "accepted",
+                                "cellphone",
+                                "human_readable_id"
+                            ]
+                        }
+                    }
+                },
+                "required": [
+                    "members",
+                    "slug",
+                    "title"
+                ]
+            },
+        }
+    },
+    "required": [
+        "groups"
+    ]
+}

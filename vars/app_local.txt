@@ -1,0 +1,8 @@
+-v deviceName:emulator-5554
+-v platformName:Android
+-v android_version:8.1
+-v platform:ANDROID
+-v avdName:samsung_galaxy_s10_e_8.1
+-v TestType:Android App
+-v APPIUM_LOCAL:http://127.0.0.1:4723/wd/hub
+-v APK_PATH:Sheypoor-PlayStoreDebug.apk

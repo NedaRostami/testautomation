@@ -1,0 +1,17 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "human_readable_id": {
+                    "type": "string",
+                },
+                "message": {
+                    "type": "string",
+                    "default": "مخاطب با موفقیت ذخیره شد"
+                }
+            },
+        }
+    }
+}

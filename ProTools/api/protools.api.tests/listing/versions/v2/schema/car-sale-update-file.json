@@ -1,0 +1,16 @@
+{
+    "type": "object",
+    "properties": {
+        "human_readable_id": {
+            "type": "string",
+        },
+        "message": {
+            "type": "string",
+            "default": "آگهی با موفقیت ثبت شد."
+        }
+    },
+    "required": [
+        "human_readable_id",
+        "message"
+    ]
+}

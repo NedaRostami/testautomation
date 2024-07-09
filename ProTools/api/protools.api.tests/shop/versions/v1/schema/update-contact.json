@@ -1,0 +1,99 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "title": {
+                    "type": "string",
+                },
+                "slug": {
+                    "type": "string",
+                },
+                "slogan": {
+                    "type": "string",
+                },
+                "about": {
+                    "type": "string",
+                },
+                "image": {
+                    "type": "string",
+                },
+                "cover": {
+                    "type": "string",
+                },
+                "working_time": {
+                    "type": "string",
+                },
+                "email": {
+                    "type": "string",
+                    "enum": [
+                        "test@protools.com"
+                    ]
+                },
+                "website": {
+                    "type": "string",
+                },
+                "address": {
+                    "type": "string",
+                },
+                "telephones": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    },
+                },
+                "social_networks": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "type": {
+                                "type": "string"
+                            },
+                            "url": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "type",
+                            "url"
+                        ]
+                    },
+                },
+                "latitude": {
+                    "type": "string",
+                },
+                "longitude": {
+                    "type": "string",
+                },
+                "has_special_items": {
+                    "type": "boolean",
+                }
+            },
+            "required": [
+                "about",
+                "address",
+                "cover",
+                "email",
+                "has_special_items",
+                "image",
+                "latitude",
+                "longitude",
+                "slogan",
+                "slug",
+                "social_networks",
+                "telephones",
+                "title",
+                "website",
+                "working_time"
+            ]
+        },
+        "status": {
+            "type": "integer",
+            "enum": [
+                200
+            ]
+        }
+    }
+}

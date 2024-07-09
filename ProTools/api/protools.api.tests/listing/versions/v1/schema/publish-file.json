@@ -1,0 +1,11 @@
+{
+    "type": "object",
+    "properties": {
+        "human_readable_id": {
+            "type": "string",
+        }
+    },
+    "required": [
+        "human_readable_id",
+    ]
+}

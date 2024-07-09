@@ -1,0 +1,6 @@
+-v deviceName:emulator-5554
+-v platformName:Android
+-v version:9
+-v platform:ANDROID
+-v avdName2:samsung_galaxy_s6_8.1
+-v avdName:Pixel_2_API_28

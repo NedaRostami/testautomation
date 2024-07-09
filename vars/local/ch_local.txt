@@ -1,0 +1,12 @@
+-v platform:WINDOWS
+-v platformName:WINDOWS
+-v browserName:chrome
+-v browser_version:66
+-d D\Documents\QA\reports\Grid\web
+-P auto-tests/lib/
+-v REMOTE_TEST:Local
+-v HEADLESS:False
+-v RecordV:False
+-v trumpet_prenv_id:staging
+-v SuiteDir:D:/Documents/QA/auto-tests
+#OBOT_OPTIONS "-P D:/Documents/QA/auto-tests/lib/ -d D:\Documents\QA\reports\Grid\web -v REMOTE_TEST:Local -v HEADLESS:False -v RecordV:False -v trumpet_prenv_id:staging"

@@ -1,0 +1,1 @@
+from .postlisting import PostListing

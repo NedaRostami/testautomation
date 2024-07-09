@@ -1,0 +1,87 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "groups": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "title": {
+                                "type": "string"
+                            },
+                            "inline": {
+                                "type": "boolean"
+                            },
+                            "components": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "properties": {
+                                        "type": {
+                                            "type": "string"
+                                        },
+                                        "name": {
+                                            "type": "string"
+                                        },
+                                        "title": {
+                                            "type": "string"
+                                        },
+                                        "mandatory": {
+                                            "type": "boolean"
+                                        },
+                                        "localytics_key": {
+                                            "type": "string"
+                                        },
+                                        "values": {
+                                            "type": "array",
+                                            "items": {
+                                                "type": "object",
+                                                "properties": {
+                                                    "slug": {
+                                                        "type": "string"
+                                                    },
+                                                    "title": {
+                                                        "type": "string"
+                                                    }
+                                                },
+                                                "required": [
+                                                    "slug",
+                                                    "title"
+                                                ]
+                                            }
+                                        },
+                                        "thousand_separator": {
+                                            "type": "boolean"
+                                        },
+                                        "unit": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "required": [
+                                        "localytics_key",
+                                        "mandatory",
+                                        "name",
+                                        "title",
+                                        "type"
+                                    ]
+                                }
+                            },
+                            "is_notepad": {
+                                "type": "boolean"
+                            }
+                        },
+                        "required": [
+                            "components",
+                            "inline",
+                            "title"
+                        ]
+                    },
+                }
+            },
+
+        }
+    }
+}

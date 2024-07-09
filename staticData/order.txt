@@ -1,0 +1,28 @@
+--suite Seo.Tests.0000 Aaaa
+#WAIT
+{
+--suite Seo.Seo.Tests.Buisness.Buisness Services
+--suite Seo.Seo.Tests.General.Electronics
+--suite Seo.Seo.Tests.General.Home
+--suite Seo.Seo.Tests.General.Home Appliances
+--suite Seo.Seo.Tests.General.Locations
+--suite Seo.Seo.Tests.General.Personal Stuff
+--suite Seo.Seo.Tests.General.Post Listing
+--suite Seo.Seo.Tests.General.Shops
+--suite Seo.Seo.Tests.General.Sports Culture
+--suite Seo.Seo.Tests.Industrial.Industrial Commerical
+--suite Seo.Seo.Tests.Jobs.Jobs
+--suite Seo.Seo.Tests.Mobiles.Mobile Brands
+--suite Seo.Seo.Tests.Mobiles.Mobiles
+--suite Seo.Seo.Tests.Real Estates.Real Estates
+--suite Seo.Seo.Tests.Vehicles.Car
+--suite Seo.Seo.Tests.Vehicles.Car Agricultural
+--suite Seo.Seo.Tests.Vehicles.Car Brands
+--suite Seo.Seo.Tests.Vehicles.Car Calssic
+--suite Seo.Seo.Tests.Vehicles.Car Heavy
+--suite Seo.Seo.Tests.Vehicles.Car Models
+--suite Seo.Seo.Tests.Vehicles.Car With Filter
+--suite Seo.Seo.Tests.Vehicles.Motorcycle
+}
+#WAIT
+--suite Seo.Tests.9999 Zzzz

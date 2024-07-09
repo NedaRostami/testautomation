@@ -1,0 +1,8 @@
+--exitonerror
+--exitonfailure
+--outputdir  Reports
+--removekeywords  passed
+--nostatusrc
+--consolecolors  on
+--consolemarkers  on
+--pythonpath  auto-tests/lib/

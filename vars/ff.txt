@@ -1,0 +1,5 @@
+-v platform:LINUX
+-v NameOfBrowser:firefox
+-v platformName:LINUX
+-v browser_version:
+-v TestType:Desktop Firefox

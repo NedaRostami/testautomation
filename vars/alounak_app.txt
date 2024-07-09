@@ -1,0 +1,13 @@
+-v deviceName:emulator-5554
+-v platformName:Android
+-v android_version:8.1
+-v platform:ANDROID
+-v avdName:samsung_galaxy_s10_e_8.1
+-v TestType:Alounak App
+-v general_api_version:6.4.0
+-v protools_version:1
+-v REMOTE_TEST:Grid
+-L trace
+-P ./:./lib/
+-d Reports/alounak
+--skiponfailure    noncritical

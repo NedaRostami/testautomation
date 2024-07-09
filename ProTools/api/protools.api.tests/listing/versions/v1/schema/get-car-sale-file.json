@@ -1,0 +1,27 @@
+{
+    "type": "object",
+    "properties": {
+        "total": {
+            "type": "string",
+        },
+        "skipped": {
+            "type": "integer",
+        },
+        "size": {
+            "type": "integer",
+        },
+        "continuation": {
+            "type": "string",
+        },
+        "items": {
+            "type": "array",
+        }
+    },
+    "required": [
+        "continuation",
+        "items",
+        "size",
+        "skipped",
+        "total"
+    ]
+}

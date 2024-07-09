@@ -1,0 +1,25 @@
+{
+    "type": "object",
+    "properties": {
+        "body": {
+            "type": "object",
+            "properties": {
+                "cellphone": {
+                    "type": "string",
+                },
+                "full_name": {
+                    "type": "string",
+                },
+                "permissions": {
+                    "type": "array",
+                },
+                "files": {
+                    "type": "integer",
+                },
+                "advertised": {
+                    "type": "integer",
+                }
+            },
+        }
+    }
+}

@@ -1,0 +1,5 @@
+-v platform:LINUX
+-v platformName:LINUX
+-v NameOfBrowser:chrome
+-v browser_version:
+-v TestType:ProTools Desktop

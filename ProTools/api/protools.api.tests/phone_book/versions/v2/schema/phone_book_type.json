@@ -1,0 +1,18 @@
+{
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "slug": {
+                "type": "string"
+            },
+            "title": {
+                "type": "string"
+            }
+        },
+        "required": [
+            "slug",
+            "title"
+        ]
+    }
+}
